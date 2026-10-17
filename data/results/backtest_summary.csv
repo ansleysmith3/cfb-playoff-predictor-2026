@@ -1,0 +1,12 @@
+method,final_week_top12,final_week_top4,final_week_seed_err,all_weeks_top12
+ap_poll,11.62,3.75,0.55,11.49
+blend_last3,10.88,3.5,1.39,10.72
+logit_all_prior,10.88,3.5,1.31,10.98
+blend_all_prior,10.75,3.5,1.31,10.81
+logit_last3,10.75,3.12,1.41,10.81
+gbm_all_prior,10.62,3.0,1.47,10.74
+gbm_last3,10.5,2.75,1.71,10.64
+ridge_last3,10.38,3.38,1.46,9.87
+ridge_all_prior,10.38,3.5,1.51,9.85
+record_then_sos,9.62,3.0,1.88,9.55
+elo_only,9.0,2.5,2.23,8.85

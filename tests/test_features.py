@@ -9,7 +9,7 @@ YEARS = sorted(int(f.stem.split("_")[-1]) for f in FEATURE_DIR.glob("features_*.
 
 def make_team_games(rows: list[dict]) -> pd.DataFrame:
     base = {
-        "week": 1, "start_date": "2026-09-05T23:00:00.000Z", "team": "Alpha",
+        "week": 1, "opponent": "Opp", "opponent_conference": "Z", "conference_game": False, "start_date": "2026-09-05T23:00:00.000Z", "team": "Alpha",
         "team_conference": "X", "opponent_is_fbs": True, "result": 1, "margin": 10.0,
         "team_pregame_elo": 1500.0, "team_postgame_elo": 1510.0, "opponent_pregame_elo": 1400.0,
     }
@@ -93,3 +93,27 @@ def test_committee_labels_are_complete(features, season):
 def test_committee_ranks_are_unique_within_a_week(features):
     labeled = features.dropna(subset=["committee_rank"])
     assert not labeled.duplicated(["ranking_week", "committee_rank"]).any()
+
+
+# ---------- conference champion detection ----------
+
+KNOWN_CHAMPIONS = {  # final-week champions, checked against real results
+    2023: {"ACC": "Florida State", "Big 12": "Texas", "Big Ten": "Michigan", "SEC": "Alabama", "Pac-12": "Washington"},
+    2024: {"ACC": "Clemson", "Big 12": "Arizona State", "Big Ten": "Oregon", "SEC": "Georgia", "American Athletic": "Army"},
+    2025: {"ACC": "Duke", "Big 12": "Texas Tech", "Big Ten": "Indiana", "SEC": "Georgia",
+           "American Athletic": "Tulane", "Sun Belt": "James Madison"},
+}
+
+
+@pytest.mark.parametrize("year", sorted(KNOWN_CHAMPIONS))
+def test_known_conference_champions_are_detected(year):
+    f = pd.read_csv(FEATURE_DIR / f"features_{year}.csv")
+    f = f[f["ranking_week"] == f["ranking_week"].max()]
+    champs = f[f["conf_champion"] == 1].set_index("conference")["team"].to_dict()
+    for conf, team in KNOWN_CHAMPIONS[year].items():
+        assert champs.get(conf) == team, f"{year} {conf}: got {champs.get(conf)}, expected {team}"
+
+
+def test_at_most_one_champion_per_conference(features):
+    champs = features[features["conf_champion"] == 1]
+    assert not champs.duplicated(["ranking_week", "conference"]).any()
