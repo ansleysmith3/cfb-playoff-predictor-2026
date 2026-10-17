@@ -1,0 +1,42 @@
+name: Refresh data
+
+on:
+  schedule:
+    # Tuesdays 12:00 UTC: weekend games are final and the new polls are out
+    - cron: "0 12 * * 2"
+  workflow_dispatch:  # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write  # needed so the job can commit refreshed data
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Ingest from CFBD
+        env:
+          CFBD_API_KEY: ${{ secrets.CFBD_API_KEY }}
+        run: python -m src.ingest
+
+      - name: Clean raw data
+        run: python -m src.clean
+
+      - name: Validate (pipeline stops here if data is bad)
+        run: python -m pytest -q
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Refresh data $(date -u +%F)"
+          git push

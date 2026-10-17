@@ -1,0 +1,13 @@
+# Secrets - never commit your API key
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Editor / R leftovers
+.Rhistory
+.Rproj.user/
+.ipynb_checkpoints/
