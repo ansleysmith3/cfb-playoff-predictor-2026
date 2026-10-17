@@ -8,6 +8,29 @@ data can do, not for betting.
 CollegeFootballData API, cleans and validates them, rebuilds each team's résumé, and predicts the
 committee's playoff field, applying the actual selection rules.
 
+## Current prediction
+
+<!-- PREDICTION:START -->
+*Updated 2026-10-17 · ranking week 8 · champions are projected from current standings until title games are played.*
+
+| Seed | Team | Conference | Record | Why they're in |
+|---:|---|---|---|---|
+| 1 | Indiana | Big Ten | 6-0 | Big Ten champion |
+| 2 | Georgia | SEC | 6-0 | SEC champion |
+| 3 | Alabama | SEC | 5-1 | at-large |
+| 4 | Utah | Big 12 | 5-0 | Big 12 champion |
+| 5 | Texas | SEC | 4-1 | at-large |
+| 6 | Ohio State | Big Ten | 5-1 | at-large |
+| 7 | USC | Big Ten | 6-1 | at-large |
+| 8 | Miami | ACC | 5-0 | ACC champion |
+| 9 | Notre Dame | FBS Independents | 6-0 | Notre Dame (ranked top 12) |
+| 10 | Iowa | Big Ten | 5-1 | at-large |
+| 11 | UCLA | Big Ten | 5-0 | at-large |
+| 12 | James Madison | Sun Belt | 6-0 | highest-ranked other champion |
+
+Seeds 1–4 get first-round byes. 2026 seeding is assumed to follow the ranking (see Limitations).
+<!-- PREDICTION:END -->
+
 ## Pipeline
 
 ```

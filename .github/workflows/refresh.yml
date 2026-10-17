@@ -36,6 +36,9 @@ jobs:
       - name: Predict playoff field
         run: python -m src.model predict
 
+      - name: Update README with the latest prediction
+        run: python -m src.report
+
       - name: Validate (pipeline stops here if data is bad)
         run: python -m pytest -q
 
@@ -43,6 +46,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/ README.md
           git diff --staged --quiet || git commit -m "Refresh data $(date -u +%F)"
           git push
