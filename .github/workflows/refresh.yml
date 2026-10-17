@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write  # needed so the job can commit refreshed data
+  issues: write    # needed so the job can open an issue when something fails
 
 jobs:
   refresh:
@@ -49,3 +50,20 @@ jobs:
           git add data/ README.md
           git diff --staged --quiet || git commit -m "Refresh data $(date -u +%F)"
           git push
+
+      - name: Open an issue if anything above failed
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          gh label create pipeline-failure --color B60205 --description "Weekly refresh failed" || true
+          existing=$(gh issue list --label pipeline-failure --state open --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body "Failed again. Logs: $RUN_URL"
+          else
+            gh issue create --label pipeline-failure \
+              --title "Weekly data refresh failed" \
+              --body "The scheduled refresh failed, so predictions may be stale. Logs: $RUN_URL"
+          fi

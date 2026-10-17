@@ -1,0 +1,48 @@
+name: Check data freshness
+
+# The refresh workflow can fail LOUDLY (it opens an issue). This one catches the silent
+# case: the schedule never ran at all (GitHub skipped it, or paused it after 60 idle days).
+
+on:
+  schedule:
+    - cron: "0 14 * * *"  # daily, 14:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  freshness:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # need full history to see when README.md last changed
+
+      - name: Flag stale data during the season
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          MAX_AGE_DAYS: "9"
+        run: |
+          # Season runs August through January; stay quiet the rest of the year.
+          case "$(date -u +%m)" in
+            02|03|04|05|06|07) echo "Offseason, nothing to check."; exit 0 ;;
+          esac
+
+          # The weekly refresh rewrites the README's 'Updated' date, so README.md changes
+          # every successful run even in weeks with no new games.
+          last=$(git log -1 --format=%ct -- README.md)
+          age_days=$(( ( $(date +%s) - last ) / 86400 ))
+          echo "README last updated $age_days day(s) ago (limit $MAX_AGE_DAYS)."
+          [ "$age_days" -le "$MAX_AGE_DAYS" ] && exit 0
+
+          gh label create data-stale --color FBCA04 --description "Weekly refresh has not run" || true
+          existing=$(gh issue list --label data-stale --state open --json number --jq '.[0].number')
+          msg="The weekly refresh has not updated the repo in $age_days days. The schedule may have been skipped or paused (GitHub pauses scheduled workflows after 60 days without repo activity). Run it manually from the Actions tab."
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body "$msg"
+          else
+            gh issue create --label data-stale --title "Data is stale: weekly refresh has not run" --body "$msg"
+          fi
