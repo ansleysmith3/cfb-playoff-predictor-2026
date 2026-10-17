@@ -1,0 +1,1001 @@
+season,seasonType,week,poll,rank,school,conference,points
+2025,regular,1,AP Top 25,1,Texas,SEC,1552
+2025,postseason,1,AP Top 25,1,Indiana,Big Ten,1650
+2025,regular,1,AP Top 25,2,Penn State,Big Ten,1547
+2025,postseason,1,AP Top 25,2,Miami,ACC,1584
+2025,regular,1,AP Top 25,3,Ohio State,Big Ten,1472
+2025,postseason,1,AP Top 25,3,Ole Miss,SEC,1492
+2025,regular,1,AP Top 25,4,Clemson,ACC,1398
+2025,postseason,1,AP Top 25,4,Oregon,Big Ten,1429
+2025,regular,1,AP Top 25,5,Georgia,SEC,1331
+2025,postseason,1,AP Top 25,5,Ohio State,Big Ten,1378
+2025,regular,1,AP Top 25,6,Notre Dame,FBS Independents,1325
+2025,postseason,1,AP Top 25,6,Georgia,SEC,1364
+2025,regular,1,AP Top 25,7,Oregon,Big Ten,1236
+2025,postseason,1,AP Top 25,7,Texas Tech,Big 12,1232
+2025,regular,1,AP Top 25,8,Alabama,SEC,1179
+2025,postseason,1,AP Top 25,8,Texas A&M,SEC,1157
+2025,regular,1,AP Top 25,9,LSU,SEC,1174
+2025,postseason,1,AP Top 25,9,Alabama,SEC,1065
+2025,regular,1,AP Top 25,10,Miami,ACC,889
+2025,postseason,1,AP Top 25,10,Notre Dame,FBS Independents,1049
+2025,regular,1,AP Top 25,11,Arizona State,Big 12,791
+2025,postseason,1,AP Top 25,11,BYU,Big 12,961
+2025,regular,1,AP Top 25,12,Illinois,Big Ten,713
+2025,postseason,1,AP Top 25,12,Texas,SEC,952
+2025,regular,1,AP Top 25,13,South Carolina,SEC,667
+2025,postseason,1,AP Top 25,13,Oklahoma,SEC,941
+2025,regular,1,AP Top 25,14,Michigan,Big Ten,662
+2025,postseason,1,AP Top 25,14,Utah,Big 12,812
+2025,regular,1,AP Top 25,15,Florida,SEC,626
+2025,postseason,1,AP Top 25,15,Vanderbilt,SEC,623
+2025,regular,1,AP Top 25,16,SMU,ACC,565
+2025,postseason,1,AP Top 25,16,Virginia,ACC,603
+2025,regular,1,AP Top 25,17,Kansas State,Big 12,512
+2025,postseason,1,AP Top 25,17,Iowa,Big Ten,430
+2025,regular,1,AP Top 25,18,Oklahoma,SEC,463
+2025,postseason,1,AP Top 25,18,Tulane,American Athletic,404
+2025,regular,1,AP Top 25,19,Texas A&M,SEC,434
+2025,postseason,1,AP Top 25,19,James Madison,Sun Belt,399
+2025,regular,1,AP Top 25,20,Indiana,Big Ten,423
+2025,postseason,1,AP Top 25,20,USC,Big Ten,378
+2025,regular,1,AP Top 25,21,Ole Miss,SEC,370
+2025,postseason,1,AP Top 25,21,Michigan,Big Ten,276
+2025,regular,1,AP Top 25,22,Iowa State,Big 12,309
+2025,postseason,1,AP Top 25,22,Houston,Big 12,270
+2025,regular,1,AP Top 25,23,Texas Tech,Big 12,274
+2025,postseason,1,AP Top 25,23,Navy,American Athletic,227
+2025,regular,1,AP Top 25,24,Tennessee,SEC,192
+2025,postseason,1,AP Top 25,24,North Texas,American Athletic,191
+2025,regular,1,AP Top 25,25,Boise State,Mountain West,191
+2025,postseason,1,AP Top 25,25,TCU,Big 12,125
+2025,regular,2,AP Top 25,1,Ohio State,Big Ten,1636
+2025,regular,2,AP Top 25,2,Penn State,Big Ten,1558
+2025,regular,2,AP Top 25,3,LSU,SEC,1514
+2025,regular,2,AP Top 25,4,Georgia,SEC,1410
+2025,regular,2,AP Top 25,5,Miami,ACC,1360
+2025,regular,2,AP Top 25,6,Oregon,Big Ten,1302
+2025,regular,2,AP Top 25,7,Texas,SEC,1293
+2025,regular,2,AP Top 25,8,Clemson,ACC,1135
+2025,regular,2,AP Top 25,9,Notre Dame,FBS Independents,1068
+2025,regular,2,AP Top 25,10,South Carolina,SEC,882
+2025,regular,2,AP Top 25,11,Illinois,Big Ten,855
+2025,regular,2,AP Top 25,12,Arizona State,Big 12,850
+2025,regular,2,AP Top 25,13,Florida,SEC,737
+2025,regular,2,AP Top 25,14,Florida State,ACC,705
+2025,regular,2,AP Top 25,15,Michigan,Big Ten,686
+2025,regular,2,AP Top 25,16,Iowa State,Big 12,566
+2025,regular,2,AP Top 25,17,SMU,ACC,561
+2025,regular,2,AP Top 25,18,Oklahoma,SEC,519
+2025,regular,2,AP Top 25,19,Texas A&M,SEC,424
+2025,regular,2,AP Top 25,20,Ole Miss,SEC,393
+2025,regular,2,AP Top 25,21,Alabama,SEC,360
+2025,regular,2,AP Top 25,22,Tennessee,SEC,339
+2025,regular,2,AP Top 25,23,Indiana,Big Ten,257
+2025,regular,2,AP Top 25,24,Texas Tech,Big 12,247
+2025,regular,2,AP Top 25,25,Utah,Big 12,227
+2025,regular,3,AP Top 25,1,Ohio State,Big Ten,1614
+2025,regular,3,AP Top 25,2,Penn State,Big Ten,1524
+2025,regular,3,AP Top 25,3,LSU,SEC,1487
+2025,regular,3,AP Top 25,4,Oregon,Big Ten,1375
+2025,regular,3,AP Top 25,5,Miami,ACC,1360
+2025,regular,3,AP Top 25,6,Georgia,SEC,1350
+2025,regular,3,AP Top 25,7,Texas,SEC,1248
+2025,regular,3,AP Top 25,8,Notre Dame,FBS Independents,1086
+2025,regular,3,AP Top 25,9,Illinois,Big Ten,1001
+2025,regular,3,AP Top 25,10,Florida State,ACC,954
+2025,regular,3,AP Top 25,11,South Carolina,SEC,927
+2025,regular,3,AP Top 25,12,Clemson,ACC,894
+2025,regular,3,AP Top 25,13,Oklahoma,SEC,893
+2025,regular,3,AP Top 25,14,Iowa State,Big 12,794
+2025,regular,3,AP Top 25,15,Tennessee,SEC,537
+2025,regular,3,AP Top 25,16,Texas A&M,SEC,532
+2025,regular,3,AP Top 25,17,Ole Miss,SEC,518
+2025,regular,3,AP Top 25,18,South Florida,American Athletic,444
+2025,regular,3,AP Top 25,19,Alabama,SEC,396
+2025,regular,3,AP Top 25,20,Utah,Big 12,361
+2025,regular,3,AP Top 25,21,Texas Tech,Big 12,347
+2025,regular,3,AP Top 25,22,Indiana,Big Ten,331
+2025,regular,3,AP Top 25,23,Michigan,Big Ten,250
+2025,regular,3,AP Top 25,24,Auburn,SEC,172
+2025,regular,3,AP Top 25,25,Missouri,SEC,109
+2025,regular,4,AP Top 25,1,Ohio State,Big Ten,1631
+2025,regular,4,AP Top 25,2,Penn State,Big Ten,1490
+2025,regular,4,AP Top 25,3,LSU,SEC,1470
+2025,regular,4,AP Top 25,4,Miami,ACC,1434
+2025,regular,4,AP Top 25,5,Georgia,SEC,1428
+2025,regular,4,AP Top 25,6,Oregon,Big Ten,1423
+2025,regular,4,AP Top 25,7,Florida State,ACC,1123
+2025,regular,4,AP Top 25,8,Texas,SEC,1111
+2025,regular,4,AP Top 25,9,Illinois,Big Ten,1110
+2025,regular,4,AP Top 25,10,Texas A&M,SEC,1101
+2025,regular,4,AP Top 25,11,Oklahoma,SEC,1056
+2025,regular,4,AP Top 25,12,Iowa State,Big 12,820
+2025,regular,4,AP Top 25,13,Ole Miss,SEC,748
+2025,regular,4,AP Top 25,14,Alabama,SEC,599
+2025,regular,4,AP Top 25,15,Tennessee,SEC,583
+2025,regular,4,AP Top 25,16,Utah,Big 12,573
+2025,regular,4,AP Top 25,17,Texas Tech,Big 12,538
+2025,regular,4,AP Top 25,18,Georgia Tech,ACC,511
+2025,regular,4,AP Top 25,19,Indiana,Big Ten,458
+2025,regular,4,AP Top 25,20,Vanderbilt,SEC,397
+2025,regular,4,AP Top 25,21,Michigan,Big Ten,356
+2025,regular,4,AP Top 25,22,Auburn,SEC,344
+2025,regular,4,AP Top 25,23,Missouri,SEC,292
+2025,regular,4,AP Top 25,24,Notre Dame,FBS Independents,207
+2025,regular,4,AP Top 25,25,USC,Big Ten,105
+2025,regular,5,AP Top 25,1,Ohio State,Big Ten,1629
+2025,regular,5,AP Top 25,2,Miami,ACC,1479
+2025,regular,5,AP Top 25,3,Penn State,Big Ten,1460
+2025,regular,5,AP Top 25,4,LSU,SEC,1433
+2025,regular,5,AP Top 25,5,Georgia,SEC,1420
+2025,regular,5,AP Top 25,6,Oregon,Big Ten,1404
+2025,regular,5,AP Top 25,7,Oklahoma,SEC,1194
+2025,regular,5,AP Top 25,8,Florida State,ACC,1183
+2025,regular,5,AP Top 25,9,Texas A&M,SEC,1072
+2025,regular,5,AP Top 25,10,Texas,SEC,1057
+2025,regular,5,AP Top 25,11,Indiana,Big Ten,990
+2025,regular,5,AP Top 25,12,Texas Tech,Big 12,890
+2025,regular,5,AP Top 25,13,Ole Miss,SEC,843
+2025,regular,5,AP Top 25,14,Iowa State,Big 12,779
+2025,regular,5,AP Top 25,15,Tennessee,SEC,635
+2025,regular,5,AP Top 25,16,Georgia Tech,ACC,598
+2025,regular,5,AP Top 25,17,Alabama,SEC,595
+2025,regular,5,AP Top 25,18,Vanderbilt,SEC,546
+2025,regular,5,AP Top 25,19,Michigan,Big Ten,458
+2025,regular,5,AP Top 25,20,Missouri,SEC,452
+2025,regular,5,AP Top 25,21,USC,Big Ten,264
+2025,regular,5,AP Top 25,22,Notre Dame,FBS Independents,219
+2025,regular,5,AP Top 25,23,Illinois,Big Ten,145
+2025,regular,5,AP Top 25,24,TCU,Big 12,138
+2025,regular,5,AP Top 25,25,BYU,Big 12,131
+2025,regular,6,AP Top 25,1,Ohio State,Big Ten,1626
+2025,regular,6,AP Top 25,2,Oregon,Big Ten,1589
+2025,regular,6,AP Top 25,3,Miami,ACC,1529
+2025,regular,6,AP Top 25,4,Ole Miss,SEC,1354
+2025,regular,6,AP Top 25,5,Oklahoma,SEC,1313
+2025,regular,6,AP Top 25,6,Texas A&M,SEC,1308
+2025,regular,6,AP Top 25,7,Penn State,Big Ten,1179
+2025,regular,6,AP Top 25,8,Indiana,Big Ten,1156
+2025,regular,6,AP Top 25,9,Texas,SEC,1071
+2025,regular,6,AP Top 25,10,Alabama,SEC,1057
+2025,regular,6,AP Top 25,11,Texas Tech,Big 12,967
+2025,regular,6,AP Top 25,12,Georgia,SEC,965
+2025,regular,6,AP Top 25,13,LSU,SEC,838
+2025,regular,6,AP Top 25,14,Iowa State,Big 12,830
+2025,regular,6,AP Top 25,15,Tennessee,SEC,697
+2025,regular,6,AP Top 25,16,Vanderbilt,SEC,640
+2025,regular,6,AP Top 25,17,Georgia Tech,ACC,549
+2025,regular,6,AP Top 25,18,Florida State,ACC,535
+2025,regular,6,AP Top 25,19,Missouri,SEC,528
+2025,regular,6,AP Top 25,20,Michigan,Big Ten,422
+2025,regular,6,AP Top 25,21,Notre Dame,FBS Independents,333
+2025,regular,6,AP Top 25,22,Illinois,Big Ten,271
+2025,regular,6,AP Top 25,23,BYU,Big 12,191
+2025,regular,6,AP Top 25,24,Virginia,ACC,125
+2025,regular,6,AP Top 25,25,Arizona State,Big 12,107
+2025,regular,7,AP Top 25,1,Ohio State,Big Ten,1620
+2025,regular,7,AP Top 25,2,Miami,ACC,1579
+2025,regular,7,AP Top 25,3,Oregon,Big Ten,1542
+2025,regular,7,AP Top 25,4,Ole Miss,SEC,1376
+2025,regular,7,AP Top 25,5,Texas A&M,SEC,1361
+2025,regular,7,AP Top 25,6,Oklahoma,SEC,1346
+2025,regular,7,AP Top 25,7,Indiana,Big Ten,1213
+2025,regular,7,AP Top 25,8,Alabama,SEC,1202
+2025,regular,7,AP Top 25,9,Texas Tech,Big 12,1135
+2025,regular,7,AP Top 25,10,Georgia,SEC,1084
+2025,regular,7,AP Top 25,11,LSU,SEC,949
+2025,regular,7,AP Top 25,12,Tennessee,SEC,892
+2025,regular,7,AP Top 25,13,Georgia Tech,ACC,782
+2025,regular,7,AP Top 25,14,Missouri,SEC,775
+2025,regular,7,AP Top 25,15,Michigan,Big Ten,707
+2025,regular,7,AP Top 25,16,Notre Dame,FBS Independents,610
+2025,regular,7,AP Top 25,17,Illinois,Big Ten,522
+2025,regular,7,AP Top 25,18,BYU,Big 12,463
+2025,regular,7,AP Top 25,19,Virginia,ACC,452
+2025,regular,7,AP Top 25,20,Vanderbilt,SEC,407
+2025,regular,7,AP Top 25,21,Arizona State,Big 12,214
+2025,regular,7,AP Top 25,22,Iowa State,Big 12,165
+2025,regular,7,AP Top 25,23,Memphis,American Athletic,153
+2025,regular,7,AP Top 25,24,South Florida,American Athletic,150
+2025,regular,7,AP Top 25,25,Florida State,ACC,147
+2025,regular,8,AP Top 25,1,Ohio State,Big Ten,1631
+2025,regular,8,AP Top 25,2,Miami,ACC,1582
+2025,regular,8,AP Top 25,3,Indiana,Big Ten,1531
+2025,regular,8,AP Top 25,4,Texas A&M,SEC,1433
+2025,regular,8,AP Top 25,5,Ole Miss,SEC,1331
+2025,regular,8,AP Top 25,6,Alabama,SEC,1315
+2025,regular,8,AP Top 25,7,Texas Tech,Big 12,1266
+2025,regular,8,AP Top 25,8,Oregon,Big Ten,1175
+2025,regular,8,AP Top 25,9,Georgia,SEC,1148
+2025,regular,8,AP Top 25,10,LSU,SEC,1012
+2025,regular,8,AP Top 25,11,Tennessee,SEC,939
+2025,regular,8,AP Top 25,12,Georgia Tech,ACC,904
+2025,regular,8,AP Top 25,13,Notre Dame,FBS Independents,793
+2025,regular,8,AP Top 25,14,Oklahoma,SEC,786
+2025,regular,8,AP Top 25,15,BYU,Big 12,655
+2025,regular,8,AP Top 25,16,Missouri,SEC,649
+2025,regular,8,AP Top 25,17,Vanderbilt,SEC,547
+2025,regular,8,AP Top 25,18,Virginia,ACC,521
+2025,regular,8,AP Top 25,19,South Florida,American Athletic,398
+2025,regular,8,AP Top 25,20,USC,Big Ten,361
+2025,regular,8,AP Top 25,21,Texas,SEC,319
+2025,regular,8,AP Top 25,22,Memphis,American Athletic,285
+2025,regular,8,AP Top 25,23,Utah,Big 12,261
+2025,regular,8,AP Top 25,24,Cincinnati,Big 12,184
+2025,regular,8,AP Top 25,25,Nebraska,Big Ten,149
+2025,regular,9,AP Top 25,1,Ohio State,Big Ten,1643
+2025,regular,9,AP Top 25,2,Indiana,Big Ten,1583
+2025,regular,9,AP Top 25,3,Texas A&M,SEC,1499
+2025,regular,9,AP Top 25,4,Alabama,SEC,1463
+2025,regular,9,AP Top 25,5,Georgia,SEC,1360
+2025,regular,9,AP Top 25,6,Oregon,Big Ten,1317
+2025,regular,9,AP Top 25,7,Georgia Tech,ACC,1143
+2025,regular,9,AP Top 25,8,Ole Miss,SEC,1119
+2025,regular,9,AP Top 25,9,Miami,ACC,1073
+2025,regular,9,AP Top 25,10,Vanderbilt,SEC,1031
+2025,regular,9,AP Top 25,11,BYU,Big 12,975
+2025,regular,9,AP Top 25,12,Notre Dame,FBS Independents,964
+2025,regular,9,AP Top 25,13,Oklahoma,SEC,882
+2025,regular,9,AP Top 25,14,Texas Tech,Big 12,782
+2025,regular,9,AP Top 25,15,Missouri,SEC,748
+2025,regular,9,AP Top 25,16,Virginia,ACC,624
+2025,regular,9,AP Top 25,17,Tennessee,SEC,527
+2025,regular,9,AP Top 25,18,South Florida,American Athletic,501
+2025,regular,9,AP Top 25,19,Louisville,ACC,458
+2025,regular,9,AP Top 25,20,LSU,SEC,388
+2025,regular,9,AP Top 25,21,Cincinnati,Big 12,350
+2025,regular,9,AP Top 25,22,Texas,SEC,318
+2025,regular,9,AP Top 25,23,Illinois,Big Ten,168
+2025,regular,9,AP Top 25,24,Arizona State,Big 12,155
+2025,regular,9,AP Top 25,25,Michigan,Big Ten,123
+2025,regular,10,AP Top 25,1,Ohio State,Big Ten,1633
+2025,regular,10,AP Top 25,2,Indiana,Big Ten,1589
+2025,regular,10,AP Top 25,3,Texas A&M,SEC,1523
+2025,regular,10,AP Top 25,4,Alabama,SEC,1445
+2025,regular,10,AP Top 25,5,Georgia,SEC,1359
+2025,regular,10,AP Top 25,6,Oregon,Big Ten,1249
+2025,regular,10,AP Top 25,7,Ole Miss,SEC,1212
+2025,regular,10,AP Top 25,8,Georgia Tech,ACC,1172
+2025,regular,10,AP Top 25,9,Vanderbilt,SEC,1098
+2025,regular,10,AP Top 25,10,BYU,Big 12,1069
+2025,regular,10,AP Top 25,10,Miami,ACC,1069
+2025,regular,10,AP Top 25,12,Notre Dame,FBS Independents,944
+2025,regular,10,AP Top 25,13,Texas Tech,Big 12,876
+2025,regular,10,AP Top 25,14,Tennessee,SEC,684
+2025,regular,10,AP Top 25,15,Virginia,ACC,660
+2025,regular,10,AP Top 25,16,Louisville,ACC,647
+2025,regular,10,AP Top 25,17,Cincinnati,Big 12,609
+2025,regular,10,AP Top 25,18,Oklahoma,SEC,485
+2025,regular,10,AP Top 25,19,Missouri,SEC,447
+2025,regular,10,AP Top 25,20,Texas,SEC,371
+2025,regular,10,AP Top 25,21,Michigan,Big Ten,264
+2025,regular,10,AP Top 25,22,Houston,Big 12,256
+2025,regular,10,AP Top 25,23,USC,Big Ten,215
+2025,regular,10,AP Top 25,24,Utah,Big 12,162
+2025,regular,10,AP Top 25,25,Memphis,American Athletic,130
+2025,regular,11,AP Top 25,1,Ohio State,Big Ten,1633
+2025,regular,11,AP Top 25,2,Indiana,Big Ten,1591
+2025,regular,11,AP Top 25,3,Texas A&M,SEC,1523
+2025,regular,11,AP Top 25,4,Alabama,SEC,1447
+2025,regular,11,AP Top 25,5,Georgia,SEC,1364
+2025,regular,11,AP Top 25,6,Oregon,Big Ten,1293
+2025,regular,11,AP Top 25,7,Ole Miss,SEC,1263
+2025,regular,11,AP Top 25,8,BYU,Big 12,1207
+2025,regular,11,AP Top 25,9,Texas Tech,Big 12,1091
+2025,regular,11,AP Top 25,10,Notre Dame,FBS Independents,1071
+2025,regular,11,AP Top 25,11,Oklahoma,SEC,850
+2025,regular,11,AP Top 25,12,Virginia,ACC,838
+2025,regular,11,AP Top 25,13,Texas,SEC,835
+2025,regular,11,AP Top 25,14,Louisville,ACC,827
+2025,regular,11,AP Top 25,15,Vanderbilt,SEC,698
+2025,regular,11,AP Top 25,16,Georgia Tech,ACC,667
+2025,regular,11,AP Top 25,17,Utah,Big 12,560
+2025,regular,11,AP Top 25,18,Miami,ACC,558
+2025,regular,11,AP Top 25,19,Missouri,SEC,491
+2025,regular,11,AP Top 25,20,USC,Big Ten,453
+2025,regular,11,AP Top 25,21,Michigan,Big Ten,344
+2025,regular,11,AP Top 25,22,Memphis,American Athletic,224
+2025,regular,11,AP Top 25,23,Tennessee,SEC,171
+2025,regular,11,AP Top 25,24,Washington,Big Ten,110
+2025,regular,11,AP Top 25,25,Cincinnati,Big 12,77
+2025,regular,12,AP Top 25,1,Ohio State,Big Ten,1610
+2025,regular,12,AP Top 25,2,Indiana,Big Ten,1549
+2025,regular,12,AP Top 25,3,Texas A&M,SEC,1518
+2025,regular,12,AP Top 25,4,Alabama,SEC,1427
+2025,regular,12,AP Top 25,5,Georgia,SEC,1353
+2025,regular,12,AP Top 25,6,Ole Miss,SEC,1248
+2025,regular,12,AP Top 25,7,Oregon,Big Ten,1245
+2025,regular,12,AP Top 25,8,Texas Tech,Big 12,1211
+2025,regular,12,AP Top 25,9,Notre Dame,FBS Independents,1102
+2025,regular,12,AP Top 25,10,Texas,SEC,961
+2025,regular,12,AP Top 25,11,Oklahoma,SEC,928
+2025,regular,12,AP Top 25,12,BYU,Big 12,898
+2025,regular,12,AP Top 25,13,Vanderbilt,SEC,821
+2025,regular,12,AP Top 25,14,Georgia Tech,ACC,788
+2025,regular,12,AP Top 25,15,Utah,Big 12,695
+2025,regular,12,AP Top 25,16,Miami,ACC,683
+2025,regular,12,AP Top 25,17,USC,Big Ten,645
+2025,regular,12,AP Top 25,18,Michigan,Big Ten,498
+2025,regular,12,AP Top 25,19,Louisville,ACC,326
+2025,regular,12,AP Top 25,20,Virginia,ACC,313
+2025,regular,12,AP Top 25,21,Tennessee,SEC,276
+2025,regular,12,AP Top 25,22,Cincinnati,Big 12,224
+2025,regular,12,AP Top 25,23,Pittsburgh,ACC,201
+2025,regular,12,AP Top 25,24,James Madison,Sun Belt,167
+2025,regular,12,AP Top 25,25,South Florida,American Athletic,116
+2025,regular,13,AP Top 25,1,Ohio State,Big Ten,1639
+2025,regular,13,AP Top 25,2,Indiana,Big Ten,1588
+2025,regular,13,AP Top 25,3,Texas A&M,SEC,1520
+2025,regular,13,AP Top 25,4,Georgia,SEC,1447
+2025,regular,13,AP Top 25,5,Ole Miss,SEC,1331
+2025,regular,13,AP Top 25,6,Oregon,Big Ten,1299
+2025,regular,13,AP Top 25,6,Texas Tech,Big 12,1299
+2025,regular,13,AP Top 25,8,Oklahoma,SEC,1162
+2025,regular,13,AP Top 25,9,Notre Dame,FBS Independents,1130
+2025,regular,13,AP Top 25,10,Alabama,SEC,1062
+2025,regular,13,AP Top 25,11,BYU,Big 12,992
+2025,regular,13,AP Top 25,12,Vanderbilt,SEC,833
+2025,regular,13,AP Top 25,13,Utah,Big 12,795
+2025,regular,13,AP Top 25,14,Miami,ACC,773
+2025,regular,13,AP Top 25,15,Georgia Tech,ACC,768
+2025,regular,13,AP Top 25,16,USC,Big Ten,707
+2025,regular,13,AP Top 25,17,Texas,SEC,564
+2025,regular,13,AP Top 25,18,Michigan,Big Ten,547
+2025,regular,13,AP Top 25,19,Virginia,ACC,476
+2025,regular,13,AP Top 25,20,Tennessee,SEC,360
+2025,regular,13,AP Top 25,21,James Madison,Sun Belt,294
+2025,regular,13,AP Top 25,22,North Texas,American Athletic,186
+2025,regular,13,AP Top 25,23,Missouri,SEC,173
+2025,regular,13,AP Top 25,24,Tulane,American Athletic,167
+2025,regular,13,AP Top 25,25,Houston,Big 12,107
+2025,regular,14,AP Top 25,1,Ohio State,Big Ten,1640
+2025,regular,14,AP Top 25,2,Indiana,Big Ten,1587
+2025,regular,14,AP Top 25,3,Texas A&M,SEC,1522
+2025,regular,14,AP Top 25,4,Georgia,SEC,1444
+2025,regular,14,AP Top 25,5,Oregon,Big Ten,1326
+2025,regular,14,AP Top 25,6,Ole Miss,SEC,1320
+2025,regular,14,AP Top 25,7,Texas Tech,Big 12,1295
+2025,regular,14,AP Top 25,8,Oklahoma,SEC,1169
+2025,regular,14,AP Top 25,9,Notre Dame,FBS Independents,1117
+2025,regular,14,AP Top 25,10,Alabama,SEC,1056
+2025,regular,14,AP Top 25,11,BYU,Big 12,1014
+2025,regular,14,AP Top 25,12,Vanderbilt,SEC,876
+2025,regular,14,AP Top 25,13,Miami,ACC,849
+2025,regular,14,AP Top 25,14,Utah,Big 12,809
+2025,regular,14,AP Top 25,15,Michigan,Big Ten,664
+2025,regular,14,AP Top 25,16,Texas,SEC,646
+2025,regular,14,AP Top 25,17,Virginia,ACC,556
+2025,regular,14,AP Top 25,18,Tennessee,SEC,473
+2025,regular,14,AP Top 25,19,USC,Big Ten,464
+2025,regular,14,AP Top 25,20,James Madison,Sun Belt,331
+2025,regular,14,AP Top 25,21,North Texas,American Athletic,288
+2025,regular,14,AP Top 25,22,Tulane,American Athletic,255
+2025,regular,14,AP Top 25,23,Georgia Tech,ACC,228
+2025,regular,14,AP Top 25,24,Pittsburgh,ACC,174
+2025,regular,14,AP Top 25,25,SMU,ACC,121
+2025,regular,15,AP Top 25,1,Ohio State,Big Ten,1645
+2025,regular,15,AP Top 25,2,Indiana,Big Ten,1589
+2025,regular,15,AP Top 25,3,Georgia,SEC,1504
+2025,regular,15,AP Top 25,4,Oregon,Big Ten,1396
+2025,regular,15,AP Top 25,5,Texas Tech,Big 12,1366
+2025,regular,15,AP Top 25,6,Ole Miss,SEC,1350
+2025,regular,15,AP Top 25,7,Texas A&M,SEC,1282
+2025,regular,15,AP Top 25,8,Oklahoma,SEC,1140
+2025,regular,15,AP Top 25,9,Notre Dame,FBS Independents,1100
+2025,regular,15,AP Top 25,10,Alabama,SEC,1053
+2025,regular,15,AP Top 25,11,BYU,Big 12,982
+2025,regular,15,AP Top 25,12,Miami,ACC,898
+2025,regular,15,AP Top 25,13,Vanderbilt,SEC,871
+2025,regular,15,AP Top 25,14,Texas,SEC,861
+2025,regular,15,AP Top 25,15,Utah,Big 12,739
+2025,regular,15,AP Top 25,16,Virginia,ACC,637
+2025,regular,15,AP Top 25,17,USC,Big Ten,566
+2025,regular,15,AP Top 25,18,Michigan,Big Ten,441
+2025,regular,15,AP Top 25,19,James Madison,Sun Belt,417
+2025,regular,15,AP Top 25,20,North Texas,American Athletic,402
+2025,regular,15,AP Top 25,21,Tulane,American Athletic,373
+2025,regular,15,AP Top 25,22,Arizona,Big 12,257
+2025,regular,15,AP Top 25,23,Navy,American Athletic,146
+2025,regular,15,AP Top 25,24,Georgia Tech,ACC,90
+2025,regular,15,AP Top 25,25,Missouri,SEC,73
+2025,regular,16,AP Top 25,1,Indiana,Big Ten,1650
+2025,regular,16,AP Top 25,2,Georgia,SEC,1550
+2025,regular,16,AP Top 25,3,Ohio State,Big Ten,1538
+2025,regular,16,AP Top 25,4,Texas Tech,Big 12,1452
+2025,regular,16,AP Top 25,5,Oregon,Big Ten,1358
+2025,regular,16,AP Top 25,6,Ole Miss,SEC,1323
+2025,regular,16,AP Top 25,7,Texas A&M,SEC,1278
+2025,regular,16,AP Top 25,8,Oklahoma,SEC,1154
+2025,regular,16,AP Top 25,9,Notre Dame,FBS Independents,1094
+2025,regular,16,AP Top 25,10,Miami,ACC,1017
+2025,regular,16,AP Top 25,11,Alabama,SEC,973
+2025,regular,16,AP Top 25,12,BYU,Big 12,899
+2025,regular,16,AP Top 25,13,Vanderbilt,SEC,880
+2025,regular,16,AP Top 25,14,Texas,SEC,872
+2025,regular,16,AP Top 25,15,Utah,Big 12,748
+2025,regular,16,AP Top 25,16,USC,Big Ten,609
+2025,regular,16,AP Top 25,17,Tulane,American Athletic,521
+2025,regular,16,AP Top 25,18,Michigan,Big Ten,503
+2025,regular,16,AP Top 25,19,James Madison,Sun Belt,490
+2025,regular,16,AP Top 25,20,Virginia,ACC,323
+2025,regular,16,AP Top 25,21,Arizona,Big 12,322
+2025,regular,16,AP Top 25,22,Navy,American Athletic,173
+2025,regular,16,AP Top 25,23,North Texas,American Athletic,151
+2025,regular,16,AP Top 25,24,Georgia Tech,ACC,147
+2025,regular,16,AP Top 25,25,Missouri,SEC,92
+2025,regular,1,Coaches Poll,1,Texas,SEC,1606
+2025,postseason,1,Coaches Poll,1,Indiana,Big Ten,1550
+2025,regular,1,Coaches Poll,2,Ohio State,Big Ten,1565
+2025,postseason,1,Coaches Poll,2,Miami,ACC,1485
+2025,regular,1,Coaches Poll,3,Penn State,Big Ten,1525
+2025,postseason,1,Coaches Poll,3,Ole Miss,SEC,1400
+2025,regular,1,Coaches Poll,4,Georgia,SEC,1466
+2025,postseason,1,Coaches Poll,4,Oregon,Big Ten,1349
+2025,regular,1,Coaches Poll,5,Notre Dame,FBS Independents,1360
+2025,postseason,1,Coaches Poll,5,Georgia,SEC,1269
+2025,regular,1,Coaches Poll,6,Clemson,ACC,1324
+2025,postseason,1,Coaches Poll,6,Ohio State,Big Ten,1265
+2025,regular,1,Coaches Poll,7,Oregon,Big Ten,1307
+2025,postseason,1,Coaches Poll,7,Texas Tech,Big 12,1142
+2025,regular,1,Coaches Poll,8,Alabama,SEC,1210
+2025,postseason,1,Coaches Poll,8,Texas A&M,SEC,1091
+2025,regular,1,Coaches Poll,9,LSU,SEC,1056
+2025,postseason,1,Coaches Poll,9,Alabama,SEC,1050
+2025,regular,1,Coaches Poll,10,Miami,ACC,823
+2025,postseason,1,Coaches Poll,10,Oklahoma,SEC,946
+2025,regular,1,Coaches Poll,11,Arizona State,Big 12,806
+2025,postseason,1,Coaches Poll,11,Notre Dame,FBS Independents,901
+2025,regular,1,Coaches Poll,12,Illinois,Big Ten,734
+2025,postseason,1,Coaches Poll,12,BYU,Big 12,868
+2025,regular,1,Coaches Poll,13,South Carolina,SEC,665
+2025,postseason,1,Coaches Poll,13,Texas,SEC,840
+2025,regular,1,Coaches Poll,14,Michigan,Big Ten,580
+2025,postseason,1,Coaches Poll,14,Utah,Big 12,772
+2025,regular,1,Coaches Poll,15,Ole Miss,SEC,573
+2025,postseason,1,Coaches Poll,15,Vanderbilt,SEC,602
+2025,regular,1,Coaches Poll,16,SMU,ACC,555
+2025,postseason,1,Coaches Poll,16,Virginia,ACC,567
+2025,regular,1,Coaches Poll,17,Florida,SEC,498
+2025,postseason,1,Coaches Poll,17,Iowa,Big Ten,410
+2025,regular,1,Coaches Poll,18,Tennessee,SEC,492
+2025,postseason,1,Coaches Poll,18,Tulane,American Athletic,369
+2025,regular,1,Coaches Poll,19,Indiana,Big Ten,460
+2025,postseason,1,Coaches Poll,19,Houston,Big 12,349
+2025,regular,1,Coaches Poll,20,Kansas State,Big 12,438
+2025,postseason,1,Coaches Poll,20,James Madison,Sun Belt,342
+2025,regular,1,Coaches Poll,21,Iowa State,Big 12,392
+2025,regular,1,Coaches Poll,21,Texas A&M,SEC,392
+2025,postseason,1,Coaches Poll,21,USC,Big Ten,309
+2025,postseason,1,Coaches Poll,22,Michigan,Big Ten,276
+2025,regular,1,Coaches Poll,23,BYU,Big 12,287
+2025,postseason,1,Coaches Poll,23,Navy,American Athletic,164
+2025,regular,1,Coaches Poll,24,Texas Tech,Big 12,261
+2025,postseason,1,Coaches Poll,24,Georgia Tech,ACC,126
+2025,regular,1,Coaches Poll,25,Boise State,Mountain West,246
+2025,postseason,1,Coaches Poll,25,Illinois,Big Ten,123
+2025,regular,2,Coaches Poll,1,Ohio State,Big Ten,1666
+2025,regular,2,Coaches Poll,2,Penn State,Big Ten,1574
+2025,regular,2,Coaches Poll,3,Georgia,SEC,1518
+2025,regular,2,Coaches Poll,4,LSU,SEC,1469
+2025,regular,2,Coaches Poll,5,Oregon,Big Ten,1381
+2025,regular,2,Coaches Poll,6,Texas,SEC,1339
+2025,regular,2,Coaches Poll,7,Miami,ACC,1304
+2025,regular,2,Coaches Poll,8,Clemson,ACC,1067
+2025,regular,2,Coaches Poll,9,Notre Dame,FBS Independents,1038
+2025,regular,2,Coaches Poll,10,Arizona State,Big 12,957
+2025,regular,2,Coaches Poll,11,South Carolina,SEC,915
+2025,regular,2,Coaches Poll,12,Illinois,Big Ten,909
+2025,regular,2,Coaches Poll,13,Michigan,Big Ten,725
+2025,regular,2,Coaches Poll,14,Ole Miss,SEC,668
+2025,regular,2,Coaches Poll,15,Florida,SEC,638
+2025,regular,2,Coaches Poll,16,SMU,ACC,602
+2025,regular,2,Coaches Poll,17,Tennessee,SEC,563
+2025,regular,2,Coaches Poll,18,Iowa State,Big 12,518
+2025,regular,2,Coaches Poll,19,Florida State,ACC,491
+2025,regular,2,Coaches Poll,20,Alabama,SEC,390
+2025,regular,2,Coaches Poll,21,Indiana,Big Ten,369
+2025,regular,2,Coaches Poll,22,Texas A&M,SEC,363
+2025,regular,2,Coaches Poll,23,Texas Tech,Big 12,253
+2025,regular,2,Coaches Poll,24,Oklahoma,SEC,251
+2025,regular,2,Coaches Poll,25,BYU,Big 12,163
+2025,regular,3,Coaches Poll,1,Ohio State,Big Ten,1668
+2025,regular,3,Coaches Poll,2,Penn State,Big Ten,1576
+2025,regular,3,Coaches Poll,3,Georgia,SEC,1488
+2025,regular,3,Coaches Poll,4,LSU,SEC,1472
+2025,regular,3,Coaches Poll,5,Oregon,Big Ten,1423
+2025,regular,3,Coaches Poll,6,Miami,ACC,1330
+2025,regular,3,Coaches Poll,7,Texas,SEC,1288
+2025,regular,3,Coaches Poll,8,Notre Dame,FBS Independents,1041
+2025,regular,3,Coaches Poll,9,Illinois,Big Ten,1019
+2025,regular,3,Coaches Poll,10,South Carolina,SEC,1007
+2025,regular,3,Coaches Poll,11,Clemson,ACC,995
+2025,regular,3,Coaches Poll,12,Florida State,ACC,843
+2025,regular,3,Coaches Poll,13,Ole Miss,SEC,803
+2025,regular,3,Coaches Poll,14,Iowa State,Big 12,794
+2025,regular,3,Coaches Poll,15,Tennessee,SEC,733
+2025,regular,3,Coaches Poll,16,Oklahoma,SEC,693
+2025,regular,3,Coaches Poll,17,Texas A&M,SEC,514
+2025,regular,3,Coaches Poll,18,Alabama,SEC,436
+2025,regular,3,Coaches Poll,19,Indiana,Big Ten,425
+2025,regular,3,Coaches Poll,20,Texas Tech,Big 12,362
+2025,regular,3,Coaches Poll,21,Utah,Big 12,270
+2025,regular,3,Coaches Poll,22,Michigan,Big Ten,241
+2025,regular,3,Coaches Poll,23,South Florida,American Athletic,232
+2025,regular,3,Coaches Poll,24,Arizona State,Big 12,206
+2025,regular,3,Coaches Poll,25,BYU,Big 12,169
+2025,regular,4,Coaches Poll,1,Ohio State,Big Ten,1668
+2025,regular,4,Coaches Poll,2,Penn State,Big Ten,1559
+2025,regular,4,Coaches Poll,3,Georgia,SEC,1501
+2025,regular,4,Coaches Poll,4,LSU,SEC,1468
+2025,regular,4,Coaches Poll,5,Oregon,Big Ten,1444
+2025,regular,4,Coaches Poll,6,Miami,ACC,1379
+2025,regular,4,Coaches Poll,7,Texas,SEC,1209
+2025,regular,4,Coaches Poll,8,Illinois,Big Ten,1150
+2025,regular,4,Coaches Poll,9,Florida State,ACC,1023
+2025,regular,4,Coaches Poll,10,Texas A&M,SEC,1003
+2025,regular,4,Coaches Poll,11,Ole Miss,SEC,951
+2025,regular,4,Coaches Poll,12,Oklahoma,SEC,906
+2025,regular,4,Coaches Poll,13,Iowa State,Big 12,896
+2025,regular,4,Coaches Poll,14,Alabama,SEC,630
+2025,regular,4,Coaches Poll,15,Tennessee,SEC,625
+2025,regular,4,Coaches Poll,16,Texas Tech,Big 12,563
+2025,regular,4,Coaches Poll,17,Indiana,Big Ten,550
+2025,regular,4,Coaches Poll,18,Utah,Big 12,510
+2025,regular,4,Coaches Poll,19,Georgia Tech,ACC,333
+2025,regular,4,Coaches Poll,20,Michigan,Big Ten,316
+2025,regular,4,Coaches Poll,21,Notre Dame,FBS Independents,296
+2025,regular,4,Coaches Poll,22,Missouri,SEC,252
+2025,regular,4,Coaches Poll,23,Vanderbilt,SEC,249
+2025,regular,4,Coaches Poll,24,South Carolina,SEC,198
+2025,regular,4,Coaches Poll,25,Auburn,SEC,160
+2025,regular,5,Coaches Poll,1,Ohio State,Big Ten,1667
+2025,regular,5,Coaches Poll,2,Penn State,Big Ten,1552
+2025,regular,5,Coaches Poll,3,Georgia,SEC,1497
+2025,regular,5,Coaches Poll,4,LSU,SEC,1458
+2025,regular,5,Coaches Poll,5,Oregon,Big Ten,1442
+2025,regular,5,Coaches Poll,6,Miami,ACC,1399
+2025,regular,5,Coaches Poll,7,Texas,SEC,1209
+2025,regular,5,Coaches Poll,8,Florida State,ACC,1100
+2025,regular,5,Coaches Poll,9,Texas A&M,SEC,1043
+2025,regular,5,Coaches Poll,10,Oklahoma,SEC,1024
+2025,regular,5,Coaches Poll,11,Ole Miss,SEC,996
+2025,regular,5,Coaches Poll,12,Indiana,Big Ten,915
+2025,regular,5,Coaches Poll,13,Iowa State,Big 12,870
+2025,regular,5,Coaches Poll,14,Texas Tech,Big 12,807
+2025,regular,5,Coaches Poll,15,Tennessee,SEC,715
+2025,regular,5,Coaches Poll,16,Alabama,SEC,649
+2025,regular,5,Coaches Poll,17,Georgia Tech,ACC,558
+2025,regular,5,Coaches Poll,18,Michigan,Big Ten,469
+2025,regular,5,Coaches Poll,19,Missouri,SEC,433
+2025,regular,5,Coaches Poll,20,Vanderbilt,SEC,417
+2025,regular,5,Coaches Poll,21,Notre Dame,FBS Independents,261
+2025,regular,5,Coaches Poll,22,USC,Big Ten,249
+2025,regular,5,Coaches Poll,23,Illinois,Big Ten,214
+2025,regular,5,Coaches Poll,24,BYU,Big 12,185
+2025,regular,5,Coaches Poll,25,TCU,Big 12,112
+2025,regular,6,Coaches Poll,1,Ohio State,Big Ten,1617
+2025,regular,6,Coaches Poll,2,Oregon,Big Ten,1559
+2025,regular,6,Coaches Poll,3,Miami,ACC,1484
+2025,regular,6,Coaches Poll,4,Ole Miss,SEC,1319
+2025,regular,6,Coaches Poll,5,Texas A&M,SEC,1223
+2025,regular,6,Coaches Poll,6,Penn State,Big Ten,1192
+2025,regular,6,Coaches Poll,7,Texas,SEC,1165
+2025,regular,6,Coaches Poll,8,Oklahoma,SEC,1123
+2025,regular,6,Coaches Poll,9,Indiana,Big Ten,1059
+2025,regular,6,Coaches Poll,10,Georgia,SEC,1006
+2025,regular,6,Coaches Poll,11,Alabama,SEC,975
+2025,regular,6,Coaches Poll,12,Iowa State,Big 12,919
+2025,regular,6,Coaches Poll,13,LSU,SEC,918
+2025,regular,6,Coaches Poll,14,Texas Tech,Big 12,856
+2025,regular,6,Coaches Poll,15,Tennessee,SEC,728
+2025,regular,6,Coaches Poll,16,Georgia Tech,ACC,604
+2025,regular,6,Coaches Poll,17,Vanderbilt,SEC,502
+2025,regular,6,Coaches Poll,18,Missouri,SEC,498
+2025,regular,6,Coaches Poll,19,Florida State,ACC,483
+2025,regular,6,Coaches Poll,20,Michigan,Big Ten,453
+2025,regular,6,Coaches Poll,21,Notre Dame,FBS Independents,316
+2025,regular,6,Coaches Poll,22,Illinois,Big Ten,287
+2025,regular,6,Coaches Poll,23,BYU,Big 12,221
+2025,regular,6,Coaches Poll,24,Arizona State,Big 12,136
+2025,regular,6,Coaches Poll,25,Utah,Big 12,104
+2025,regular,7,Coaches Poll,1,Ohio State,Big Ten,1638
+2025,regular,7,Coaches Poll,2,Oregon,Big Ten,1572
+2025,regular,7,Coaches Poll,3,Miami,ACC,1531
+2025,regular,7,Coaches Poll,4,Ole Miss,SEC,1402
+2025,regular,7,Coaches Poll,5,Texas A&M,SEC,1330
+2025,regular,7,Coaches Poll,6,Oklahoma,SEC,1283
+2025,regular,7,Coaches Poll,7,Indiana,Big Ten,1206
+2025,regular,7,Coaches Poll,8,Alabama,SEC,1183
+2025,regular,7,Coaches Poll,9,Georgia,SEC,1128
+2025,regular,7,Coaches Poll,10,Texas Tech,Big 12,1082
+2025,regular,7,Coaches Poll,11,LSU,SEC,999
+2025,regular,7,Coaches Poll,12,Tennessee,SEC,889
+2025,regular,7,Coaches Poll,13,Georgia Tech,ACC,819
+2025,regular,7,Coaches Poll,14,Missouri,SEC,736
+2025,regular,7,Coaches Poll,15,Michigan,Big Ten,653
+2025,regular,7,Coaches Poll,16,Notre Dame,FBS Independents,491
+2025,regular,7,Coaches Poll,17,Illinois,Big Ten,484
+2025,regular,7,Coaches Poll,18,BYU,Big 12,453
+2025,regular,7,Coaches Poll,19,Texas,SEC,372
+2025,regular,7,Coaches Poll,20,Vanderbilt,SEC,329
+2025,regular,7,Coaches Poll,21,Iowa State,Big 12,295
+2025,regular,7,Coaches Poll,22,Penn State,Big Ten,294
+2025,regular,7,Coaches Poll,23,Arizona State,Big 12,292
+2025,regular,7,Coaches Poll,24,Virginia,ACC,258
+2025,regular,7,Coaches Poll,25,Memphis,American Athletic,162
+2025,regular,8,Coaches Poll,1,Ohio State,Big Ten,1646
+2025,regular,8,Coaches Poll,2,Miami,ACC,1566
+2025,regular,8,Coaches Poll,3,Indiana,Big Ten,1492
+2025,regular,8,Coaches Poll,4,Texas A&M,SEC,1417
+2025,regular,8,Coaches Poll,5,Ole Miss,SEC,1389
+2025,regular,8,Coaches Poll,6,Alabama,SEC,1280
+2025,regular,8,Coaches Poll,7,Georgia,SEC,1198
+2025,regular,8,Coaches Poll,8,Texas Tech,Big 12,1183
+2025,regular,8,Coaches Poll,9,Oregon,Big Ten,1154
+2025,regular,8,Coaches Poll,10,LSU,SEC,1062
+2025,regular,8,Coaches Poll,11,Tennessee,SEC,962
+2025,regular,8,Coaches Poll,12,Georgia Tech,ACC,951
+2025,regular,8,Coaches Poll,13,Oklahoma,SEC,781
+2025,regular,8,Coaches Poll,14,BYU,Big 12,720
+2025,regular,8,Coaches Poll,15,Notre Dame,FBS Independents,661
+2025,regular,8,Coaches Poll,16,Missouri,SEC,585
+2025,regular,8,Coaches Poll,17,Texas,SEC,519
+2025,regular,8,Coaches Poll,18,Vanderbilt,SEC,498
+2025,regular,8,Coaches Poll,19,Virginia,ACC,415
+2025,regular,8,Coaches Poll,20,Memphis,American Athletic,337
+2025,regular,8,Coaches Poll,21,USC,Big Ten,310
+2025,regular,8,Coaches Poll,22,Utah,Big 12,298
+2025,regular,8,Coaches Poll,23,South Florida,American Athletic,234
+2025,regular,8,Coaches Poll,24,Cincinnati,Big 12,169
+2025,regular,8,Coaches Poll,25,Illinois,Big Ten,151
+2025,regular,9,Coaches Poll,1,Ohio State,Big Ten,1625
+2025,regular,9,Coaches Poll,2,Indiana,Big Ten,1549
+2025,regular,9,Coaches Poll,3,Texas A&M,SEC,1470
+2025,regular,9,Coaches Poll,4,Alabama,SEC,1408
+2025,regular,9,Coaches Poll,5,Georgia,SEC,1358
+2025,regular,9,Coaches Poll,6,Oregon,Big Ten,1302
+2025,regular,9,Coaches Poll,7,Georgia Tech,ACC,1153
+2025,regular,9,Coaches Poll,8,Ole Miss,SEC,1110
+2025,regular,9,Coaches Poll,9,Miami,ACC,1027
+2025,regular,9,Coaches Poll,10,BYU,Big 12,990
+2025,regular,9,Coaches Poll,11,Oklahoma,SEC,960
+2025,regular,9,Coaches Poll,12,Vanderbilt,SEC,902
+2025,regular,9,Coaches Poll,13,Notre Dame,FBS Independents,872
+2025,regular,9,Coaches Poll,14,Missouri,SEC,778
+2025,regular,9,Coaches Poll,15,Texas Tech,Big 12,738
+2025,regular,9,Coaches Poll,16,Virginia,ACC,528
+2025,regular,9,Coaches Poll,17,Tennessee,SEC,523
+2025,regular,9,Coaches Poll,18,Texas,SEC,483
+2025,regular,9,Coaches Poll,19,LSU,SEC,451
+2025,regular,9,Coaches Poll,20,South Florida,American Athletic,393
+2025,regular,9,Coaches Poll,21,Cincinnati,Big 12,355
+2025,regular,9,Coaches Poll,22,Louisville,ACC,336
+2025,regular,9,Coaches Poll,23,Illinois,Big Ten,192
+2025,regular,9,Coaches Poll,24,Michigan,Big Ten,175
+2025,regular,9,Coaches Poll,25,Arizona State,Big 12,144
+2025,regular,10,Coaches Poll,1,Ohio State,Big Ten,1598
+2025,regular,10,Coaches Poll,2,Indiana,Big Ten,1524
+2025,regular,10,Coaches Poll,3,Texas A&M,SEC,1478
+2025,regular,10,Coaches Poll,4,Alabama,SEC,1381
+2025,regular,10,Coaches Poll,5,Georgia,SEC,1331
+2025,regular,10,Coaches Poll,6,Oregon,Big Ten,1254
+2025,regular,10,Coaches Poll,7,Georgia Tech,ACC,1183
+2025,regular,10,Coaches Poll,8,Ole Miss,SEC,1173
+2025,regular,10,Coaches Poll,9,Miami,ACC,1029
+2025,regular,10,Coaches Poll,10,BYU,Big 12,1023
+2025,regular,10,Coaches Poll,11,Vanderbilt,SEC,1004
+2025,regular,10,Coaches Poll,12,Notre Dame,FBS Independents,849
+2025,regular,10,Coaches Poll,13,Texas Tech,Big 12,845
+2025,regular,10,Coaches Poll,14,Tennessee,SEC,683
+2025,regular,10,Coaches Poll,15,Virginia,ACC,658
+2025,regular,10,Coaches Poll,16,Cincinnati,Big 12,565
+2025,regular,10,Coaches Poll,17,Louisville,ACC,544
+2025,regular,10,Coaches Poll,18,Oklahoma,SEC,495
+2025,regular,10,Coaches Poll,19,Texas,SEC,456
+2025,regular,10,Coaches Poll,20,Missouri,SEC,423
+2025,regular,10,Coaches Poll,21,Michigan,Big Ten,302
+2025,regular,10,Coaches Poll,22,Houston,Big 12,215
+2025,regular,10,Coaches Poll,23,Navy,American Athletic,144
+2025,regular,10,Coaches Poll,24,Utah,Big 12,129
+2025,regular,10,Coaches Poll,25,Memphis,American Athletic,105
+2025,regular,11,Coaches Poll,1,Ohio State,Big Ten,1596
+2025,regular,11,Coaches Poll,2,Indiana,Big Ten,1525
+2025,regular,11,Coaches Poll,3,Texas A&M,SEC,1479
+2025,regular,11,Coaches Poll,4,Alabama,SEC,1385
+2025,regular,11,Coaches Poll,5,Georgia,SEC,1335
+2025,regular,11,Coaches Poll,6,Oregon,Big Ten,1284
+2025,regular,11,Coaches Poll,7,Ole Miss,SEC,1213
+2025,regular,11,Coaches Poll,8,BYU,Big 12,1157
+2025,regular,11,Coaches Poll,9,Texas Tech,Big 12,1028
+2025,regular,11,Coaches Poll,10,Notre Dame,FBS Independents,992
+2025,regular,11,Coaches Poll,11,Virginia,ACC,852
+2025,regular,11,Coaches Poll,12,Oklahoma,SEC,806
+2025,regular,11,Coaches Poll,13,Texas,SEC,788
+2025,regular,11,Coaches Poll,14,Georgia Tech,ACC,740
+2025,regular,11,Coaches Poll,15,Louisville,ACC,734
+2025,regular,11,Coaches Poll,16,Vanderbilt,SEC,610
+2025,regular,11,Coaches Poll,17,Missouri,SEC,501
+2025,regular,11,Coaches Poll,18,Miami,ACC,487
+2025,regular,11,Coaches Poll,19,Utah,Big 12,476
+2025,regular,11,Coaches Poll,20,Michigan,Big Ten,468
+2025,regular,11,Coaches Poll,21,USC,Big Ten,291
+2025,regular,11,Coaches Poll,22,Tennessee,SEC,243
+2025,regular,11,Coaches Poll,23,Memphis,American Athletic,242
+2025,regular,11,Coaches Poll,24,Iowa,Big Ten,128
+2025,regular,11,Coaches Poll,25,Cincinnati,Big 12,109
+2025,regular,12,Coaches Poll,1,Ohio State,Big Ten,1571
+2025,regular,12,Coaches Poll,2,Indiana,Big Ten,1492
+2025,regular,12,Coaches Poll,3,Texas A&M,SEC,1465
+2025,regular,12,Coaches Poll,4,Alabama,SEC,1368
+2025,regular,12,Coaches Poll,5,Georgia,SEC,1322
+2025,regular,12,Coaches Poll,6,Oregon,Big Ten,1238
+2025,regular,12,Coaches Poll,7,Ole Miss,SEC,1216
+2025,regular,12,Coaches Poll,8,Texas Tech,Big 12,1143
+2025,regular,12,Coaches Poll,9,Notre Dame,FBS Independents,1041
+2025,regular,12,Coaches Poll,10,Oklahoma,SEC,929
+2025,regular,12,Coaches Poll,10,Texas,SEC,929
+2025,regular,12,Coaches Poll,12,Georgia Tech,ACC,823
+2025,regular,12,Coaches Poll,12,BYU,Big 12,823
+2025,regular,12,Coaches Poll,14,Vanderbilt,SEC,751
+2025,regular,12,Coaches Poll,15,Utah,Big 12,635
+2025,regular,12,Coaches Poll,16,Miami,ACC,626
+2025,regular,12,Coaches Poll,17,Michigan,Big Ten,559
+2025,regular,12,Coaches Poll,18,USC,Big Ten,528
+2025,regular,12,Coaches Poll,19,Virginia,ACC,336
+2025,regular,12,Coaches Poll,20,Tennessee,SEC,312
+2025,regular,12,Coaches Poll,21,Louisville,ACC,279
+2025,regular,12,Coaches Poll,22,Cincinnati,Big 12,216
+2025,regular,12,Coaches Poll,23,Pittsburgh,ACC,144
+2025,regular,12,Coaches Poll,24,Missouri,SEC,132
+2025,regular,12,Coaches Poll,25,James Madison,Sun Belt,108
+2025,regular,13,Coaches Poll,1,Ohio State,Big Ten,1573
+2025,regular,13,Coaches Poll,2,Indiana,Big Ten,1497
+2025,regular,13,Coaches Poll,3,Texas A&M,SEC,1457
+2025,regular,13,Coaches Poll,4,Georgia,SEC,1381
+2025,regular,13,Coaches Poll,5,Oregon,Big Ten,1285
+2025,regular,13,Coaches Poll,6,Ole Miss,SEC,1268
+2025,regular,13,Coaches Poll,7,Texas Tech,Big 12,1213
+2025,regular,13,Coaches Poll,8,Oklahoma,SEC,1099
+2025,regular,13,Coaches Poll,9,Notre Dame,FBS Independents,1064
+2025,regular,13,Coaches Poll,10,Alabama,SEC,976
+2025,regular,13,Coaches Poll,11,BYU,Big 12,923
+2025,regular,13,Coaches Poll,12,Georgia Tech,ACC,815
+2025,regular,13,Coaches Poll,13,Vanderbilt,SEC,777
+2025,regular,13,Coaches Poll,14,Utah,Big 12,748
+2025,regular,13,Coaches Poll,15,Miami,ACC,707
+2025,regular,13,Coaches Poll,16,USC,Big Ten,610
+2025,regular,13,Coaches Poll,17,Michigan,Big Ten,587
+2025,regular,13,Coaches Poll,18,Texas,SEC,521
+2025,regular,13,Coaches Poll,19,Virginia,ACC,455
+2025,regular,13,Coaches Poll,20,Tennessee,SEC,403
+2025,regular,13,Coaches Poll,21,Missouri,SEC,220
+2025,regular,13,Coaches Poll,22,James Madison,Sun Belt,201
+2025,regular,13,Coaches Poll,23,North Texas,American Athletic,164
+2025,regular,13,Coaches Poll,24,Houston,Big 12,144
+2025,regular,13,Coaches Poll,25,Tulane,American Athletic,96
+2025,regular,14,Coaches Poll,1,Ohio State,Big Ten,1573
+2025,regular,14,Coaches Poll,2,Indiana,Big Ten,1495
+2025,regular,14,Coaches Poll,3,Texas A&M,SEC,1461
+2025,regular,14,Coaches Poll,4,Georgia,SEC,1378
+2025,regular,14,Coaches Poll,5,Oregon,Big Ten,1291
+2025,regular,14,Coaches Poll,6,Ole Miss,SEC,1262
+2025,regular,14,Coaches Poll,7,Texas Tech,Big 12,1211
+2025,regular,14,Coaches Poll,8,Oklahoma,SEC,1108
+2025,regular,14,Coaches Poll,9,Notre Dame,FBS Independents,1073
+2025,regular,14,Coaches Poll,10,Alabama,SEC,1002
+2025,regular,14,Coaches Poll,11,BYU,Big 12,943
+2025,regular,14,Coaches Poll,12,Vanderbilt,SEC,828
+2025,regular,14,Coaches Poll,13,Miami,ACC,781
+2025,regular,14,Coaches Poll,14,Utah,Big 12,774
+2025,regular,14,Coaches Poll,15,Michigan,Big Ten,683
+2025,regular,14,Coaches Poll,16,Texas,SEC,615
+2025,regular,14,Coaches Poll,17,Virginia,ACC,532
+2025,regular,14,Coaches Poll,18,Tennessee,SEC,499
+2025,regular,14,Coaches Poll,19,Georgia Tech,ACC,344
+2025,regular,14,Coaches Poll,20,USC,Big Ten,313
+2025,regular,14,Coaches Poll,21,James Madison,Sun Belt,262
+2025,regular,14,Coaches Poll,22,North Texas,American Athletic,251
+2025,regular,14,Coaches Poll,23,Tulane,American Athletic,186
+2025,regular,14,Coaches Poll,24,Pittsburgh,ACC,158
+2025,regular,14,Coaches Poll,25,SMU,ACC,109
+2025,regular,15,Coaches Poll,1,Ohio State,Big Ten,1575
+2025,regular,15,Coaches Poll,2,Indiana,Big Ten,1510
+2025,regular,15,Coaches Poll,3,Georgia,SEC,1438
+2025,regular,15,Coaches Poll,4,Oregon,Big Ten,1353
+2025,regular,15,Coaches Poll,5,Ole Miss,SEC,1306
+2025,regular,15,Coaches Poll,6,Texas Tech,Big 12,1266
+2025,regular,15,Coaches Poll,7,Texas A&M,SEC,1178
+2025,regular,15,Coaches Poll,8,Oklahoma,SEC,1106
+2025,regular,15,Coaches Poll,9,Notre Dame,FBS Independents,1061
+2025,regular,15,Coaches Poll,10,Alabama,SEC,1019
+2025,regular,15,Coaches Poll,11,BYU,Big 12,942
+2025,regular,15,Coaches Poll,12,Vanderbilt,SEC,855
+2025,regular,15,Coaches Poll,13,Miami,ACC,844
+2025,regular,15,Coaches Poll,14,Texas,SEC,753
+2025,regular,15,Coaches Poll,15,Utah,Big 12,750
+2025,regular,15,Coaches Poll,16,Virginia,ACC,613
+2025,regular,15,Coaches Poll,17,USC,Big Ten,505
+2025,regular,15,Coaches Poll,18,Michigan,Big Ten,427
+2025,regular,15,Coaches Poll,19,James Madison,Sun Belt,356
+2025,regular,15,Coaches Poll,20,North Texas,American Athletic,345
+2025,regular,15,Coaches Poll,21,Tulane,American Athletic,300
+2025,regular,15,Coaches Poll,22,Arizona,Big 12,223
+2025,regular,15,Coaches Poll,23,Georgia Tech,ACC,170
+2025,regular,15,Coaches Poll,24,Tennessee,SEC,135
+2025,regular,15,Coaches Poll,25,Navy,American Athletic,107
+2025,regular,16,Coaches Poll,1,Indiana,Big Ten,1549
+2025,regular,16,Coaches Poll,2,Georgia,SEC,1461
+2025,regular,16,Coaches Poll,3,Ohio State,Big Ten,1433
+2025,regular,16,Coaches Poll,4,Texas Tech,Big 12,1339
+2025,regular,16,Coaches Poll,5,Oregon,Big Ten,1317
+2025,regular,16,Coaches Poll,6,Ole Miss,SEC,1240
+2025,regular,16,Coaches Poll,7,Texas A&M,SEC,1169
+2025,regular,16,Coaches Poll,8,Oklahoma,SEC,1093
+2025,regular,16,Coaches Poll,9,Notre Dame,FBS Independents,1037
+2025,regular,16,Coaches Poll,10,Miami,ACC,941
+2025,regular,16,Coaches Poll,11,Alabama,SEC,913
+2025,regular,16,Coaches Poll,12,Vanderbilt,SEC,867
+2025,regular,16,Coaches Poll,13,BYU,Big 12,790
+2025,regular,16,Coaches Poll,14,Texas,SEC,788
+2025,regular,16,Coaches Poll,15,Utah,Big 12,719
+2025,regular,16,Coaches Poll,16,USC,Big Ten,558
+2025,regular,16,Coaches Poll,17,Michigan,Big Ten,479
+2025,regular,16,Coaches Poll,18,Tulane,American Athletic,448
+2025,regular,16,Coaches Poll,19,James Madison,Sun Belt,389
+2025,regular,16,Coaches Poll,20,Arizona,Big 12,326
+2025,regular,16,Coaches Poll,21,Virginia,ACC,288
+2025,regular,16,Coaches Poll,22,Georgia Tech,ACC,223
+2025,regular,16,Coaches Poll,23,Tennessee,SEC,123
+2025,regular,16,Coaches Poll,24,Houston,Big 12,119
+2025,regular,16,Coaches Poll,25,Navy,American Athletic,118
+2025,regular,11,Playoff Committee Rankings,1,Ohio State,Big Ten,0
+2025,regular,11,Playoff Committee Rankings,2,Indiana,Big Ten,0
+2025,regular,11,Playoff Committee Rankings,3,Texas A&M,SEC,0
+2025,regular,11,Playoff Committee Rankings,4,Alabama,SEC,0
+2025,regular,11,Playoff Committee Rankings,5,Georgia,SEC,0
+2025,regular,11,Playoff Committee Rankings,6,Ole Miss,SEC,0
+2025,regular,11,Playoff Committee Rankings,7,BYU,Big 12,0
+2025,regular,11,Playoff Committee Rankings,8,Texas Tech,Big 12,0
+2025,regular,11,Playoff Committee Rankings,9,Oregon,Big Ten,0
+2025,regular,11,Playoff Committee Rankings,10,Notre Dame,FBS Independents,0
+2025,regular,11,Playoff Committee Rankings,11,Texas,SEC,0
+2025,regular,11,Playoff Committee Rankings,12,Oklahoma,SEC,0
+2025,regular,11,Playoff Committee Rankings,13,Utah,Big 12,0
+2025,regular,11,Playoff Committee Rankings,14,Virginia,ACC,0
+2025,regular,11,Playoff Committee Rankings,15,Louisville,ACC,0
+2025,regular,11,Playoff Committee Rankings,16,Vanderbilt,SEC,0
+2025,regular,11,Playoff Committee Rankings,17,Georgia Tech,ACC,0
+2025,regular,11,Playoff Committee Rankings,18,Miami,ACC,0
+2025,regular,11,Playoff Committee Rankings,19,USC,Big Ten,0
+2025,regular,11,Playoff Committee Rankings,20,Iowa,Big Ten,0
+2025,regular,11,Playoff Committee Rankings,21,Michigan,Big Ten,0
+2025,regular,11,Playoff Committee Rankings,22,Missouri,SEC,0
+2025,regular,11,Playoff Committee Rankings,23,Washington,Big Ten,0
+2025,regular,11,Playoff Committee Rankings,24,Pittsburgh,ACC,0
+2025,regular,11,Playoff Committee Rankings,25,Tennessee,SEC,0
+2025,regular,12,Playoff Committee Rankings,1,Ohio State,Big Ten,0
+2025,regular,12,Playoff Committee Rankings,2,Indiana,Big Ten,0
+2025,regular,12,Playoff Committee Rankings,3,Texas A&M,SEC,0
+2025,regular,12,Playoff Committee Rankings,4,Alabama,SEC,0
+2025,regular,12,Playoff Committee Rankings,5,Georgia,SEC,0
+2025,regular,12,Playoff Committee Rankings,6,Texas Tech,Big 12,0
+2025,regular,12,Playoff Committee Rankings,7,Ole Miss,SEC,0
+2025,regular,12,Playoff Committee Rankings,8,Oregon,Big Ten,0
+2025,regular,12,Playoff Committee Rankings,9,Notre Dame,FBS Independents,0
+2025,regular,12,Playoff Committee Rankings,10,Texas,SEC,0
+2025,regular,12,Playoff Committee Rankings,11,Oklahoma,SEC,0
+2025,regular,12,Playoff Committee Rankings,12,BYU,Big 12,0
+2025,regular,12,Playoff Committee Rankings,13,Utah,Big 12,0
+2025,regular,12,Playoff Committee Rankings,14,Vanderbilt,SEC,0
+2025,regular,12,Playoff Committee Rankings,15,Miami,ACC,0
+2025,regular,12,Playoff Committee Rankings,16,Georgia Tech,ACC,0
+2025,regular,12,Playoff Committee Rankings,17,USC,Big Ten,0
+2025,regular,12,Playoff Committee Rankings,18,Michigan,Big Ten,0
+2025,regular,12,Playoff Committee Rankings,19,Virginia,ACC,0
+2025,regular,12,Playoff Committee Rankings,20,Louisville,ACC,0
+2025,regular,12,Playoff Committee Rankings,21,Iowa,Big Ten,0
+2025,regular,12,Playoff Committee Rankings,22,Pittsburgh,ACC,0
+2025,regular,12,Playoff Committee Rankings,23,Tennessee,SEC,0
+2025,regular,12,Playoff Committee Rankings,24,South Florida,American Athletic,0
+2025,regular,12,Playoff Committee Rankings,25,Cincinnati,Big 12,0
+2025,regular,13,Playoff Committee Rankings,1,Ohio State,Big Ten,0
+2025,regular,13,Playoff Committee Rankings,2,Indiana,Big Ten,0
+2025,regular,13,Playoff Committee Rankings,3,Texas A&M,SEC,0
+2025,regular,13,Playoff Committee Rankings,4,Georgia,SEC,0
+2025,regular,13,Playoff Committee Rankings,5,Texas Tech,Big 12,0
+2025,regular,13,Playoff Committee Rankings,6,Ole Miss,SEC,0
+2025,regular,13,Playoff Committee Rankings,7,Oregon,Big Ten,0
+2025,regular,13,Playoff Committee Rankings,8,Oklahoma,SEC,0
+2025,regular,13,Playoff Committee Rankings,9,Notre Dame,FBS Independents,0
+2025,regular,13,Playoff Committee Rankings,10,Alabama,SEC,0
+2025,regular,13,Playoff Committee Rankings,11,BYU,Big 12,0
+2025,regular,13,Playoff Committee Rankings,12,Utah,Big 12,0
+2025,regular,13,Playoff Committee Rankings,13,Miami,ACC,0
+2025,regular,13,Playoff Committee Rankings,14,Vanderbilt,SEC,0
+2025,regular,13,Playoff Committee Rankings,15,USC,Big Ten,0
+2025,regular,13,Playoff Committee Rankings,16,Georgia Tech,ACC,0
+2025,regular,13,Playoff Committee Rankings,17,Texas,SEC,0
+2025,regular,13,Playoff Committee Rankings,18,Michigan,Big Ten,0
+2025,regular,13,Playoff Committee Rankings,19,Virginia,ACC,0
+2025,regular,13,Playoff Committee Rankings,20,Tennessee,SEC,0
+2025,regular,13,Playoff Committee Rankings,21,Illinois,Big Ten,0
+2025,regular,13,Playoff Committee Rankings,22,Missouri,SEC,0
+2025,regular,13,Playoff Committee Rankings,23,Houston,Big 12,0
+2025,regular,13,Playoff Committee Rankings,24,Tulane,American Athletic,0
+2025,regular,13,Playoff Committee Rankings,25,Arizona State,Big 12,0
+2025,regular,14,Playoff Committee Rankings,1,Ohio State,Big Ten,0
+2025,regular,14,Playoff Committee Rankings,2,Indiana,Big Ten,0
+2025,regular,14,Playoff Committee Rankings,3,Texas A&M,SEC,0
+2025,regular,14,Playoff Committee Rankings,4,Georgia,SEC,0
+2025,regular,14,Playoff Committee Rankings,5,Texas Tech,Big 12,0
+2025,regular,14,Playoff Committee Rankings,6,Oregon,Big Ten,0
+2025,regular,14,Playoff Committee Rankings,7,Ole Miss,SEC,0
+2025,regular,14,Playoff Committee Rankings,8,Oklahoma,SEC,0
+2025,regular,14,Playoff Committee Rankings,9,Notre Dame,FBS Independents,0
+2025,regular,14,Playoff Committee Rankings,10,Alabama,SEC,0
+2025,regular,14,Playoff Committee Rankings,11,BYU,Big 12,0
+2025,regular,14,Playoff Committee Rankings,12,Miami,ACC,0
+2025,regular,14,Playoff Committee Rankings,13,Utah,Big 12,0
+2025,regular,14,Playoff Committee Rankings,14,Vanderbilt,SEC,0
+2025,regular,14,Playoff Committee Rankings,15,Michigan,Big Ten,0
+2025,regular,14,Playoff Committee Rankings,16,Texas,SEC,0
+2025,regular,14,Playoff Committee Rankings,17,USC,Big Ten,0
+2025,regular,14,Playoff Committee Rankings,18,Virginia,ACC,0
+2025,regular,14,Playoff Committee Rankings,19,Tennessee,SEC,0
+2025,regular,14,Playoff Committee Rankings,20,Arizona State,Big 12,0
+2025,regular,14,Playoff Committee Rankings,21,SMU,ACC,0
+2025,regular,14,Playoff Committee Rankings,22,Pittsburgh,ACC,0
+2025,regular,14,Playoff Committee Rankings,23,Georgia Tech,ACC,0
+2025,regular,14,Playoff Committee Rankings,24,Tulane,American Athletic,0
+2025,regular,14,Playoff Committee Rankings,25,Arizona,Big 12,0
+2025,regular,15,Playoff Committee Rankings,1,Ohio State,Big Ten,0
+2025,regular,15,Playoff Committee Rankings,2,Indiana,Big Ten,0
+2025,regular,15,Playoff Committee Rankings,3,Georgia,SEC,0
+2025,regular,15,Playoff Committee Rankings,4,Texas Tech,Big 12,0
+2025,regular,15,Playoff Committee Rankings,5,Oregon,Big Ten,0
+2025,regular,15,Playoff Committee Rankings,6,Ole Miss,SEC,0
+2025,regular,15,Playoff Committee Rankings,7,Texas A&M,SEC,0
+2025,regular,15,Playoff Committee Rankings,8,Oklahoma,SEC,0
+2025,regular,15,Playoff Committee Rankings,9,Alabama,SEC,0
+2025,regular,15,Playoff Committee Rankings,10,Notre Dame,FBS Independents,0
+2025,regular,15,Playoff Committee Rankings,11,BYU,Big 12,0
+2025,regular,15,Playoff Committee Rankings,12,Miami,ACC,0
+2025,regular,15,Playoff Committee Rankings,13,Texas,SEC,0
+2025,regular,15,Playoff Committee Rankings,14,Vanderbilt,SEC,0
+2025,regular,15,Playoff Committee Rankings,15,Utah,Big 12,0
+2025,regular,15,Playoff Committee Rankings,16,USC,Big Ten,0
+2025,regular,15,Playoff Committee Rankings,17,Virginia,ACC,0
+2025,regular,15,Playoff Committee Rankings,18,Arizona,Big 12,0
+2025,regular,15,Playoff Committee Rankings,19,Michigan,Big Ten,0
+2025,regular,15,Playoff Committee Rankings,20,Tulane,American Athletic,0
+2025,regular,15,Playoff Committee Rankings,21,Houston,Big 12,0
+2025,regular,15,Playoff Committee Rankings,22,Georgia Tech,ACC,0
+2025,regular,15,Playoff Committee Rankings,23,Iowa,Big Ten,0
+2025,regular,15,Playoff Committee Rankings,24,North Texas,American Athletic,0
+2025,regular,15,Playoff Committee Rankings,25,James Madison,Sun Belt,0
+2025,regular,16,Playoff Committee Rankings,1,Indiana,Big Ten,0
+2025,regular,16,Playoff Committee Rankings,2,Ohio State,Big Ten,0
+2025,regular,16,Playoff Committee Rankings,3,Georgia,SEC,0
+2025,regular,16,Playoff Committee Rankings,4,Texas Tech,Big 12,0
+2025,regular,16,Playoff Committee Rankings,5,Oregon,Big Ten,0
+2025,regular,16,Playoff Committee Rankings,6,Ole Miss,SEC,0
+2025,regular,16,Playoff Committee Rankings,7,Texas A&M,SEC,0
+2025,regular,16,Playoff Committee Rankings,8,Oklahoma,SEC,0
+2025,regular,16,Playoff Committee Rankings,9,Alabama,SEC,0
+2025,regular,16,Playoff Committee Rankings,10,Miami,ACC,0
+2025,regular,16,Playoff Committee Rankings,11,Notre Dame,FBS Independents,0
+2025,regular,16,Playoff Committee Rankings,12,BYU,Big 12,0
+2025,regular,16,Playoff Committee Rankings,13,Texas,SEC,0
+2025,regular,16,Playoff Committee Rankings,14,Vanderbilt,SEC,0
+2025,regular,16,Playoff Committee Rankings,15,Utah,Big 12,0
+2025,regular,16,Playoff Committee Rankings,16,USC,Big Ten,0
+2025,regular,16,Playoff Committee Rankings,17,Arizona,Big 12,0
+2025,regular,16,Playoff Committee Rankings,18,Michigan,Big Ten,0
+2025,regular,16,Playoff Committee Rankings,19,Virginia,ACC,0
+2025,regular,16,Playoff Committee Rankings,20,Tulane,American Athletic,0
+2025,regular,16,Playoff Committee Rankings,21,Houston,Big 12,0
+2025,regular,16,Playoff Committee Rankings,22,Georgia Tech,ACC,0
+2025,regular,16,Playoff Committee Rankings,23,Iowa,Big Ten,0
+2025,regular,16,Playoff Committee Rankings,24,James Madison,Sun Belt,0
+2025,regular,16,Playoff Committee Rankings,25,North Texas,American Athletic,0

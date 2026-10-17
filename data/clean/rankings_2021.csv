@@ -1,0 +1,951 @@
+season,seasonType,week,poll,rank,school,conference,points
+2021,regular,1,AP Top 25,1,Alabama,SEC,1548
+2021,postseason,1,AP Top 25,1,Georgia,SEC,1525
+2021,regular,1,AP Top 25,2,Oklahoma,Big 12,1462
+2021,postseason,1,AP Top 25,2,Alabama,SEC,1464
+2021,regular,1,AP Top 25,3,Clemson,ACC,1447
+2021,postseason,1,AP Top 25,3,Michigan,Big Ten,1361
+2021,regular,1,AP Top 25,4,Ohio State,Big Ten,1393
+2021,postseason,1,AP Top 25,4,Cincinnati,American Athletic,1349
+2021,regular,1,AP Top 25,5,Georgia,SEC,1364
+2021,postseason,1,AP Top 25,5,Baylor,Big 12,1259
+2021,regular,1,AP Top 25,6,Texas A&M,SEC,1223
+2021,postseason,1,AP Top 25,6,Ohio State,Big Ten,1247
+2021,regular,1,AP Top 25,7,Iowa State,Big 12,1160
+2021,postseason,1,AP Top 25,7,Oklahoma State,Big 12,1177
+2021,regular,1,AP Top 25,8,Cincinnati,American Athletic,1014
+2021,postseason,1,AP Top 25,8,Notre Dame,FBS Independents,1039
+2021,regular,1,AP Top 25,9,Notre Dame,FBS Independents,1009
+2021,postseason,1,AP Top 25,9,Michigan State,Big Ten,1026
+2021,regular,1,AP Top 25,10,North Carolina,ACC,999
+2021,postseason,1,AP Top 25,10,Oklahoma,Big 12,966
+2021,regular,1,AP Top 25,11,Oregon,Pac-12,968
+2021,postseason,1,AP Top 25,11,Ole Miss,SEC,926
+2021,regular,1,AP Top 25,12,Wisconsin,Big Ten,743
+2021,postseason,1,AP Top 25,12,Utah,Pac-12,851
+2021,regular,1,AP Top 25,13,Florida,SEC,728
+2021,postseason,1,AP Top 25,13,Pittsburgh,ACC,741
+2021,regular,1,AP Top 25,14,Miami,ACC,663
+2021,postseason,1,AP Top 25,14,Clemson,ACC,538
+2021,regular,1,AP Top 25,15,USC,Pac-12,660
+2021,postseason,1,AP Top 25,15,Wake Forest,ACC,533
+2021,regular,1,AP Top 25,16,LSU,SEC,631
+2021,postseason,1,AP Top 25,16,Louisiana,Sun Belt,517
+2021,regular,1,AP Top 25,17,Indiana,Big Ten,549
+2021,postseason,1,AP Top 25,17,Houston,American Athletic,513
+2021,regular,1,AP Top 25,18,Iowa,Big Ten,513
+2021,postseason,1,AP Top 25,18,Kentucky,SEC,446
+2021,regular,1,AP Top 25,19,Penn State,Big Ten,456
+2021,postseason,1,AP Top 25,19,BYU,FBS Independents,435
+2021,regular,1,AP Top 25,20,Washington,Pac-12,449
+2021,postseason,1,AP Top 25,20,NC State,ACC,382
+2021,regular,1,AP Top 25,21,Texas,Big 12,350
+2021,postseason,1,AP Top 25,21,Arkansas,SEC,371
+2021,regular,1,AP Top 25,22,Coastal Carolina,Sun Belt,232
+2021,postseason,1,AP Top 25,22,Oregon,Pac-12,364
+2021,regular,1,AP Top 25,23,Louisiana,Sun Belt,208
+2021,postseason,1,AP Top 25,23,Iowa,Big Ten,171
+2021,regular,1,AP Top 25,24,Utah,Pac-12,176
+2021,postseason,1,AP Top 25,24,Utah State,Mountain West,163
+2021,regular,1,AP Top 25,25,Arizona State,Pac-12,125
+2021,postseason,1,AP Top 25,25,San Diego State,Mountain West,137
+2021,regular,2,AP Top 25,1,Alabama,SEC,1571
+2021,regular,2,AP Top 25,2,Georgia,SEC,1507
+2021,regular,2,AP Top 25,3,Ohio State,Big Ten,1437
+2021,regular,2,AP Top 25,4,Oklahoma,Big 12,1374
+2021,regular,2,AP Top 25,5,Texas A&M,SEC,1288
+2021,regular,2,AP Top 25,6,Clemson,ACC,1231
+2021,regular,2,AP Top 25,7,Cincinnati,American Athletic,1136
+2021,regular,2,AP Top 25,8,Notre Dame,FBS Independents,1070
+2021,regular,2,AP Top 25,9,Iowa State,Big 12,1045
+2021,regular,2,AP Top 25,10,Iowa,Big Ten,942
+2021,regular,2,AP Top 25,11,Penn State,Big Ten,908
+2021,regular,2,AP Top 25,12,Oregon,Pac-12,883
+2021,regular,2,AP Top 25,13,Florida,SEC,842
+2021,regular,2,AP Top 25,14,USC,Pac-12,789
+2021,regular,2,AP Top 25,15,Texas,Big 12,683
+2021,regular,2,AP Top 25,16,UCLA,Pac-12,668
+2021,regular,2,AP Top 25,17,Coastal Carolina,Sun Belt,384
+2021,regular,2,AP Top 25,18,Wisconsin,Big Ten,376
+2021,regular,2,AP Top 25,19,Virginia Tech,ACC,359
+2021,regular,2,AP Top 25,20,Ole Miss,SEC,335
+2021,regular,2,AP Top 25,21,Utah,Pac-12,334
+2021,regular,2,AP Top 25,22,Miami,ACC,229
+2021,regular,2,AP Top 25,23,Arizona State,Pac-12,222
+2021,regular,2,AP Top 25,24,North Carolina,ACC,198
+2021,regular,2,AP Top 25,25,Auburn,SEC,83
+2021,regular,3,AP Top 25,1,Alabama,SEC,1572
+2021,regular,3,AP Top 25,2,Georgia,SEC,1514
+2021,regular,3,AP Top 25,3,Oklahoma,Big 12,1402
+2021,regular,3,AP Top 25,4,Oregon,Pac-12,1355
+2021,regular,3,AP Top 25,5,Iowa,Big Ten,1263
+2021,regular,3,AP Top 25,6,Clemson,ACC,1246
+2021,regular,3,AP Top 25,7,Texas A&M,SEC,1206
+2021,regular,3,AP Top 25,8,Cincinnati,American Athletic,1149
+2021,regular,3,AP Top 25,9,Ohio State,Big Ten,1029
+2021,regular,3,AP Top 25,10,Penn State,Big Ten,1005
+2021,regular,3,AP Top 25,11,Florida,SEC,935
+2021,regular,3,AP Top 25,12,Notre Dame,FBS Independents,926
+2021,regular,3,AP Top 25,13,UCLA,Pac-12,804
+2021,regular,3,AP Top 25,14,Iowa State,Big 12,593
+2021,regular,3,AP Top 25,15,Virginia Tech,ACC,591
+2021,regular,3,AP Top 25,16,Coastal Carolina,Sun Belt,562
+2021,regular,3,AP Top 25,17,Ole Miss,SEC,550
+2021,regular,3,AP Top 25,18,Wisconsin,Big Ten,499
+2021,regular,3,AP Top 25,19,Arizona State,Pac-12,341
+2021,regular,3,AP Top 25,20,Arkansas,SEC,277
+2021,regular,3,AP Top 25,21,North Carolina,ACC,268
+2021,regular,3,AP Top 25,22,Auburn,SEC,233
+2021,regular,3,AP Top 25,23,BYU,FBS Independents,213
+2021,regular,3,AP Top 25,24,Miami,ACC,177
+2021,regular,3,AP Top 25,25,Michigan,Big Ten,163
+2021,regular,4,AP Top 25,1,Alabama,SEC,1547
+2021,regular,4,AP Top 25,2,Georgia,SEC,1491
+2021,regular,4,AP Top 25,3,Oregon,Pac-12,1385
+2021,regular,4,AP Top 25,4,Oklahoma,Big 12,1302
+2021,regular,4,AP Top 25,5,Iowa,Big Ten,1298
+2021,regular,4,AP Top 25,6,Penn State,Big Ten,1197
+2021,regular,4,AP Top 25,7,Texas A&M,SEC,1158
+2021,regular,4,AP Top 25,8,Cincinnati,American Athletic,1145
+2021,regular,4,AP Top 25,9,Clemson,ACC,1074
+2021,regular,4,AP Top 25,10,Ohio State,Big Ten,976
+2021,regular,4,AP Top 25,11,Florida,SEC,930
+2021,regular,4,AP Top 25,12,Notre Dame,FBS Independents,874
+2021,regular,4,AP Top 25,13,Ole Miss,SEC,717
+2021,regular,4,AP Top 25,14,Iowa State,Big 12,664
+2021,regular,4,AP Top 25,15,BYU,FBS Independents,603
+2021,regular,4,AP Top 25,16,Arkansas,SEC,537
+2021,regular,4,AP Top 25,17,Coastal Carolina,Sun Belt,526
+2021,regular,4,AP Top 25,18,Wisconsin,Big Ten,513
+2021,regular,4,AP Top 25,19,Michigan,Big Ten,456
+2021,regular,4,AP Top 25,20,Michigan State,Big Ten,389
+2021,regular,4,AP Top 25,21,North Carolina,ACC,306
+2021,regular,4,AP Top 25,22,Fresno State,Mountain West,201
+2021,regular,4,AP Top 25,23,Auburn,SEC,166
+2021,regular,4,AP Top 25,24,UCLA,Pac-12,142
+2021,regular,4,AP Top 25,25,Kansas State,Big 12,127
+2021,regular,5,AP Top 25,1,Alabama,SEC,1546
+2021,regular,5,AP Top 25,2,Georgia,SEC,1492
+2021,regular,5,AP Top 25,3,Oregon,Pac-12,1411
+2021,regular,5,AP Top 25,4,Penn State,Big Ten,1283
+2021,regular,5,AP Top 25,5,Iowa,Big Ten,1277
+2021,regular,5,AP Top 25,6,Oklahoma,Big 12,1212
+2021,regular,5,AP Top 25,7,Cincinnati,American Athletic,1154
+2021,regular,5,AP Top 25,8,Arkansas,SEC,1094
+2021,regular,5,AP Top 25,9,Notre Dame,FBS Independents,1076
+2021,regular,5,AP Top 25,10,Florida,SEC,1019
+2021,regular,5,AP Top 25,11,Ohio State,Big Ten,1005
+2021,regular,5,AP Top 25,12,Ole Miss,SEC,852
+2021,regular,5,AP Top 25,13,BYU,FBS Independents,748
+2021,regular,5,AP Top 25,14,Michigan,Big Ten,677
+2021,regular,5,AP Top 25,15,Texas A&M,SEC,651
+2021,regular,5,AP Top 25,16,Coastal Carolina,Sun Belt,613
+2021,regular,5,AP Top 25,17,Michigan State,Big Ten,581
+2021,regular,5,AP Top 25,18,Fresno State,Mountain West,415
+2021,regular,5,AP Top 25,19,Oklahoma State,Big 12,341
+2021,regular,5,AP Top 25,20,UCLA,Pac-12,316
+2021,regular,5,AP Top 25,21,Baylor,Big 12,233
+2021,regular,5,AP Top 25,22,Auburn,SEC,197
+2021,regular,5,AP Top 25,23,NC State,ACC,145
+2021,regular,5,AP Top 25,24,Wake Forest,ACC,142
+2021,regular,5,AP Top 25,25,Clemson,ACC,138
+2021,regular,6,AP Top 25,1,Alabama,SEC,1541
+2021,regular,6,AP Top 25,2,Georgia,SEC,1497
+2021,regular,6,AP Top 25,3,Iowa,Big Ten,1381
+2021,regular,6,AP Top 25,4,Penn State,Big Ten,1360
+2021,regular,6,AP Top 25,5,Cincinnati,American Athletic,1320
+2021,regular,6,AP Top 25,6,Oklahoma,Big 12,1248
+2021,regular,6,AP Top 25,7,Ohio State,Big Ten,1094
+2021,regular,6,AP Top 25,8,Oregon,Pac-12,1069
+2021,regular,6,AP Top 25,9,Michigan,Big Ten,1053
+2021,regular,6,AP Top 25,10,BYU,FBS Independents,990
+2021,regular,6,AP Top 25,11,Michigan State,Big Ten,852
+2021,regular,6,AP Top 25,12,Oklahoma State,Big 12,749
+2021,regular,6,AP Top 25,13,Arkansas,SEC,745
+2021,regular,6,AP Top 25,14,Notre Dame,FBS Independents,701
+2021,regular,6,AP Top 25,15,Coastal Carolina,Sun Belt,694
+2021,regular,6,AP Top 25,16,Kentucky,SEC,662
+2021,regular,6,AP Top 25,17,Ole Miss,SEC,601
+2021,regular,6,AP Top 25,18,Auburn,SEC,448
+2021,regular,6,AP Top 25,19,Wake Forest,ACC,412
+2021,regular,6,AP Top 25,20,Florida,SEC,343
+2021,regular,6,AP Top 25,21,Texas,Big 12,303
+2021,regular,6,AP Top 25,22,Arizona State,Pac-12,297
+2021,regular,6,AP Top 25,23,NC State,ACC,279
+2021,regular,6,AP Top 25,24,SMU,American Athletic,136
+2021,regular,6,AP Top 25,25,San Diego State,Mountain West,111
+2021,regular,7,AP Top 25,1,Georgia,SEC,1550
+2021,regular,7,AP Top 25,2,Iowa,Big Ten,1476
+2021,regular,7,AP Top 25,3,Cincinnati,American Athletic,1407
+2021,regular,7,AP Top 25,4,Oklahoma,Big 12,1336
+2021,regular,7,AP Top 25,5,Alabama,SEC,1286
+2021,regular,7,AP Top 25,6,Ohio State,Big Ten,1157
+2021,regular,7,AP Top 25,7,Penn State,Big Ten,1147
+2021,regular,7,AP Top 25,8,Michigan,Big Ten,1139
+2021,regular,7,AP Top 25,9,Oregon,Pac-12,1057
+2021,regular,7,AP Top 25,10,Michigan State,Big Ten,992
+2021,regular,7,AP Top 25,11,Kentucky,SEC,918
+2021,regular,7,AP Top 25,12,Oklahoma State,Big 12,830
+2021,regular,7,AP Top 25,13,Ole Miss,SEC,779
+2021,regular,7,AP Top 25,14,Notre Dame,FBS Independents,732
+2021,regular,7,AP Top 25,15,Coastal Carolina,Sun Belt,712
+2021,regular,7,AP Top 25,16,Wake Forest,ACC,526
+2021,regular,7,AP Top 25,17,Arkansas,SEC,470
+2021,regular,7,AP Top 25,18,Arizona State,Pac-12,428
+2021,regular,7,AP Top 25,19,BYU,FBS Independents,421
+2021,regular,7,AP Top 25,20,Florida,SEC,397
+2021,regular,7,AP Top 25,21,Texas A&M,SEC,348
+2021,regular,7,AP Top 25,22,NC State,ACC,265
+2021,regular,7,AP Top 25,23,SMU,American Athletic,225
+2021,regular,7,AP Top 25,24,San Diego State,Mountain West,176
+2021,regular,7,AP Top 25,25,Texas,Big 12,108
+2021,regular,8,AP Top 25,1,Georgia,SEC,1575
+2021,regular,8,AP Top 25,2,Cincinnati,American Athletic,1483
+2021,regular,8,AP Top 25,3,Oklahoma,Big 12,1434
+2021,regular,8,AP Top 25,4,Alabama,SEC,1393
+2021,regular,8,AP Top 25,5,Ohio State,Big Ten,1252
+2021,regular,8,AP Top 25,6,Michigan,Big Ten,1214
+2021,regular,8,AP Top 25,7,Penn State,Big Ten,1116
+2021,regular,8,AP Top 25,8,Oklahoma State,Big 12,1082
+2021,regular,8,AP Top 25,9,Michigan State,Big Ten,1076
+2021,regular,8,AP Top 25,10,Oregon,Pac-12,1054
+2021,regular,8,AP Top 25,11,Iowa,Big Ten,1048
+2021,regular,8,AP Top 25,12,Ole Miss,SEC,879
+2021,regular,8,AP Top 25,13,Notre Dame,FBS Independents,763
+2021,regular,8,AP Top 25,14,Coastal Carolina,Sun Belt,736
+2021,regular,8,AP Top 25,15,Kentucky,SEC,723
+2021,regular,8,AP Top 25,16,Wake Forest,ACC,629
+2021,regular,8,AP Top 25,17,Texas A&M,SEC,536
+2021,regular,8,AP Top 25,18,NC State,ACC,485
+2021,regular,8,AP Top 25,19,Auburn,SEC,397
+2021,regular,8,AP Top 25,20,Baylor,Big 12,378
+2021,regular,8,AP Top 25,21,SMU,American Athletic,358
+2021,regular,8,AP Top 25,22,San Diego State,Mountain West,284
+2021,regular,8,AP Top 25,23,Pittsburgh,ACC,177
+2021,regular,8,AP Top 25,24,UTSA,Conference USA,104
+2021,regular,8,AP Top 25,25,Purdue,Big Ten,68
+2021,regular,9,AP Top 25,1,Georgia,SEC,1575
+2021,regular,9,AP Top 25,2,Cincinnati,American Athletic,1477
+2021,regular,9,AP Top 25,3,Alabama,SEC,1417
+2021,regular,9,AP Top 25,4,Oklahoma,Big 12,1383
+2021,regular,9,AP Top 25,5,Ohio State,Big Ten,1311
+2021,regular,9,AP Top 25,6,Michigan,Big Ten,1270
+2021,regular,9,AP Top 25,7,Oregon,Pac-12,1165
+2021,regular,9,AP Top 25,8,Michigan State,Big Ten,1160
+2021,regular,9,AP Top 25,9,Iowa,Big Ten,1035
+2021,regular,9,AP Top 25,10,Ole Miss,SEC,1034
+2021,regular,9,AP Top 25,11,Notre Dame,FBS Independents,922
+2021,regular,9,AP Top 25,12,Kentucky,SEC,849
+2021,regular,9,AP Top 25,13,Wake Forest,ACC,801
+2021,regular,9,AP Top 25,14,Texas A&M,SEC,700
+2021,regular,9,AP Top 25,15,Oklahoma State,Big 12,682
+2021,regular,9,AP Top 25,16,Baylor,Big 12,513
+2021,regular,9,AP Top 25,17,Pittsburgh,ACC,510
+2021,regular,9,AP Top 25,18,Auburn,SEC,481
+2021,regular,9,AP Top 25,19,SMU,American Athletic,473
+2021,regular,9,AP Top 25,20,Penn State,Big Ten,471
+2021,regular,9,AP Top 25,21,San Diego State,Mountain West,390
+2021,regular,9,AP Top 25,22,Iowa State,Big 12,298
+2021,regular,9,AP Top 25,23,UTSA,Conference USA,235
+2021,regular,9,AP Top 25,24,Coastal Carolina,Sun Belt,132
+2021,regular,9,AP Top 25,25,BYU,FBS Independents,44
+2021,regular,10,AP Top 25,1,Georgia,SEC,1575
+2021,regular,10,AP Top 25,2,Cincinnati,American Athletic,1455
+2021,regular,10,AP Top 25,3,Alabama,SEC,1413
+2021,regular,10,AP Top 25,4,Oklahoma,Big 12,1382
+2021,regular,10,AP Top 25,5,Michigan State,Big Ten,1340
+2021,regular,10,AP Top 25,6,Ohio State,Big Ten,1296
+2021,regular,10,AP Top 25,7,Oregon,Pac-12,1233
+2021,regular,10,AP Top 25,8,Notre Dame,FBS Independents,1067
+2021,regular,10,AP Top 25,9,Michigan,Big Ten,1048
+2021,regular,10,AP Top 25,10,Wake Forest,ACC,1025
+2021,regular,10,AP Top 25,11,Oklahoma State,Big 12,915
+2021,regular,10,AP Top 25,12,Auburn,SEC,853
+2021,regular,10,AP Top 25,13,Texas A&M,SEC,847
+2021,regular,10,AP Top 25,14,Baylor,Big 12,833
+2021,regular,10,AP Top 25,15,Ole Miss,SEC,678
+2021,regular,10,AP Top 25,16,UTSA,Conference USA,460
+2021,regular,10,AP Top 25,17,BYU,FBS Independents,450
+2021,regular,10,AP Top 25,18,Kentucky,SEC,409
+2021,regular,10,AP Top 25,19,Iowa,Big Ten,342
+2021,regular,10,AP Top 25,20,Houston,American Athletic,338
+2021,regular,10,AP Top 25,21,Coastal Carolina,Sun Belt,237
+2021,regular,10,AP Top 25,22,Penn State,Big Ten,182
+2021,regular,10,AP Top 25,23,SMU,American Athletic,176
+2021,regular,10,AP Top 25,24,Louisiana,Sun Belt,161
+2021,regular,10,AP Top 25,25,Fresno State,Mountain West,151
+2021,regular,11,AP Top 25,1,Georgia,SEC,1575
+2021,regular,11,AP Top 25,2,Cincinnati,American Athletic,1440
+2021,regular,11,AP Top 25,3,Alabama,SEC,1436
+2021,regular,11,AP Top 25,4,Oklahoma,Big 12,1406
+2021,regular,11,AP Top 25,5,Oregon,Pac-12,1319
+2021,regular,11,AP Top 25,6,Ohio State,Big Ten,1293
+2021,regular,11,AP Top 25,7,Notre Dame,FBS Independents,1139
+2021,regular,11,AP Top 25,8,Michigan State,Big Ten,1096
+2021,regular,11,AP Top 25,9,Michigan,Big Ten,1072
+2021,regular,11,AP Top 25,10,Oklahoma State,Big 12,1038
+2021,regular,11,AP Top 25,11,Texas A&M,SEC,1006
+2021,regular,11,AP Top 25,12,Ole Miss,SEC,837
+2021,regular,11,AP Top 25,13,Wake Forest,ACC,763
+2021,regular,11,AP Top 25,14,BYU,FBS Independents,636
+2021,regular,11,AP Top 25,15,UTSA,Conference USA,606
+2021,regular,11,AP Top 25,16,Auburn,SEC,478
+2021,regular,11,AP Top 25,17,Houston,American Athletic,467
+2021,regular,11,AP Top 25,18,Baylor,Big 12,464
+2021,regular,11,AP Top 25,19,Iowa,Big Ten,437
+2021,regular,11,AP Top 25,20,Wisconsin,Big Ten,286
+2021,regular,11,AP Top 25,21,NC State,ACC,268
+2021,regular,11,AP Top 25,22,Coastal Carolina,Sun Belt,264
+2021,regular,11,AP Top 25,23,Penn State,Big Ten,245
+2021,regular,11,AP Top 25,24,Louisiana,Sun Belt,208
+2021,regular,11,AP Top 25,25,Pittsburgh,ACC,194
+2021,regular,12,AP Top 25,1,Georgia,SEC,1550
+2021,regular,12,AP Top 25,2,Alabama,SEC,1449
+2021,regular,12,AP Top 25,3,Cincinnati,American Athletic,1420
+2021,regular,12,AP Top 25,4,Oregon,Pac-12,1353
+2021,regular,12,AP Top 25,5,Ohio State,Big Ten,1341
+2021,regular,12,AP Top 25,6,Notre Dame,FBS Independents,1175
+2021,regular,12,AP Top 25,7,Michigan State,Big Ten,1161
+2021,regular,12,AP Top 25,8,Michigan,Big Ten,1134
+2021,regular,12,AP Top 25,9,Oklahoma State,Big 12,1106
+2021,regular,12,AP Top 25,10,Ole Miss,SEC,943
+2021,regular,12,AP Top 25,11,Baylor,Big 12,882
+2021,regular,12,AP Top 25,12,Oklahoma,Big 12,870
+2021,regular,12,AP Top 25,13,Wake Forest,ACC,851
+2021,regular,12,AP Top 25,14,BYU,FBS Independents,671
+2021,regular,12,AP Top 25,15,UTSA,Conference USA,591
+2021,regular,12,AP Top 25,16,Texas A&M,SEC,583
+2021,regular,12,AP Top 25,17,Houston,American Athletic,509
+2021,regular,12,AP Top 25,18,Iowa,Big Ten,491
+2021,regular,12,AP Top 25,19,Wisconsin,Big Ten,467
+2021,regular,12,AP Top 25,20,Pittsburgh,ACC,358
+2021,regular,12,AP Top 25,21,Arkansas,SEC,277
+2021,regular,12,AP Top 25,22,Louisiana,Sun Belt,261
+2021,regular,12,AP Top 25,23,San Diego State,Mountain West,239
+2021,regular,12,AP Top 25,24,Utah,Pac-12,141
+2021,regular,12,AP Top 25,25,NC State,ACC,95
+2021,regular,13,AP Top 25,1,Georgia,SEC,1550
+2021,regular,13,AP Top 25,2,Ohio State,Big Ten,1434
+2021,regular,13,AP Top 25,3,Alabama,SEC,1423
+2021,regular,13,AP Top 25,4,Cincinnati,American Athletic,1416
+2021,regular,13,AP Top 25,5,Notre Dame,FBS Independents,1262
+2021,regular,13,AP Top 25,6,Michigan,Big Ten,1246
+2021,regular,13,AP Top 25,7,Oklahoma State,Big 12,1209
+2021,regular,13,AP Top 25,8,Ole Miss,SEC,1060
+2021,regular,13,AP Top 25,9,Baylor,Big 12,1046
+2021,regular,13,AP Top 25,10,Oklahoma,Big 12,1001
+2021,regular,13,AP Top 25,11,Oregon,Pac-12,849
+2021,regular,13,AP Top 25,12,Michigan State,Big Ten,778
+2021,regular,13,AP Top 25,13,BYU,FBS Independents,771
+2021,regular,13,AP Top 25,14,Texas A&M,SEC,628
+2021,regular,13,AP Top 25,15,UTSA,Conference USA,583
+2021,regular,13,AP Top 25,16,Utah,Pac-12,561
+2021,regular,13,AP Top 25,17,Iowa,Big Ten,538
+2021,regular,13,AP Top 25,18,Wisconsin,Big Ten,517
+2021,regular,13,AP Top 25,19,Houston,American Athletic,516
+2021,regular,13,AP Top 25,20,Pittsburgh,ACC,445
+2021,regular,13,AP Top 25,21,Wake Forest,ACC,344
+2021,regular,13,AP Top 25,22,San Diego State,Mountain West,273
+2021,regular,13,AP Top 25,23,Louisiana,Sun Belt,246
+2021,regular,13,AP Top 25,24,NC State,ACC,141
+2021,regular,13,AP Top 25,25,Arkansas,SEC,105
+2021,regular,14,AP Top 25,1,Georgia,SEC,1550
+2021,regular,14,AP Top 25,2,Michigan,Big Ten,1449
+2021,regular,14,AP Top 25,3,Cincinnati,American Athletic,1422
+2021,regular,14,AP Top 25,4,Alabama,SEC,1388
+2021,regular,14,AP Top 25,5,Oklahoma State,Big 12,1291
+2021,regular,14,AP Top 25,6,Notre Dame,FBS Independents,1264
+2021,regular,14,AP Top 25,7,Ohio State,Big Ten,1147
+2021,regular,14,AP Top 25,8,Ole Miss,SEC,1105
+2021,regular,14,AP Top 25,9,Baylor,Big 12,1066
+2021,regular,14,AP Top 25,10,Oregon,Pac-12,932
+2021,regular,14,AP Top 25,11,Michigan State,Big Ten,877
+2021,regular,14,AP Top 25,12,BYU,FBS Independents,839
+2021,regular,14,AP Top 25,13,Oklahoma,Big 12,837
+2021,regular,14,AP Top 25,14,Utah,Pac-12,667
+2021,regular,14,AP Top 25,15,Iowa,Big Ten,662
+2021,regular,14,AP Top 25,16,Houston,American Athletic,603
+2021,regular,14,AP Top 25,17,Pittsburgh,ACC,589
+2021,regular,14,AP Top 25,18,Wake Forest,ACC,485
+2021,regular,14,AP Top 25,19,San Diego State,Mountain West,416
+2021,regular,14,AP Top 25,20,Louisiana,Sun Belt,317
+2021,regular,14,AP Top 25,21,NC State,ACC,310
+2021,regular,14,AP Top 25,22,Clemson,ACC,269
+2021,regular,14,AP Top 25,23,Arkansas,SEC,214
+2021,regular,14,AP Top 25,24,Texas A&M,SEC,117
+2021,regular,14,AP Top 25,25,Kentucky,SEC,82
+2021,regular,15,AP Top 25,1,Alabama,SEC,1535
+2021,regular,15,AP Top 25,2,Michigan,Big Ten,1480
+2021,regular,15,AP Top 25,3,Georgia,SEC,1408
+2021,regular,15,AP Top 25,4,Cincinnati,American Athletic,1404
+2021,regular,15,AP Top 25,5,Notre Dame,FBS Independents,1280
+2021,regular,15,AP Top 25,6,Baylor,Big 12,1228
+2021,regular,15,AP Top 25,7,Ohio State,Big Ten,1177
+2021,regular,15,AP Top 25,8,Ole Miss,SEC,1101
+2021,regular,15,AP Top 25,9,Oklahoma State,Big 12,1060
+2021,regular,15,AP Top 25,10,Utah,Pac-12,929
+2021,regular,15,AP Top 25,11,Michigan State,Big Ten,895
+2021,regular,15,AP Top 25,12,BYU,FBS Independents,866
+2021,regular,15,AP Top 25,13,Pittsburgh,ACC,838
+2021,regular,15,AP Top 25,14,Oklahoma,Big 12,807
+2021,regular,15,AP Top 25,15,Oregon,Pac-12,594
+2021,regular,15,AP Top 25,16,Louisiana,Sun Belt,490
+2021,regular,15,AP Top 25,17,Iowa,Big Ten,446
+2021,regular,15,AP Top 25,18,NC State,ACC,404
+2021,regular,15,AP Top 25,19,Clemson,ACC,395
+2021,regular,15,AP Top 25,20,Wake Forest,ACC,393
+2021,regular,15,AP Top 25,21,Houston,American Athletic,358
+2021,regular,15,AP Top 25,22,Arkansas,SEC,279
+2021,regular,15,AP Top 25,23,Texas A&M,SEC,171
+2021,regular,15,AP Top 25,24,UTSA,Conference USA,146
+2021,regular,15,AP Top 25,25,Kentucky,SEC,129
+2021,regular,1,Coaches Poll,1,Alabama,SEC,1621
+2021,postseason,1,Coaches Poll,1,Georgia,SEC,1550
+2021,regular,1,Coaches Poll,2,Clemson,ACC,1508
+2021,postseason,1,Coaches Poll,2,Alabama,SEC,1488
+2021,regular,1,Coaches Poll,3,Oklahoma,Big 12,1481
+2021,postseason,1,Coaches Poll,3,Michigan,Big Ten,1398
+2021,regular,1,Coaches Poll,4,Ohio State,Big Ten,1435
+2021,postseason,1,Coaches Poll,4,Cincinnati,American Athletic,1346
+2021,regular,1,Coaches Poll,5,Georgia,SEC,1386
+2021,postseason,1,Coaches Poll,5,Ohio State,Big Ten,1279
+2021,regular,1,Coaches Poll,6,Texas A&M,SEC,1286
+2021,postseason,1,Coaches Poll,6,Baylor,Big 12,1275
+2021,regular,1,Coaches Poll,7,Notre Dame,FBS Independents,1139
+2021,postseason,1,Coaches Poll,7,Oklahoma State,Big 12,1197
+2021,regular,1,Coaches Poll,8,Iowa State,Big 12,1131
+2021,postseason,1,Coaches Poll,8,Michigan State,Big Ten,1066
+2021,regular,1,Coaches Poll,9,North Carolina,ACC,999
+2021,postseason,1,Coaches Poll,9,Notre Dame,FBS Independents,1028
+2021,regular,1,Coaches Poll,10,Cincinnati,American Athletic,979
+2021,postseason,1,Coaches Poll,10,Oklahoma,Big 12,994
+2021,regular,1,Coaches Poll,11,Florida,SEC,870
+2021,postseason,1,Coaches Poll,11,Ole Miss,SEC,909
+2021,regular,1,Coaches Poll,12,Oregon,Pac-12,842
+2021,postseason,1,Coaches Poll,12,Utah,Pac-12,877
+2021,regular,1,Coaches Poll,13,LSU,SEC,664
+2021,postseason,1,Coaches Poll,13,Pittsburgh,ACC,742
+2021,regular,1,Coaches Poll,14,USC,Pac-12,655
+2021,postseason,1,Coaches Poll,14,Wake Forest,ACC,609
+2021,regular,1,Coaches Poll,15,Wisconsin,Big Ten,654
+2021,postseason,1,Coaches Poll,15,Kentucky,SEC,592
+2021,regular,1,Coaches Poll,16,Miami,ACC,575
+2021,postseason,1,Coaches Poll,16,Clemson,ACC,528
+2021,regular,1,Coaches Poll,17,Indiana,Big Ten,573
+2021,postseason,1,Coaches Poll,17,Houston,American Athletic,510
+2021,regular,1,Coaches Poll,18,Iowa,Big Ten,554
+2021,postseason,1,Coaches Poll,18,Louisiana,Sun Belt,502
+2021,regular,1,Coaches Poll,19,Texas,Big 12,427
+2021,postseason,1,Coaches Poll,19,NC State,ACC,453
+2021,regular,1,Coaches Poll,20,Penn State,Big Ten,422
+2021,postseason,1,Coaches Poll,20,Arkansas,SEC,354
+2021,regular,1,Coaches Poll,21,Washington,Pac-12,404
+2021,postseason,1,Coaches Poll,21,Oregon,Pac-12,336
+2021,regular,1,Coaches Poll,22,Oklahoma State,Big 12,216
+2021,postseason,1,Coaches Poll,22,BYU,FBS Independents,284
+2021,regular,1,Coaches Poll,23,Louisiana,Sun Belt,153
+2021,postseason,1,Coaches Poll,23,Iowa,Big Ten,276
+2021,regular,1,Coaches Poll,24,Coastal Carolina,Sun Belt,150
+2021,postseason,1,Coaches Poll,24,Utah State,Mountain West,142
+2021,regular,1,Coaches Poll,25,Ole Miss,SEC,149
+2021,postseason,1,Coaches Poll,25,Texas A&M,SEC,133
+2021,regular,2,Coaches Poll,1,Alabama,SEC,1624
+2021,regular,2,Coaches Poll,2,Georgia,SEC,1537
+2021,regular,2,Coaches Poll,3,Ohio State,Big Ten,1491
+2021,regular,2,Coaches Poll,4,Oklahoma,Big 12,1397
+2021,regular,2,Coaches Poll,5,Texas A&M,SEC,1334
+2021,regular,2,Coaches Poll,6,Clemson,ACC,1239
+2021,regular,2,Coaches Poll,7,Notre Dame,FBS Independents,1197
+2021,regular,2,Coaches Poll,8,Cincinnati,American Athletic,1113
+2021,regular,2,Coaches Poll,9,Florida,SEC,1058
+2021,regular,2,Coaches Poll,10,Iowa State,Big 12,1057
+2021,regular,2,Coaches Poll,11,Oregon,Pac-12,920
+2021,regular,2,Coaches Poll,12,Iowa,Big Ten,914
+2021,regular,2,Coaches Poll,13,Penn State,Big Ten,872
+2021,regular,2,Coaches Poll,14,USC,Pac-12,828
+2021,regular,2,Coaches Poll,15,Texas,Big 12,653
+2021,regular,2,Coaches Poll,16,UCLA,Pac-12,538
+2021,regular,2,Coaches Poll,17,Wisconsin,Big Ten,359
+2021,regular,2,Coaches Poll,18,Utah,Pac-12,294
+2021,regular,2,Coaches Poll,19,Coastal Carolina,Sun Belt,289
+2021,regular,2,Coaches Poll,20,Ole Miss,SEC,285
+2021,regular,2,Coaches Poll,21,Virginia Tech,ACC,274
+2021,regular,2,Coaches Poll,22,North Carolina,ACC,252
+2021,regular,2,Coaches Poll,23,Oklahoma State,Big 12,243
+2021,regular,2,Coaches Poll,24,Miami,ACC,186
+2021,regular,2,Coaches Poll,25,Arizona State,Pac-12,181
+2021,regular,3,Coaches Poll,1,Alabama,SEC,1624
+2021,regular,3,Coaches Poll,2,Georgia,SEC,1558
+2021,regular,3,Coaches Poll,3,Oklahoma,Big 12,1454
+2021,regular,3,Coaches Poll,4,Oregon,Pac-12,1356
+2021,regular,3,Coaches Poll,5,Texas A&M,SEC,1307
+2021,regular,3,Coaches Poll,6,Clemson,ACC,1279
+2021,regular,3,Coaches Poll,7,Iowa,Big Ten,1165
+2021,regular,3,Coaches Poll,8,Cincinnati,American Athletic,1114
+2021,regular,3,Coaches Poll,9,Florida,SEC,1095
+2021,regular,3,Coaches Poll,10,Notre Dame,FBS Independents,1059
+2021,regular,3,Coaches Poll,11,Ohio State,Big Ten,1041
+2021,regular,3,Coaches Poll,12,Penn State,Big Ten,995
+2021,regular,3,Coaches Poll,13,UCLA,Pac-12,787
+2021,regular,3,Coaches Poll,14,Iowa State,Big 12,611
+2021,regular,3,Coaches Poll,15,Virginia Tech,ACC,591
+2021,regular,3,Coaches Poll,16,Ole Miss,SEC,546
+2021,regular,3,Coaches Poll,17,Wisconsin,Big Ten,537
+2021,regular,3,Coaches Poll,18,Coastal Carolina,Sun Belt,492
+2021,regular,3,Coaches Poll,19,North Carolina,ACC,300
+2021,regular,3,Coaches Poll,20,Auburn,SEC,264
+2021,regular,3,Coaches Poll,21,Arizona State,Pac-12,246
+2021,regular,3,Coaches Poll,22,Oklahoma State,Big 12,222
+2021,regular,3,Coaches Poll,23,BYU,FBS Independents,213
+2021,regular,3,Coaches Poll,24,Arkansas,SEC,196
+2021,regular,3,Coaches Poll,25,Michigan,Big Ten,180
+2021,regular,4,Coaches Poll,1,Alabama,SEC,1616
+2021,regular,4,Coaches Poll,2,Georgia,SEC,1558
+2021,regular,4,Coaches Poll,3,Oklahoma,Big 12,1429
+2021,regular,4,Coaches Poll,4,Oregon,Pac-12,1427
+2021,regular,4,Coaches Poll,5,Texas A&M,SEC,1283
+2021,regular,4,Coaches Poll,6,Iowa,Big Ten,1263
+2021,regular,4,Coaches Poll,7,Clemson,ACC,1166
+2021,regular,4,Coaches Poll,8,Penn State,Big Ten,1130
+2021,regular,4,Coaches Poll,9,Cincinnati,American Athletic,1125
+2021,regular,4,Coaches Poll,10,Notre Dame,FBS Independents,1048
+2021,regular,4,Coaches Poll,11,Florida,SEC,1000
+2021,regular,4,Coaches Poll,12,Ohio State,Big Ten,989
+2021,regular,4,Coaches Poll,13,Ole Miss,SEC,759
+2021,regular,4,Coaches Poll,14,Iowa State,Big 12,700
+2021,regular,4,Coaches Poll,15,Wisconsin,Big Ten,589
+2021,regular,4,Coaches Poll,16,BYU,FBS Independents,504
+2021,regular,4,Coaches Poll,17,Coastal Carolina,Sun Belt,500
+2021,regular,4,Coaches Poll,18,Arkansas,SEC,474
+2021,regular,4,Coaches Poll,19,Michigan,Big Ten,423
+2021,regular,4,Coaches Poll,20,North Carolina,ACC,411
+2021,regular,4,Coaches Poll,21,Michigan State,Big Ten,344
+2021,regular,4,Coaches Poll,22,Oklahoma State,Big 12,300
+2021,regular,4,Coaches Poll,23,Auburn,SEC,171
+2021,regular,4,Coaches Poll,24,UCLA,Pac-12,170
+2021,regular,4,Coaches Poll,25,Fresno State,Mountain West,85
+2021,regular,5,Coaches Poll,1,Alabama,SEC,1624
+2021,regular,5,Coaches Poll,2,Georgia,SEC,1558
+2021,regular,5,Coaches Poll,3,Oregon,Pac-12,1467
+2021,regular,5,Coaches Poll,4,Oklahoma,Big 12,1395
+2021,regular,5,Coaches Poll,5,Iowa,Big Ten,1319
+2021,regular,5,Coaches Poll,6,Penn State,Big Ten,1286
+2021,regular,5,Coaches Poll,7,Notre Dame,FBS Independents,1187
+2021,regular,5,Coaches Poll,8,Cincinnati,American Athletic,1185
+2021,regular,5,Coaches Poll,9,Florida,SEC,1101
+2021,regular,5,Coaches Poll,10,Ohio State,Big Ten,1030
+2021,regular,5,Coaches Poll,11,Arkansas,SEC,1016
+2021,regular,5,Coaches Poll,12,Ole Miss,SEC,916
+2021,regular,5,Coaches Poll,13,Texas A&M,SEC,744
+2021,regular,5,Coaches Poll,14,Michigan,Big Ten,674
+2021,regular,5,Coaches Poll,15,BYU,FBS Independents,670
+2021,regular,5,Coaches Poll,16,Michigan State,Big Ten,583
+2021,regular,5,Coaches Poll,16,Coastal Carolina,Sun Belt,583
+2021,regular,5,Coaches Poll,18,Oklahoma State,Big 12,459
+2021,regular,5,Coaches Poll,19,Clemson,ACC,389
+2021,regular,5,Coaches Poll,20,UCLA,Pac-12,312
+2021,regular,5,Coaches Poll,21,Fresno State,Mountain West,251
+2021,regular,5,Coaches Poll,22,Auburn,SEC,244
+2021,regular,5,Coaches Poll,23,Kentucky,SEC,179
+2021,regular,5,Coaches Poll,24,Baylor,Big 12,134
+2021,regular,5,Coaches Poll,25,Wake Forest,ACC,119
+2021,regular,6,Coaches Poll,1,Alabama,SEC,1623
+2021,regular,6,Coaches Poll,2,Georgia,SEC,1562
+2021,regular,6,Coaches Poll,3,Iowa,Big Ten,1429
+2021,regular,6,Coaches Poll,4,Penn State,Big Ten,1397
+2021,regular,6,Coaches Poll,5,Oklahoma,Big 12,1380
+2021,regular,6,Coaches Poll,6,Cincinnati,American Athletic,1358
+2021,regular,6,Coaches Poll,7,Ohio State,Big Ten,1172
+2021,regular,6,Coaches Poll,8,Michigan,Big Ten,1125
+2021,regular,6,Coaches Poll,9,Oregon,Pac-12,1000
+2021,regular,6,Coaches Poll,10,BYU,FBS Independents,968
+2021,regular,6,Coaches Poll,11,Michigan State,Big Ten,911
+2021,regular,6,Coaches Poll,12,Oklahoma State,Big 12,798
+2021,regular,6,Coaches Poll,13,Notre Dame,FBS Independents,777
+2021,regular,6,Coaches Poll,14,Kentucky,SEC,758
+2021,regular,6,Coaches Poll,15,Coastal Carolina,Sun Belt,699
+2021,regular,6,Coaches Poll,16,Arkansas,SEC,652
+2021,regular,6,Coaches Poll,17,Ole Miss,SEC,629
+2021,regular,6,Coaches Poll,18,Florida,SEC,464
+2021,regular,6,Coaches Poll,19,Auburn,SEC,463
+2021,regular,6,Coaches Poll,20,Wake Forest,ACC,441
+2021,regular,6,Coaches Poll,21,Clemson,ACC,288
+2021,regular,6,Coaches Poll,22,NC State,ACC,257
+2021,regular,6,Coaches Poll,23,Texas,Big 12,256
+2021,regular,6,Coaches Poll,24,SMU,American Athletic,142
+2021,regular,6,Coaches Poll,25,Arizona State,Pac-12,141
+2021,regular,7,Coaches Poll,1,Georgia,SEC,1624
+2021,regular,7,Coaches Poll,2,Iowa,Big Ten,1537
+2021,regular,7,Coaches Poll,3,Oklahoma,Big 12,1452
+2021,regular,7,Coaches Poll,4,Cincinnati,American Athletic,1418
+2021,regular,7,Coaches Poll,5,Alabama,SEC,1363
+2021,regular,7,Coaches Poll,6,Ohio State,Big Ten,1254
+2021,regular,7,Coaches Poll,7,Michigan,Big Ten,1237
+2021,regular,7,Coaches Poll,8,Penn State,Big Ten,1124
+2021,regular,7,Coaches Poll,9,Michigan State,Big Ten,1064
+2021,regular,7,Coaches Poll,10,Oregon,Pac-12,1004
+2021,regular,7,Coaches Poll,11,Kentucky,SEC,994
+2021,regular,7,Coaches Poll,12,Oklahoma State,Big 12,910
+2021,regular,7,Coaches Poll,13,Notre Dame,FBS Independents,817
+2021,regular,7,Coaches Poll,14,Ole Miss,SEC,741
+2021,regular,7,Coaches Poll,15,Coastal Carolina,Sun Belt,708
+2021,regular,7,Coaches Poll,16,Wake Forest,ACC,580
+2021,regular,7,Coaches Poll,17,Florida,SEC,543
+2021,regular,7,Coaches Poll,18,Texas A&M,SEC,396
+2021,regular,7,Coaches Poll,19,Arkansas,SEC,386
+2021,regular,7,Coaches Poll,20,BYU,FBS Independents,342
+2021,regular,7,Coaches Poll,21,NC State,ACC,321
+2021,regular,7,Coaches Poll,22,Arizona State,Pac-12,294
+2021,regular,7,Coaches Poll,23,SMU,American Athletic,269
+2021,regular,7,Coaches Poll,24,San Diego State,Mountain West,156
+2021,regular,7,Coaches Poll,25,Clemson,ACC,155
+2021,regular,8,Coaches Poll,1,Georgia,SEC,1625
+2021,regular,8,Coaches Poll,2,Oklahoma,Big 12,1508
+2021,regular,8,Coaches Poll,3,Cincinnati,American Athletic,1467
+2021,regular,8,Coaches Poll,4,Alabama,SEC,1446
+2021,regular,8,Coaches Poll,5,Ohio State,Big Ten,1305
+2021,regular,8,Coaches Poll,6,Michigan,Big Ten,1299
+2021,regular,8,Coaches Poll,7,Michigan State,Big Ten,1158
+2021,regular,8,Coaches Poll,8,Penn State,Big Ten,1134
+2021,regular,8,Coaches Poll,9,Oklahoma State,Big 12,1093
+2021,regular,8,Coaches Poll,10,Oregon,Pac-12,1048
+2021,regular,8,Coaches Poll,11,Iowa,Big Ten,1031
+2021,regular,8,Coaches Poll,12,Ole Miss,SEC,826
+2021,regular,8,Coaches Poll,13,Notre Dame,FBS Independents,816
+2021,regular,8,Coaches Poll,14,Kentucky,SEC,763
+2021,regular,8,Coaches Poll,15,Wake Forest,ACC,696
+2021,regular,8,Coaches Poll,16,Coastal Carolina,Sun Belt,675
+2021,regular,8,Coaches Poll,17,Texas A&M,SEC,580
+2021,regular,8,Coaches Poll,18,NC State,ACC,528
+2021,regular,8,Coaches Poll,19,SMU,American Athletic,399
+2021,regular,8,Coaches Poll,20,Baylor,Big 12,369
+2021,regular,8,Coaches Poll,21,San Diego State,Mountain West,334
+2021,regular,8,Coaches Poll,22,Auburn,SEC,315
+2021,regular,8,Coaches Poll,23,Pittsburgh,ACC,192
+2021,regular,8,Coaches Poll,24,Clemson,ACC,146
+2021,regular,8,Coaches Poll,25,UTSA,Conference USA,96
+2021,regular,9,Coaches Poll,1,Georgia,SEC,1600
+2021,regular,9,Coaches Poll,2,Cincinnati,American Athletic,1469
+2021,regular,9,Coaches Poll,3,Alabama,SEC,1439
+2021,regular,9,Coaches Poll,4,Oklahoma,Big 12,1430
+2021,regular,9,Coaches Poll,5,Ohio State,Big Ten,1338
+2021,regular,9,Coaches Poll,6,Michigan,Big Ten,1313
+2021,regular,9,Coaches Poll,7,Michigan State,Big Ten,1208
+2021,regular,9,Coaches Poll,8,Oregon,Pac-12,1139
+2021,regular,9,Coaches Poll,9,Ole Miss,SEC,1019
+2021,regular,9,Coaches Poll,10,Iowa,Big Ten,1008
+2021,regular,9,Coaches Poll,11,Notre Dame,FBS Independents,950
+2021,regular,9,Coaches Poll,12,Kentucky,SEC,857
+2021,regular,9,Coaches Poll,13,Wake Forest,ACC,838
+2021,regular,9,Coaches Poll,14,Texas A&M,SEC,736
+2021,regular,9,Coaches Poll,15,Oklahoma State,Big 12,684
+2021,regular,9,Coaches Poll,16,SMU,American Athletic,535
+2021,regular,9,Coaches Poll,17,Penn State,Big Ten,517
+2021,regular,9,Coaches Poll,18,Baylor,Big 12,509
+2021,regular,9,Coaches Poll,19,Pittsburgh,ACC,487
+2021,regular,9,Coaches Poll,20,San Diego State,Mountain West,431
+2021,regular,9,Coaches Poll,21,Auburn,SEC,418
+2021,regular,9,Coaches Poll,22,UTSA,Conference USA,219
+2021,regular,9,Coaches Poll,23,Iowa State,Big 12,190
+2021,regular,9,Coaches Poll,24,Coastal Carolina,Sun Belt,134
+2021,regular,9,Coaches Poll,25,NC State,ACC,73
+2021,regular,10,Coaches Poll,1,Georgia,SEC,1600
+2021,regular,10,Coaches Poll,2,Cincinnati,American Athletic,1460
+2021,regular,10,Coaches Poll,3,Alabama,SEC,1453
+2021,regular,10,Coaches Poll,4,Oklahoma,Big 12,1423
+2021,regular,10,Coaches Poll,5,Ohio State,Big Ten,1336
+2021,regular,10,Coaches Poll,6,Michigan State,Big Ten,1325
+2021,regular,10,Coaches Poll,7,Oregon,Pac-12,1198
+2021,regular,10,Coaches Poll,8,Notre Dame,FBS Independents,1095
+2021,regular,10,Coaches Poll,9,Wake Forest,ACC,1051
+2021,regular,10,Coaches Poll,10,Michigan,Big Ten,1050
+2021,regular,10,Coaches Poll,11,Oklahoma State,Big 12,922
+2021,regular,10,Coaches Poll,12,Texas A&M,SEC,910
+2021,regular,10,Coaches Poll,13,Baylor,Big 12,815
+2021,regular,10,Coaches Poll,14,Auburn,SEC,802
+2021,regular,10,Coaches Poll,15,Ole Miss,SEC,680
+2021,regular,10,Coaches Poll,16,Iowa,Big Ten,512
+2021,regular,10,Coaches Poll,17,Kentucky,SEC,497
+2021,regular,10,Coaches Poll,18,UTSA,Conference USA,401
+2021,regular,10,Coaches Poll,19,Houston,American Athletic,349
+2021,regular,10,Coaches Poll,20,BYU,FBS Independents,310
+2021,regular,10,Coaches Poll,21,Coastal Carolina,Sun Belt,301
+2021,regular,10,Coaches Poll,22,NC State,ACC,265
+2021,regular,10,Coaches Poll,23,Penn State,Big Ten,215
+2021,regular,10,Coaches Poll,24,SMU,American Athletic,192
+2021,regular,10,Coaches Poll,25,Pittsburgh,ACC,162
+2021,regular,11,Coaches Poll,1,Georgia,SEC,1600
+2021,regular,11,Coaches Poll,2,Alabama,SEC,1483
+2021,regular,11,Coaches Poll,3,Cincinnati,American Athletic,1430
+2021,regular,11,Coaches Poll,4,Oklahoma,Big 12,1423
+2021,regular,11,Coaches Poll,5,Ohio State,Big Ten,1356
+2021,regular,11,Coaches Poll,6,Oregon,Pac-12,1291
+2021,regular,11,Coaches Poll,7,Notre Dame,FBS Independents,1182
+2021,regular,11,Coaches Poll,8,Michigan,Big Ten,1099
+2021,regular,11,Coaches Poll,9,Michigan State,Big Ten,1074
+2021,regular,11,Coaches Poll,10,Oklahoma State,Big 12,1045
+2021,regular,11,Coaches Poll,11,Texas A&M,SEC,1023
+2021,regular,11,Coaches Poll,12,Ole Miss,SEC,862
+2021,regular,11,Coaches Poll,13,Wake Forest,ACC,769
+2021,regular,11,Coaches Poll,14,Iowa,Big Ten,636
+2021,regular,11,Coaches Poll,15,BYU,FBS Independents,552
+2021,regular,11,Coaches Poll,16,UTSA,Conference USA,525
+2021,regular,11,Coaches Poll,17,Houston,American Athletic,472
+2021,regular,11,Coaches Poll,18,Baylor,Big 12,449
+2021,regular,11,Coaches Poll,19,NC State,ACC,445
+2021,regular,11,Coaches Poll,20,Auburn,SEC,382
+2021,regular,11,Coaches Poll,21,Coastal Carolina,Sun Belt,335
+2021,regular,11,Coaches Poll,22,Pittsburgh,ACC,293
+2021,regular,11,Coaches Poll,23,Penn State,Big Ten,249
+2021,regular,11,Coaches Poll,24,Wisconsin,Big Ten,177
+2021,regular,11,Coaches Poll,25,Louisiana,Sun Belt,164
+2021,regular,12,Coaches Poll,1,Georgia,SEC,1550
+2021,regular,12,Coaches Poll,2,Alabama,SEC,1464
+2021,regular,12,Coaches Poll,3,Cincinnati,American Athletic,1401
+2021,regular,12,Coaches Poll,4,Ohio State,Big Ten,1363
+2021,regular,12,Coaches Poll,5,Oregon,Pac-12,1320
+2021,regular,12,Coaches Poll,6,Notre Dame,FBS Independents,1181
+2021,regular,12,Coaches Poll,7,Michigan,Big Ten,1153
+2021,regular,12,Coaches Poll,8,Michigan State,Big Ten,1139
+2021,regular,12,Coaches Poll,9,Oklahoma State,Big 12,1102
+2021,regular,12,Coaches Poll,10,Ole Miss,SEC,948
+2021,regular,12,Coaches Poll,11,Oklahoma,Big 12,878
+2021,regular,12,Coaches Poll,12,Wake Forest,ACC,847
+2021,regular,12,Coaches Poll,13,Baylor,Big 12,826
+2021,regular,12,Coaches Poll,14,Iowa,Big Ten,637
+2021,regular,12,Coaches Poll,15,BYU,FBS Independents,605
+2021,regular,12,Coaches Poll,16,Texas A&M,SEC,560
+2021,regular,12,Coaches Poll,17,Houston,American Athletic,541
+2021,regular,12,Coaches Poll,18,UTSA,Conference USA,528
+2021,regular,12,Coaches Poll,19,Pittsburgh,ACC,446
+2021,regular,12,Coaches Poll,20,Wisconsin,Big Ten,407
+2021,regular,12,Coaches Poll,21,Louisiana,Sun Belt,239
+2021,regular,12,Coaches Poll,22,Arkansas,SEC,212
+2021,regular,12,Coaches Poll,23,San Diego State,Mountain West,210
+2021,regular,12,Coaches Poll,24,NC State,ACC,138
+2021,regular,12,Coaches Poll,25,Utah,Pac-12,133
+2021,regular,13,Coaches Poll,1,Georgia,SEC,1550
+2021,regular,13,Coaches Poll,2,Alabama,SEC,1450
+2021,regular,13,Coaches Poll,3,Ohio State,Big Ten,1428
+2021,regular,13,Coaches Poll,4,Cincinnati,American Athletic,1388
+2021,regular,13,Coaches Poll,5,Notre Dame,FBS Independents,1258
+2021,regular,13,Coaches Poll,6,Michigan,Big Ten,1250
+2021,regular,13,Coaches Poll,7,Oklahoma State,Big 12,1210
+2021,regular,13,Coaches Poll,8,Ole Miss,SEC,1049
+2021,regular,13,Coaches Poll,9,Oklahoma,Big 12,1010
+2021,regular,13,Coaches Poll,10,Baylor,Big 12,977
+2021,regular,13,Coaches Poll,11,Oregon,Pac-12,864
+2021,regular,13,Coaches Poll,12,Iowa,Big Ten,722
+2021,regular,13,Coaches Poll,13,Michigan State,Big Ten,698
+2021,regular,13,Coaches Poll,14,Texas A&M,SEC,683
+2021,regular,13,Coaches Poll,15,BYU,FBS Independents,675
+2021,regular,13,Coaches Poll,16,Houston,American Athletic,572
+2021,regular,13,Coaches Poll,17,Pittsburgh,ACC,507
+2021,regular,13,Coaches Poll,18,Wisconsin,Big Ten,485
+2021,regular,13,Coaches Poll,19,Utah,Pac-12,478
+2021,regular,13,Coaches Poll,20,UTSA,Conference USA,475
+2021,regular,13,Coaches Poll,21,Wake Forest,ACC,404
+2021,regular,13,Coaches Poll,22,San Diego State,Mountain West,257
+2021,regular,13,Coaches Poll,23,Louisiana,Sun Belt,236
+2021,regular,13,Coaches Poll,24,NC State,ACC,196
+2021,regular,13,Coaches Poll,25,Kentucky,SEC,91
+2021,regular,14,Coaches Poll,1,Georgia,SEC,1550
+2021,regular,14,Coaches Poll,2,Alabama,SEC,1440
+2021,regular,14,Coaches Poll,3,Michigan,Big Ten,1408
+2021,regular,14,Coaches Poll,4,Cincinnati,American Athletic,1399
+2021,regular,14,Coaches Poll,5,Oklahoma State,Big 12,1285
+2021,regular,14,Coaches Poll,6,Notre Dame,FBS Independents,1250
+2021,regular,14,Coaches Poll,7,Ohio State,Big Ten,1133
+2021,regular,14,Coaches Poll,8,Ole Miss,SEC,1097
+2021,regular,14,Coaches Poll,9,Baylor,Big 12,1046
+2021,regular,14,Coaches Poll,10,Oregon,Pac-12,932
+2021,regular,14,Coaches Poll,11,Oklahoma,Big 12,851
+2021,regular,14,Coaches Poll,12,Iowa,Big Ten,845
+2021,regular,14,Coaches Poll,13,Michigan State,Big Ten,840
+2021,regular,14,Coaches Poll,14,BYU,FBS Independents,741
+2021,regular,14,Coaches Poll,15,Pittsburgh,ACC,640
+2021,regular,14,Coaches Poll,16,Houston,American Athletic,607
+2021,regular,14,Coaches Poll,17,Utah,Pac-12,596
+2021,regular,14,Coaches Poll,18,Wake Forest,ACC,531
+2021,regular,14,Coaches Poll,19,San Diego State,Mountain West,396
+2021,regular,14,Coaches Poll,20,NC State,ACC,334
+2021,regular,14,Coaches Poll,21,Louisiana,Sun Belt,268
+2021,regular,14,Coaches Poll,22,Kentucky,SEC,226
+2021,regular,14,Coaches Poll,23,Texas A&M,SEC,202
+2021,regular,14,Coaches Poll,24,Clemson,ACC,170
+2021,regular,14,Coaches Poll,25,Arkansas,SEC,128
+2021,regular,15,Coaches Poll,1,Alabama,SEC,1540
+2021,regular,15,Coaches Poll,2,Michigan,Big Ten,1474
+2021,regular,15,Coaches Poll,3,Georgia,SEC,1420
+2021,regular,15,Coaches Poll,4,Cincinnati,American Athletic,1392
+2021,regular,15,Coaches Poll,5,Notre Dame,FBS Independents,1266
+2021,regular,15,Coaches Poll,6,Baylor,Big 12,1204
+2021,regular,15,Coaches Poll,7,Ohio State,Big Ten,1170
+2021,regular,15,Coaches Poll,8,Ole Miss,SEC,1134
+2021,regular,15,Coaches Poll,9,Oklahoma State,Big 12,1036
+2021,regular,15,Coaches Poll,10,Michigan State,Big Ten,903
+2021,regular,15,Coaches Poll,11,Utah,Pac-12,893
+2021,regular,15,Coaches Poll,12,Pittsburgh,ACC,886
+2021,regular,15,Coaches Poll,13,Oklahoma,Big 12,853
+2021,regular,15,Coaches Poll,14,BYU,FBS Independents,792
+2021,regular,15,Coaches Poll,15,Oregon,Pac-12,589
+2021,regular,15,Coaches Poll,16,Iowa,Big Ten,561
+2021,regular,15,Coaches Poll,17,Louisiana,Sun Belt,444
+2021,regular,15,Coaches Poll,18,NC State,ACC,436
+2021,regular,15,Coaches Poll,19,Wake Forest,ACC,389
+2021,regular,15,Coaches Poll,20,Kentucky,SEC,327
+2021,regular,15,Coaches Poll,21,Houston,American Athletic,315
+2021,regular,15,Coaches Poll,22,Clemson,ACC,252
+2021,regular,15,Coaches Poll,23,Texas A&M,SEC,239
+2021,regular,15,Coaches Poll,24,Arkansas,SEC,185
+2021,regular,15,Coaches Poll,25,UTSA,Conference USA,146
+2021,regular,10,Playoff Committee Rankings,1,Georgia,SEC,0
+2021,regular,10,Playoff Committee Rankings,2,Alabama,SEC,0
+2021,regular,10,Playoff Committee Rankings,3,Michigan State,Big Ten,0
+2021,regular,10,Playoff Committee Rankings,4,Oregon,Pac-12,0
+2021,regular,10,Playoff Committee Rankings,5,Ohio State,Big Ten,0
+2021,regular,10,Playoff Committee Rankings,6,Cincinnati,American Athletic,0
+2021,regular,10,Playoff Committee Rankings,7,Michigan,Big Ten,0
+2021,regular,10,Playoff Committee Rankings,8,Oklahoma,Big 12,0
+2021,regular,10,Playoff Committee Rankings,9,Wake Forest,ACC,0
+2021,regular,10,Playoff Committee Rankings,10,Notre Dame,FBS Independents,0
+2021,regular,10,Playoff Committee Rankings,11,Oklahoma State,Big 12,0
+2021,regular,10,Playoff Committee Rankings,12,Baylor,Big 12,0
+2021,regular,10,Playoff Committee Rankings,13,Auburn,SEC,0
+2021,regular,10,Playoff Committee Rankings,14,Texas A&M,SEC,0
+2021,regular,10,Playoff Committee Rankings,15,BYU,FBS Independents,0
+2021,regular,10,Playoff Committee Rankings,16,Ole Miss,SEC,0
+2021,regular,10,Playoff Committee Rankings,17,Mississippi State,SEC,0
+2021,regular,10,Playoff Committee Rankings,18,Kentucky,SEC,0
+2021,regular,10,Playoff Committee Rankings,19,NC State,ACC,0
+2021,regular,10,Playoff Committee Rankings,20,Minnesota,Big Ten,0
+2021,regular,10,Playoff Committee Rankings,21,Wisconsin,Big Ten,0
+2021,regular,10,Playoff Committee Rankings,22,Iowa,Big Ten,0
+2021,regular,10,Playoff Committee Rankings,23,Fresno State,Mountain West,0
+2021,regular,10,Playoff Committee Rankings,24,San Diego State,Mountain West,0
+2021,regular,10,Playoff Committee Rankings,25,Pittsburgh,ACC,0
+2021,regular,11,Playoff Committee Rankings,1,Georgia,SEC,0
+2021,regular,11,Playoff Committee Rankings,2,Alabama,SEC,0
+2021,regular,11,Playoff Committee Rankings,3,Oregon,Pac-12,0
+2021,regular,11,Playoff Committee Rankings,4,Ohio State,Big Ten,0
+2021,regular,11,Playoff Committee Rankings,5,Cincinnati,American Athletic,0
+2021,regular,11,Playoff Committee Rankings,6,Michigan,Big Ten,0
+2021,regular,11,Playoff Committee Rankings,7,Michigan State,Big Ten,0
+2021,regular,11,Playoff Committee Rankings,8,Oklahoma,Big 12,0
+2021,regular,11,Playoff Committee Rankings,9,Notre Dame,FBS Independents,0
+2021,regular,11,Playoff Committee Rankings,10,Oklahoma State,Big 12,0
+2021,regular,11,Playoff Committee Rankings,11,Texas A&M,SEC,0
+2021,regular,11,Playoff Committee Rankings,12,Wake Forest,ACC,0
+2021,regular,11,Playoff Committee Rankings,13,Baylor,Big 12,0
+2021,regular,11,Playoff Committee Rankings,14,BYU,FBS Independents,0
+2021,regular,11,Playoff Committee Rankings,15,Ole Miss,SEC,0
+2021,regular,11,Playoff Committee Rankings,16,NC State,ACC,0
+2021,regular,11,Playoff Committee Rankings,17,Auburn,SEC,0
+2021,regular,11,Playoff Committee Rankings,18,Wisconsin,Big Ten,0
+2021,regular,11,Playoff Committee Rankings,19,Purdue,Big Ten,0
+2021,regular,11,Playoff Committee Rankings,20,Iowa,Big Ten,0
+2021,regular,11,Playoff Committee Rankings,21,Pittsburgh,ACC,0
+2021,regular,11,Playoff Committee Rankings,22,San Diego State,Mountain West,0
+2021,regular,11,Playoff Committee Rankings,23,UTSA,Conference USA,0
+2021,regular,11,Playoff Committee Rankings,24,Utah,Pac-12,0
+2021,regular,11,Playoff Committee Rankings,25,Arkansas,SEC,0
+2021,regular,12,Playoff Committee Rankings,1,Georgia,SEC,0
+2021,regular,12,Playoff Committee Rankings,2,Alabama,SEC,0
+2021,regular,12,Playoff Committee Rankings,3,Oregon,Pac-12,0
+2021,regular,12,Playoff Committee Rankings,4,Ohio State,Big Ten,0
+2021,regular,12,Playoff Committee Rankings,5,Cincinnati,American Athletic,0
+2021,regular,12,Playoff Committee Rankings,6,Michigan,Big Ten,0
+2021,regular,12,Playoff Committee Rankings,7,Michigan State,Big Ten,0
+2021,regular,12,Playoff Committee Rankings,8,Notre Dame,FBS Independents,0
+2021,regular,12,Playoff Committee Rankings,9,Oklahoma State,Big 12,0
+2021,regular,12,Playoff Committee Rankings,10,Wake Forest,ACC,0
+2021,regular,12,Playoff Committee Rankings,11,Baylor,Big 12,0
+2021,regular,12,Playoff Committee Rankings,12,Ole Miss,SEC,0
+2021,regular,12,Playoff Committee Rankings,13,Oklahoma,Big 12,0
+2021,regular,12,Playoff Committee Rankings,14,BYU,FBS Independents,0
+2021,regular,12,Playoff Committee Rankings,15,Wisconsin,Big Ten,0
+2021,regular,12,Playoff Committee Rankings,16,Texas A&M,SEC,0
+2021,regular,12,Playoff Committee Rankings,17,Iowa,Big Ten,0
+2021,regular,12,Playoff Committee Rankings,18,Pittsburgh,ACC,0
+2021,regular,12,Playoff Committee Rankings,19,San Diego State,Mountain West,0
+2021,regular,12,Playoff Committee Rankings,20,NC State,ACC,0
+2021,regular,12,Playoff Committee Rankings,21,Arkansas,SEC,0
+2021,regular,12,Playoff Committee Rankings,22,UTSA,Conference USA,0
+2021,regular,12,Playoff Committee Rankings,23,Utah,Pac-12,0
+2021,regular,12,Playoff Committee Rankings,24,Houston,American Athletic,0
+2021,regular,12,Playoff Committee Rankings,25,Mississippi State,SEC,0
+2021,regular,13,Playoff Committee Rankings,1,Georgia,SEC,0
+2021,regular,13,Playoff Committee Rankings,2,Ohio State,Big Ten,0
+2021,regular,13,Playoff Committee Rankings,3,Alabama,SEC,0
+2021,regular,13,Playoff Committee Rankings,4,Cincinnati,American Athletic,0
+2021,regular,13,Playoff Committee Rankings,5,Michigan,Big Ten,0
+2021,regular,13,Playoff Committee Rankings,6,Notre Dame,FBS Independents,0
+2021,regular,13,Playoff Committee Rankings,7,Oklahoma State,Big 12,0
+2021,regular,13,Playoff Committee Rankings,8,Baylor,Big 12,0
+2021,regular,13,Playoff Committee Rankings,9,Ole Miss,SEC,0
+2021,regular,13,Playoff Committee Rankings,10,Oklahoma,Big 12,0
+2021,regular,13,Playoff Committee Rankings,11,Oregon,Pac-12,0
+2021,regular,13,Playoff Committee Rankings,12,Michigan State,Big Ten,0
+2021,regular,13,Playoff Committee Rankings,13,BYU,FBS Independents,0
+2021,regular,13,Playoff Committee Rankings,14,Wisconsin,Big Ten,0
+2021,regular,13,Playoff Committee Rankings,15,Texas A&M,SEC,0
+2021,regular,13,Playoff Committee Rankings,16,Iowa,Big Ten,0
+2021,regular,13,Playoff Committee Rankings,17,Pittsburgh,ACC,0
+2021,regular,13,Playoff Committee Rankings,18,Wake Forest,ACC,0
+2021,regular,13,Playoff Committee Rankings,19,Utah,Pac-12,0
+2021,regular,13,Playoff Committee Rankings,20,NC State,ACC,0
+2021,regular,13,Playoff Committee Rankings,21,San Diego State,Mountain West,0
+2021,regular,13,Playoff Committee Rankings,22,UTSA,Conference USA,0
+2021,regular,13,Playoff Committee Rankings,23,Clemson,ACC,0
+2021,regular,13,Playoff Committee Rankings,24,Houston,American Athletic,0
+2021,regular,13,Playoff Committee Rankings,25,Arkansas,SEC,0
+2021,regular,14,Playoff Committee Rankings,1,Georgia,SEC,0
+2021,regular,14,Playoff Committee Rankings,2,Michigan,Big Ten,0
+2021,regular,14,Playoff Committee Rankings,3,Alabama,SEC,0
+2021,regular,14,Playoff Committee Rankings,4,Cincinnati,American Athletic,0
+2021,regular,14,Playoff Committee Rankings,5,Oklahoma State,Big 12,0
+2021,regular,14,Playoff Committee Rankings,6,Notre Dame,FBS Independents,0
+2021,regular,14,Playoff Committee Rankings,7,Ohio State,Big Ten,0
+2021,regular,14,Playoff Committee Rankings,8,Ole Miss,SEC,0
+2021,regular,14,Playoff Committee Rankings,9,Baylor,Big 12,0
+2021,regular,14,Playoff Committee Rankings,10,Oregon,Pac-12,0
+2021,regular,14,Playoff Committee Rankings,11,Michigan State,Big Ten,0
+2021,regular,14,Playoff Committee Rankings,12,BYU,FBS Independents,0
+2021,regular,14,Playoff Committee Rankings,13,Iowa,Big Ten,0
+2021,regular,14,Playoff Committee Rankings,14,Oklahoma,Big 12,0
+2021,regular,14,Playoff Committee Rankings,15,Pittsburgh,ACC,0
+2021,regular,14,Playoff Committee Rankings,16,Wake Forest,ACC,0
+2021,regular,14,Playoff Committee Rankings,17,Utah,Pac-12,0
+2021,regular,14,Playoff Committee Rankings,18,NC State,ACC,0
+2021,regular,14,Playoff Committee Rankings,19,San Diego State,Mountain West,0
+2021,regular,14,Playoff Committee Rankings,20,Clemson,ACC,0
+2021,regular,14,Playoff Committee Rankings,21,Houston,American Athletic,0
+2021,regular,14,Playoff Committee Rankings,22,Arkansas,SEC,0
+2021,regular,14,Playoff Committee Rankings,23,Kentucky,SEC,0
+2021,regular,14,Playoff Committee Rankings,24,Louisiana,Sun Belt,0
+2021,regular,14,Playoff Committee Rankings,25,Texas A&M,SEC,0
+2021,regular,15,Playoff Committee Rankings,1,Alabama,SEC,0
+2021,regular,15,Playoff Committee Rankings,2,Michigan,Big Ten,0
+2021,regular,15,Playoff Committee Rankings,3,Georgia,SEC,0
+2021,regular,15,Playoff Committee Rankings,4,Cincinnati,American Athletic,0
+2021,regular,15,Playoff Committee Rankings,5,Notre Dame,FBS Independents,0
+2021,regular,15,Playoff Committee Rankings,6,Ohio State,Big Ten,0
+2021,regular,15,Playoff Committee Rankings,7,Baylor,Big 12,0
+2021,regular,15,Playoff Committee Rankings,8,Ole Miss,SEC,0
+2021,regular,15,Playoff Committee Rankings,9,Oklahoma State,Big 12,0
+2021,regular,15,Playoff Committee Rankings,10,Michigan State,Big Ten,0
+2021,regular,15,Playoff Committee Rankings,11,Utah,Pac-12,0
+2021,regular,15,Playoff Committee Rankings,12,Pittsburgh,ACC,0
+2021,regular,15,Playoff Committee Rankings,13,BYU,FBS Independents,0
+2021,regular,15,Playoff Committee Rankings,14,Oregon,Pac-12,0
+2021,regular,15,Playoff Committee Rankings,15,Iowa,Big Ten,0
+2021,regular,15,Playoff Committee Rankings,16,Oklahoma,Big 12,0
+2021,regular,15,Playoff Committee Rankings,17,Wake Forest,ACC,0
+2021,regular,15,Playoff Committee Rankings,18,NC State,ACC,0
+2021,regular,15,Playoff Committee Rankings,19,Clemson,ACC,0
+2021,regular,15,Playoff Committee Rankings,20,Houston,American Athletic,0
+2021,regular,15,Playoff Committee Rankings,21,Arkansas,SEC,0
+2021,regular,15,Playoff Committee Rankings,22,Kentucky,SEC,0
+2021,regular,15,Playoff Committee Rankings,23,Louisiana,Sun Belt,0
+2021,regular,15,Playoff Committee Rankings,24,San Diego State,Mountain West,0
+2021,regular,15,Playoff Committee Rankings,25,Texas A&M,SEC,0

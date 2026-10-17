@@ -3,12 +3,13 @@
 Reads  data/raw/games_<year>.csv and rankings_<year>.csv
 Writes data/clean/team_games_<year>.csv   one row per FBS team per completed game
        data/clean/upcoming_<year>.csv     FBS games not yet played
-       data/clean/rankings_<year>.csv     AP Top 25 + Coaches Poll only
+       data/clean/rankings_<year>.csv     AP, Coaches and CFP Committee polls only
        data/clean/dropped_games_<year>.csv  every game removed for bad data, with a reason
 
 Usage:
     python -m src.clean            # defaults to 2026
     python -m src.clean --year 2025
+    python -m src.clean --years 2014-2025
 """
 import argparse
 from pathlib import Path
@@ -19,7 +20,14 @@ ROOT = Path(__file__).resolve().parent.parent
 RAW_DIR = ROOT / "data" / "raw"
 CLEAN_DIR = ROOT / "data" / "clean"
 
-POLLS_KEPT = ["AP Top 25", "Coaches Poll"]
+# Known errors in the CFBD source, each verified against the official CFP release.
+# (season, poll, seasonType, week, school) -> correct rank
+RANK_CORRECTIONS = {
+    # Dec 3 2023 final list: FSU #5, Georgia #6. CFBD lists both at 5 and skips 6.
+    (2023, "Playoff Committee Rankings", "regular", 15, "Georgia"): 6,
+}
+
+POLLS_KEPT = ["AP Top 25", "Coaches Poll", "Playoff Committee Rankings"]
 
 
 def flag_bad_scores(games: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
@@ -71,6 +79,7 @@ def to_team_games(games: pd.DataFrame) -> pd.DataFrame:
                 "points_against": games[f"{opp}Points"],
                 "team_pregame_elo": games[f"{me}PregameElo"],
                 "opponent_pregame_elo": games[f"{opp}PregameElo"],
+                "team_postgame_elo": games[f"{me}PostgameElo"],
             }
         )
         return df
@@ -92,6 +101,12 @@ def to_team_games(games: pd.DataFrame) -> pd.DataFrame:
 def clean_rankings(rankings: pd.DataFrame) -> pd.DataFrame:
     out = rankings[rankings["poll"].isin(POLLS_KEPT)].copy()
     out = out.dropna(subset=["rank", "school"])
+    for (season, poll, season_type, week, school), rank in RANK_CORRECTIONS.items():
+        hit = (
+            (out["season"] == season) & (out["poll"] == poll) & (out["seasonType"] == season_type)
+            & (out["week"] == week) & (out["school"] == school)
+        )
+        out.loc[hit, "rank"] = rank
     out["rank"] = out["rank"].astype(int)
     out["week"] = out["week"].astype(int)
     return out.sort_values(["poll", "week", "rank"]).reset_index(drop=True)
@@ -134,4 +149,12 @@ def clean(year: int) -> None:
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--year", type=int, default=2026)
-    clean(parser.parse_args().year)
+    parser.add_argument("--years", help="Inclusive range such as 2014-2025; overrides --year")
+    args = parser.parse_args()
+    if args.years:
+        first, last = (int(y) for y in args.years.split("-"))
+        for y in range(first, last + 1):
+            print(f"--- {y} ---")
+            clean(y)
+    else:
+        clean(args.year)

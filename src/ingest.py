@@ -83,18 +83,29 @@ def ingest_rankings(year: int, key: str) -> pd.DataFrame:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--year", type=int, default=2026)
+    parser.add_argument(
+        "--years", help="Inclusive range such as 2014-2025; overrides --year"
+    )
     args = parser.parse_args()
+
+    if args.years:
+        first, last = (int(y) for y in args.years.split("-"))
+        years = list(range(first, last + 1))
+    else:
+        years = [args.year]
 
     key = get_api_key()
     RAW_DIR.mkdir(parents=True, exist_ok=True)
 
-    games = ingest_games(args.year, key)
-    games.to_csv(RAW_DIR / f"games_{args.year}.csv", index=False)
-    print(f"Saved {len(games)} games")
+    for year in years:
+        print(f"--- {year} ---")
+        games = ingest_games(year, key)
+        games.to_csv(RAW_DIR / f"games_{year}.csv", index=False)
+        print(f"Saved {len(games)} games")
 
-    rankings = ingest_rankings(args.year, key)
-    rankings.to_csv(RAW_DIR / f"rankings_{args.year}.csv", index=False)
-    print(f"Saved {len(rankings)} ranking rows")
+        rankings = ingest_rankings(year, key)
+        rankings.to_csv(RAW_DIR / f"rankings_{year}.csv", index=False)
+        print(f"Saved {len(rankings)} ranking rows")
 
 
 if __name__ == "__main__":

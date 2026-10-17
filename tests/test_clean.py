@@ -8,7 +8,7 @@ import pytest
 
 from src.clean import CLEAN_DIR, POLLS_KEPT, flag_bad_scores, keep_fbs_games, to_team_games
 
-YEAR = 2026
+YEARS = sorted(int(f.stem.split("_")[-1]) for f in CLEAN_DIR.glob("team_games_*.csv"))
 
 
 def make_games(**overrides) -> pd.DataFrame:
@@ -17,9 +17,9 @@ def make_games(**overrides) -> pd.DataFrame:
         "startDate": "2026-09-05T23:00:00.000Z", "completed": True,
         "neutralSite": False, "conferenceGame": False,
         "homeTeam": "Alpha", "homeClassification": "fbs", "homeConference": "X",
-        "homePoints": 30.0, "homePregameElo": 1500.0,
+        "homePoints": 30.0, "homePregameElo": 1500.0, "homePostgameElo": 1510.0,
         "awayTeam": "Beta", "awayClassification": "fbs", "awayConference": "Y",
-        "awayPoints": 20.0, "awayPregameElo": 1400.0,
+        "awayPoints": 20.0, "awayPregameElo": 1400.0, "awayPostgameElo": 1390.0,
     }
     row.update(overrides)
     return pd.DataFrame([row])
@@ -70,12 +70,14 @@ def test_neutral_site_is_not_home():
 
 # ---------- data-quality checks on the real cleaned output ----------
 
-@pytest.fixture(scope="module")
-def team_games() -> pd.DataFrame:
-    path = CLEAN_DIR / f"team_games_{YEAR}.csv"
-    if not path.exists():
-        pytest.skip("Run `python -m src.clean` first")
-    return pd.read_csv(path)
+@pytest.fixture(params=YEARS, ids=lambda y: str(y))
+def season(request) -> int:
+    return request.param
+
+
+@pytest.fixture
+def team_games(season) -> pd.DataFrame:
+    return pd.read_csv(CLEAN_DIR / f"team_games_{season}.csv")
 
 
 def test_no_duplicate_team_game_rows(team_games):
@@ -106,7 +108,8 @@ def test_team_plays_at_most_one_game_per_day(team_games):
 
 
 def test_game_counts_are_plausible(team_games):
-    assert team_games.groupby("team").size().max() <= 15
+    # 12 regular + conference title + up to 4 playoff games = 17 is the ceiling
+    assert team_games.groupby("team").size().max() <= 17
 
 
 def test_win_loss_totals_balance_for_fbs_vs_fbs(team_games):
@@ -114,11 +117,8 @@ def test_win_loss_totals_balance_for_fbs_vs_fbs(team_games):
     assert both_fbs["result"].sum() == len(both_fbs) / 2
 
 
-def test_ranked_schools_match_team_names(team_games):
-    path = CLEAN_DIR / f"rankings_{YEAR}.csv"
-    if not path.exists():
-        pytest.skip("Rankings not cleaned yet")
-    ranks = pd.read_csv(path)
+def test_ranked_schools_match_team_names(team_games, season):
+    ranks = pd.read_csv(CLEAN_DIR / f"rankings_{season}.csv")
     assert set(ranks["poll"]) <= set(POLLS_KEPT)
     unknown = set(ranks["school"]) - set(team_games["team"]) - set(team_games["opponent"])
     assert not unknown, f"Ranked schools missing from games data: {unknown}"

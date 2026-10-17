@@ -1,0 +1,951 @@
+season,seasonType,week,poll,rank,school,conference,points
+2022,postseason,1,AP Top 25,1,Georgia,SEC,1575
+2022,regular,1,AP Top 25,1,Alabama,SEC,1566
+2022,postseason,1,AP Top 25,2,TCU,Big 12,1484
+2022,regular,1,AP Top 25,2,Ohio State,Big Ten,1506
+2022,postseason,1,AP Top 25,3,Michigan,Big Ten,1438
+2022,regular,1,AP Top 25,3,Georgia,SEC,1455
+2022,postseason,1,AP Top 25,4,Ohio State,Big Ten,1394
+2022,regular,1,AP Top 25,4,Clemson,ACC,1292
+2022,postseason,1,AP Top 25,5,Alabama,SEC,1303
+2022,regular,1,AP Top 25,5,Notre Dame,FBS Independents,1242
+2022,postseason,1,AP Top 25,6,Tennessee,SEC,1294
+2022,regular,1,AP Top 25,6,Texas A&M,SEC,1212
+2022,postseason,1,AP Top 25,7,Penn State,Big Ten,1200
+2022,regular,1,AP Top 25,7,Utah,Pac-12,1209
+2022,postseason,1,AP Top 25,8,Washington,Pac-12,1097
+2022,regular,1,AP Top 25,8,Michigan,Big Ten,1203
+2022,postseason,1,AP Top 25,9,Tulane,American Athletic,1025
+2022,regular,1,AP Top 25,9,Oklahoma,Big 12,956
+2022,postseason,1,AP Top 25,10,Utah,Pac-12,876
+2022,regular,1,AP Top 25,10,Baylor,Big 12,884
+2022,postseason,1,AP Top 25,11,Florida State,ACC,814
+2022,regular,1,AP Top 25,11,Oregon,Pac-12,831
+2022,postseason,1,AP Top 25,12,USC,Pac-12,795
+2022,regular,1,AP Top 25,12,Oklahoma State,Big 12,814
+2022,postseason,1,AP Top 25,13,Clemson,ACC,791
+2022,regular,1,AP Top 25,13,NC State,ACC,752
+2022,postseason,1,AP Top 25,14,Kansas State,Big 12,784
+2022,regular,1,AP Top 25,14,USC,Pac-12,711
+2022,postseason,1,AP Top 25,15,Oregon,Pac-12,758
+2022,regular,1,AP Top 25,15,Michigan State,Big Ten,631
+2022,postseason,1,AP Top 25,16,LSU,SEC,757
+2022,regular,1,AP Top 25,16,Miami,ACC,476
+2022,postseason,1,AP Top 25,17,Oregon State,Pac-12,742
+2022,regular,1,AP Top 25,17,Pittsburgh,ACC,383
+2022,postseason,1,AP Top 25,18,Notre Dame,FBS Independents,535
+2022,regular,1,AP Top 25,18,Wisconsin,Big Ten,365
+2022,postseason,1,AP Top 25,19,Troy,Sun Belt,322
+2022,regular,1,AP Top 25,19,Arkansas,SEC,348
+2022,postseason,1,AP Top 25,20,Mississippi State,SEC,320
+2022,regular,1,AP Top 25,20,Kentucky,SEC,332
+2022,postseason,1,AP Top 25,21,UCLA,Pac-12,243
+2022,regular,1,AP Top 25,21,Ole Miss,SEC,324
+2022,postseason,1,AP Top 25,22,Pittsburgh,ACC,233
+2022,regular,1,AP Top 25,22,Wake Forest,ACC,303
+2022,postseason,1,AP Top 25,23,South Carolina,SEC,180
+2022,regular,1,AP Top 25,23,Cincinnati,American Athletic,265
+2022,postseason,1,AP Top 25,24,Fresno State,Mountain West,164
+2022,regular,1,AP Top 25,24,Houston,American Athletic,263
+2022,postseason,1,AP Top 25,25,Texas,Big 12,95
+2022,regular,1,AP Top 25,25,BYU,FBS Independents,234
+2022,regular,2,AP Top 25,1,Alabama,SEC,1552
+2022,regular,2,AP Top 25,2,Georgia,SEC,1511
+2022,regular,2,AP Top 25,3,Ohio State,Big Ten,1471
+2022,regular,2,AP Top 25,4,Michigan,Big Ten,1299
+2022,regular,2,AP Top 25,5,Clemson,ACC,1280
+2022,regular,2,AP Top 25,6,Texas A&M,SEC,1241
+2022,regular,2,AP Top 25,7,Oklahoma,Big 12,1130
+2022,regular,2,AP Top 25,8,Notre Dame,FBS Independents,1085
+2022,regular,2,AP Top 25,9,Baylor,Big 12,1057
+2022,regular,2,AP Top 25,10,USC,Pac-12,898
+2022,regular,2,AP Top 25,11,Oklahoma State,Big 12,818
+2022,regular,2,AP Top 25,12,Florida,SEC,763
+2022,regular,2,AP Top 25,13,Utah,Pac-12,717
+2022,regular,2,AP Top 25,14,Michigan State,Big Ten,690
+2022,regular,2,AP Top 25,15,Miami,ACC,679
+2022,regular,2,AP Top 25,16,Arkansas,SEC,678
+2022,regular,2,AP Top 25,17,Pittsburgh,ACC,535
+2022,regular,2,AP Top 25,18,NC State,ACC,513
+2022,regular,2,AP Top 25,19,Wisconsin,Big Ten,476
+2022,regular,2,AP Top 25,20,Kentucky,SEC,373
+2022,regular,2,AP Top 25,21,BYU,FBS Independents,266
+2022,regular,2,AP Top 25,22,Ole Miss,SEC,254
+2022,regular,2,AP Top 25,23,Wake Forest,ACC,246
+2022,regular,2,AP Top 25,24,Tennessee,SEC,194
+2022,regular,2,AP Top 25,25,Houston,American Athletic,143
+2022,regular,3,AP Top 25,1,Georgia,SEC,1561
+2022,regular,3,AP Top 25,2,Alabama,SEC,1496
+2022,regular,3,AP Top 25,3,Ohio State,Big Ten,1475
+2022,regular,3,AP Top 25,4,Michigan,Big Ten,1359
+2022,regular,3,AP Top 25,5,Clemson,ACC,1285
+2022,regular,3,AP Top 25,6,Oklahoma,Big 12,1209
+2022,regular,3,AP Top 25,7,USC,Pac-12,1139
+2022,regular,3,AP Top 25,8,Oklahoma State,Big 12,1004
+2022,regular,3,AP Top 25,9,Kentucky,SEC,992
+2022,regular,3,AP Top 25,10,Arkansas,SEC,938
+2022,regular,3,AP Top 25,11,Michigan State,Big Ten,902
+2022,regular,3,AP Top 25,12,BYU,FBS Independents,880
+2022,regular,3,AP Top 25,13,Miami,ACC,772
+2022,regular,3,AP Top 25,14,Utah,Pac-12,673
+2022,regular,3,AP Top 25,15,Tennessee,SEC,658
+2022,regular,3,AP Top 25,16,NC State,ACC,623
+2022,regular,3,AP Top 25,17,Baylor,Big 12,562
+2022,regular,3,AP Top 25,18,Florida,SEC,484
+2022,regular,3,AP Top 25,19,Wake Forest,ACC,449
+2022,regular,3,AP Top 25,20,Ole Miss,SEC,411
+2022,regular,3,AP Top 25,21,Texas,Big 12,276
+2022,regular,3,AP Top 25,22,Penn State,Big Ten,271
+2022,regular,3,AP Top 25,23,Pittsburgh,ACC,160
+2022,regular,3,AP Top 25,24,Texas A&M,SEC,145
+2022,regular,3,AP Top 25,25,Oregon,Pac-12,89
+2022,regular,4,AP Top 25,1,Georgia,SEC,1569
+2022,regular,4,AP Top 25,2,Alabama,SEC,1492
+2022,regular,4,AP Top 25,3,Ohio State,Big Ten,1473
+2022,regular,4,AP Top 25,4,Michigan,Big Ten,1364
+2022,regular,4,AP Top 25,5,Clemson,ACC,1268
+2022,regular,4,AP Top 25,6,Oklahoma,Big 12,1257
+2022,regular,4,AP Top 25,7,USC,Pac-12,1197
+2022,regular,4,AP Top 25,8,Kentucky,SEC,1096
+2022,regular,4,AP Top 25,9,Oklahoma State,Big 12,1071
+2022,regular,4,AP Top 25,10,Arkansas,SEC,920
+2022,regular,4,AP Top 25,11,Tennessee,SEC,866
+2022,regular,4,AP Top 25,12,NC State,ACC,781
+2022,regular,4,AP Top 25,13,Utah,Pac-12,684
+2022,regular,4,AP Top 25,14,Penn State,Big Ten,666
+2022,regular,4,AP Top 25,15,Oregon,Pac-12,593
+2022,regular,4,AP Top 25,16,Ole Miss,SEC,585
+2022,regular,4,AP Top 25,17,Baylor,Big 12,494
+2022,regular,4,AP Top 25,18,Washington,Pac-12,485
+2022,regular,4,AP Top 25,19,BYU,FBS Independents,381
+2022,regular,4,AP Top 25,20,Florida,SEC,360
+2022,regular,4,AP Top 25,21,Wake Forest,ACC,345
+2022,regular,4,AP Top 25,22,Texas,Big 12,339
+2022,regular,4,AP Top 25,23,Texas A&M,SEC,309
+2022,regular,4,AP Top 25,24,Pittsburgh,ACC,181
+2022,regular,4,AP Top 25,25,Miami,ACC,123
+2022,regular,5,AP Top 25,1,Georgia,SEC,1565
+2022,regular,5,AP Top 25,2,Alabama,SEC,1487
+2022,regular,5,AP Top 25,3,Ohio State,Big Ten,1483
+2022,regular,5,AP Top 25,4,Michigan,Big Ten,1354
+2022,regular,5,AP Top 25,5,Clemson,ACC,1311
+2022,regular,5,AP Top 25,6,USC,Pac-12,1236
+2022,regular,5,AP Top 25,7,Kentucky,SEC,1127
+2022,regular,5,AP Top 25,8,Tennessee,SEC,1119
+2022,regular,5,AP Top 25,9,Oklahoma State,Big 12,1081
+2022,regular,5,AP Top 25,10,NC State,ACC,920
+2022,regular,5,AP Top 25,11,Penn State,Big Ten,876
+2022,regular,5,AP Top 25,12,Utah,Pac-12,760
+2022,regular,5,AP Top 25,13,Oregon,Pac-12,727
+2022,regular,5,AP Top 25,14,Ole Miss,SEC,691
+2022,regular,5,AP Top 25,15,Washington,Pac-12,657
+2022,regular,5,AP Top 25,16,Baylor,Big 12,550
+2022,regular,5,AP Top 25,17,Texas A&M,SEC,543
+2022,regular,5,AP Top 25,18,Oklahoma,Big 12,529
+2022,regular,5,AP Top 25,19,BYU,FBS Independents,482
+2022,regular,5,AP Top 25,20,Arkansas,SEC,457
+2022,regular,5,AP Top 25,21,Minnesota,Big Ten,288
+2022,regular,5,AP Top 25,22,Wake Forest,ACC,265
+2022,regular,5,AP Top 25,23,Florida State,ACC,244
+2022,regular,5,AP Top 25,24,Pittsburgh,ACC,209
+2022,regular,5,AP Top 25,25,Kansas State,Big 12,166
+2022,regular,6,AP Top 25,1,Alabama,SEC,1523
+2022,regular,6,AP Top 25,2,Georgia,SEC,1521
+2022,regular,6,AP Top 25,3,Ohio State,Big Ten,1488
+2022,regular,6,AP Top 25,4,Michigan,Big Ten,1348
+2022,regular,6,AP Top 25,5,Clemson,ACC,1345
+2022,regular,6,AP Top 25,6,USC,Pac-12,1233
+2022,regular,6,AP Top 25,7,Oklahoma State,Big 12,1182
+2022,regular,6,AP Top 25,8,Tennessee,SEC,1129
+2022,regular,6,AP Top 25,9,Ole Miss,SEC,1068
+2022,regular,6,AP Top 25,10,Penn State,Big Ten,959
+2022,regular,6,AP Top 25,11,Utah,Pac-12,884
+2022,regular,6,AP Top 25,12,Oregon,Pac-12,872
+2022,regular,6,AP Top 25,13,Kentucky,SEC,832
+2022,regular,6,AP Top 25,14,NC State,ACC,691
+2022,regular,6,AP Top 25,15,Wake Forest,ACC,627
+2022,regular,6,AP Top 25,16,BYU,FBS Independents,604
+2022,regular,6,AP Top 25,17,TCU,Big 12,514
+2022,regular,6,AP Top 25,18,UCLA,Pac-12,510
+2022,regular,6,AP Top 25,19,Kansas,Big 12,476
+2022,regular,6,AP Top 25,20,Kansas State,Big 12,417
+2022,regular,6,AP Top 25,21,Washington,Pac-12,180
+2022,regular,6,AP Top 25,22,Syracuse,ACC,173
+2022,regular,6,AP Top 25,23,Mississippi State,SEC,164
+2022,regular,6,AP Top 25,24,Cincinnati,American Athletic,134
+2022,regular,6,AP Top 25,25,LSU,SEC,108
+2022,regular,7,AP Top 25,1,Georgia,SEC,1535
+2022,regular,7,AP Top 25,2,Ohio State,Big Ten,1507
+2022,regular,7,AP Top 25,3,Alabama,SEC,1489
+2022,regular,7,AP Top 25,4,Clemson,ACC,1348
+2022,regular,7,AP Top 25,5,Michigan,Big Ten,1319
+2022,regular,7,AP Top 25,6,Tennessee,SEC,1232
+2022,regular,7,AP Top 25,7,USC,Pac-12,1214
+2022,regular,7,AP Top 25,8,Oklahoma State,Big 12,1150
+2022,regular,7,AP Top 25,9,Ole Miss,SEC,1061
+2022,regular,7,AP Top 25,10,Penn State,Big Ten,974
+2022,regular,7,AP Top 25,11,UCLA,Pac-12,907
+2022,regular,7,AP Top 25,12,Oregon,Pac-12,893
+2022,regular,7,AP Top 25,13,TCU,Big 12,819
+2022,regular,7,AP Top 25,14,Wake Forest,ACC,748
+2022,regular,7,AP Top 25,15,NC State,ACC,746
+2022,regular,7,AP Top 25,16,Mississippi State,SEC,589
+2022,regular,7,AP Top 25,17,Kansas State,Big 12,559
+2022,regular,7,AP Top 25,18,Syracuse,ACC,393
+2022,regular,7,AP Top 25,19,Kansas,Big 12,330
+2022,regular,7,AP Top 25,20,Utah,Pac-12,328
+2022,regular,7,AP Top 25,21,Cincinnati,American Athletic,257
+2022,regular,7,AP Top 25,22,Kentucky,SEC,150
+2022,regular,7,AP Top 25,22,Texas,Big 12,150
+2022,regular,7,AP Top 25,24,Illinois,Big Ten,117
+2022,regular,7,AP Top 25,25,James Madison,Sun Belt,105
+2022,regular,8,AP Top 25,1,Georgia,SEC,1530
+2022,regular,8,AP Top 25,2,Ohio State,Big Ten,1509
+2022,regular,8,AP Top 25,3,Tennessee,SEC,1474
+2022,regular,8,AP Top 25,4,Michigan,Big Ten,1384
+2022,regular,8,AP Top 25,5,Clemson,ACC,1336
+2022,regular,8,AP Top 25,6,Alabama,SEC,1232
+2022,regular,8,AP Top 25,7,Ole Miss,SEC,1173
+2022,regular,8,AP Top 25,8,TCU,Big 12,1166
+2022,regular,8,AP Top 25,9,UCLA,Pac-12,1048
+2022,regular,8,AP Top 25,10,Oregon,Pac-12,953
+2022,regular,8,AP Top 25,11,Oklahoma State,Big 12,913
+2022,regular,8,AP Top 25,12,USC,Pac-12,861
+2022,regular,8,AP Top 25,13,Wake Forest,ACC,790
+2022,regular,8,AP Top 25,14,Syracuse,ACC,751
+2022,regular,8,AP Top 25,15,Utah,Pac-12,715
+2022,regular,8,AP Top 25,16,Penn State,Big Ten,629
+2022,regular,8,AP Top 25,17,Kansas State,Big 12,599
+2022,regular,8,AP Top 25,18,Illinois,Big Ten,433
+2022,regular,8,AP Top 25,19,Kentucky,SEC,414
+2022,regular,8,AP Top 25,20,Texas,Big 12,368
+2022,regular,8,AP Top 25,21,Cincinnati,American Athletic,321
+2022,regular,8,AP Top 25,22,North Carolina,ACC,210
+2022,regular,8,AP Top 25,23,NC State,ACC,155
+2022,regular,8,AP Top 25,24,Mississippi State,SEC,150
+2022,regular,8,AP Top 25,25,Tulane,American Athletic,115
+2022,regular,9,AP Top 25,1,Georgia,SEC,1530
+2022,regular,9,AP Top 25,2,Ohio State,Big Ten,1513
+2022,regular,9,AP Top 25,3,Tennessee,SEC,1476
+2022,regular,9,AP Top 25,4,Michigan,Big Ten,1382
+2022,regular,9,AP Top 25,5,Clemson,ACC,1318
+2022,regular,9,AP Top 25,6,Alabama,SEC,1266
+2022,regular,9,AP Top 25,7,TCU,Big 12,1213
+2022,regular,9,AP Top 25,8,Oregon,Pac-12,1114
+2022,regular,9,AP Top 25,9,Oklahoma State,Big 12,1064
+2022,regular,9,AP Top 25,10,USC,Pac-12,927
+2022,regular,9,AP Top 25,10,Wake Forest,ACC,927
+2022,regular,9,AP Top 25,12,UCLA,Pac-12,803
+2022,regular,9,AP Top 25,13,Penn State,Big Ten,783
+2022,regular,9,AP Top 25,14,Utah,Pac-12,766
+2022,regular,9,AP Top 25,15,Ole Miss,SEC,744
+2022,regular,9,AP Top 25,16,Syracuse,ACC,626
+2022,regular,9,AP Top 25,17,Illinois,Big Ten,508
+2022,regular,9,AP Top 25,18,LSU,SEC,502
+2022,regular,9,AP Top 25,19,Kentucky,SEC,429
+2022,regular,9,AP Top 25,20,Cincinnati,American Athletic,386
+2022,regular,9,AP Top 25,21,North Carolina,ACC,278
+2022,regular,9,AP Top 25,22,Kansas State,Big 12,272
+2022,regular,9,AP Top 25,23,Tulane,American Athletic,243
+2022,regular,9,AP Top 25,24,NC State,ACC,169
+2022,regular,9,AP Top 25,25,South Carolina,SEC,113
+2022,regular,10,AP Top 25,1,Georgia,SEC,1528
+2022,regular,10,AP Top 25,2,Tennessee,SEC,1500
+2022,regular,10,AP Top 25,2,Ohio State,Big Ten,1500
+2022,regular,10,AP Top 25,4,Michigan,Big Ten,1378
+2022,regular,10,AP Top 25,5,Clemson,ACC,1312
+2022,regular,10,AP Top 25,6,Alabama,SEC,1258
+2022,regular,10,AP Top 25,7,TCU,Big 12,1220
+2022,regular,10,AP Top 25,8,Oregon,Pac-12,1135
+2022,regular,10,AP Top 25,9,USC,Pac-12,1010
+2022,regular,10,AP Top 25,10,UCLA,Pac-12,979
+2022,regular,10,AP Top 25,11,Ole Miss,SEC,905
+2022,regular,10,AP Top 25,12,Utah,Pac-12,876
+2022,regular,10,AP Top 25,13,Kansas State,Big 12,772
+2022,regular,10,AP Top 25,14,Illinois,Big Ten,741
+2022,regular,10,AP Top 25,15,LSU,SEC,679
+2022,regular,10,AP Top 25,16,Penn State,Big Ten,641
+2022,regular,10,AP Top 25,17,North Carolina,ACC,542
+2022,regular,10,AP Top 25,18,Oklahoma State,Big 12,513
+2022,regular,10,AP Top 25,19,Tulane,American Athletic,455
+2022,regular,10,AP Top 25,20,Wake Forest,ACC,388
+2022,regular,10,AP Top 25,21,NC State,ACC,285
+2022,regular,10,AP Top 25,22,Syracuse,ACC,205
+2022,regular,10,AP Top 25,23,Liberty,FBS Independents,136
+2022,regular,10,AP Top 25,24,Oregon State,Pac-12,129
+2022,regular,10,AP Top 25,25,UCF,American Athletic,111
+2022,regular,11,AP Top 25,1,Georgia,SEC,1574
+2022,regular,11,AP Top 25,2,Ohio State,Big Ten,1500
+2022,regular,11,AP Top 25,3,Michigan,Big Ten,1455
+2022,regular,11,AP Top 25,4,TCU,Big 12,1361
+2022,regular,11,AP Top 25,5,Tennessee,SEC,1339
+2022,regular,11,AP Top 25,6,Oregon,Pac-12,1258
+2022,regular,11,AP Top 25,7,LSU,SEC,1132
+2022,regular,11,AP Top 25,8,USC,Pac-12,1061
+2022,regular,11,AP Top 25,9,UCLA,Pac-12,1040
+2022,regular,11,AP Top 25,10,Alabama,SEC,1009
+2022,regular,11,AP Top 25,11,Ole Miss,SEC,962
+2022,regular,11,AP Top 25,12,Clemson,ACC,938
+2022,regular,11,AP Top 25,13,Utah,Pac-12,881
+2022,regular,11,AP Top 25,14,Penn State,Big Ten,735
+2022,regular,11,AP Top 25,15,North Carolina,ACC,676
+2022,regular,11,AP Top 25,16,Tulane,American Athletic,607
+2022,regular,11,AP Top 25,17,NC State,ACC,547
+2022,regular,11,AP Top 25,18,Texas,Big 12,399
+2022,regular,11,AP Top 25,19,Liberty,FBS Independents,358
+2022,regular,11,AP Top 25,20,Notre Dame,FBS Independents,316
+2022,regular,11,AP Top 25,21,Illinois,Big Ten,262
+2022,regular,11,AP Top 25,22,UCF,American Athletic,257
+2022,regular,11,AP Top 25,23,Kansas State,Big 12,247
+2022,regular,11,AP Top 25,24,Washington,Pac-12,187
+2022,regular,11,AP Top 25,25,Florida State,ACC,78
+2022,regular,12,AP Top 25,1,Georgia,SEC,1574
+2022,regular,12,AP Top 25,2,Ohio State,Big Ten,1501
+2022,regular,12,AP Top 25,3,Michigan,Big Ten,1453
+2022,regular,12,AP Top 25,4,TCU,Big 12,1374
+2022,regular,12,AP Top 25,5,Tennessee,SEC,1341
+2022,regular,12,AP Top 25,6,LSU,SEC,1218
+2022,regular,12,AP Top 25,7,USC,Pac-12,1152
+2022,regular,12,AP Top 25,8,Alabama,SEC,1140
+2022,regular,12,AP Top 25,9,Clemson,ACC,1055
+2022,regular,12,AP Top 25,10,Utah,Pac-12,965
+2022,regular,12,AP Top 25,11,Penn State,Big Ten,882
+2022,regular,12,AP Top 25,12,Oregon,Pac-12,856
+2022,regular,12,AP Top 25,13,North Carolina,ACC,843
+2022,regular,12,AP Top 25,14,Ole Miss,SEC,797
+2022,regular,12,AP Top 25,15,Washington,Pac-12,693
+2022,regular,12,AP Top 25,16,UCLA,Pac-12,648
+2022,regular,12,AP Top 25,17,UCF,American Athletic,537
+2022,regular,12,AP Top 25,18,Notre Dame,FBS Independents,495
+2022,regular,12,AP Top 25,19,Kansas State,Big 12,468
+2022,regular,12,AP Top 25,20,Florida State,ACC,386
+2022,regular,12,AP Top 25,21,Tulane,American Athletic,273
+2022,regular,12,AP Top 25,22,Cincinnati,American Athletic,237
+2022,regular,12,AP Top 25,23,Coastal Carolina,Sun Belt,143
+2022,regular,12,AP Top 25,24,Oklahoma State,Big 12,85
+2022,regular,12,AP Top 25,25,Oregon State,Pac-12,81
+2022,regular,13,AP Top 25,1,Georgia,SEC,1574
+2022,regular,13,AP Top 25,2,Ohio State,Big Ten,1507
+2022,regular,13,AP Top 25,3,Michigan,Big Ten,1446
+2022,regular,13,AP Top 25,4,TCU,Big 12,1395
+2022,regular,13,AP Top 25,5,USC,Pac-12,1293
+2022,regular,13,AP Top 25,6,LSU,SEC,1241
+2022,regular,13,AP Top 25,7,Clemson,ACC,1152
+2022,regular,13,AP Top 25,8,Alabama,SEC,1131
+2022,regular,13,AP Top 25,9,Tennessee,SEC,1058
+2022,regular,13,AP Top 25,10,Oregon,Pac-12,1009
+2022,regular,13,AP Top 25,11,Penn State,Big Ten,994
+2022,regular,13,AP Top 25,12,Washington,Pac-12,879
+2022,regular,13,AP Top 25,13,Notre Dame,FBS Independents,710
+2022,regular,13,AP Top 25,14,Utah,Pac-12,709
+2022,regular,13,AP Top 25,15,Kansas State,Big 12,697
+2022,regular,13,AP Top 25,16,Florida State,ACC,579
+2022,regular,13,AP Top 25,17,UCLA,Pac-12,562
+2022,regular,13,AP Top 25,18,North Carolina,ACC,464
+2022,regular,13,AP Top 25,19,Tulane,American Athletic,441
+2022,regular,13,AP Top 25,20,Ole Miss,SEC,395
+2022,regular,13,AP Top 25,21,Cincinnati,American Athletic,353
+2022,regular,13,AP Top 25,22,Oregon State,Pac-12,271
+2022,regular,13,AP Top 25,23,Coastal Carolina,Sun Belt,186
+2022,regular,13,AP Top 25,24,Texas,Big 12,128
+2022,regular,13,AP Top 25,25,UCF,American Athletic,87
+2022,regular,14,AP Top 25,1,Georgia,SEC,1570
+2022,regular,14,AP Top 25,2,Michigan,Big Ten,1516
+2022,regular,14,AP Top 25,3,TCU,Big 12,1449
+2022,regular,14,AP Top 25,4,USC,Pac-12,1382
+2022,regular,14,AP Top 25,5,Ohio State,Big Ten,1313
+2022,regular,14,AP Top 25,6,Alabama,SEC,1243
+2022,regular,14,AP Top 25,7,Tennessee,SEC,1195
+2022,regular,14,AP Top 25,8,Penn State,Big Ten,1131
+2022,regular,14,AP Top 25,9,Washington,Pac-12,1048
+2022,regular,14,AP Top 25,10,Clemson,ACC,928
+2022,regular,14,AP Top 25,11,LSU,SEC,874
+2022,regular,14,AP Top 25,12,Utah,Pac-12,849
+2022,regular,14,AP Top 25,13,Kansas State,Big 12,815
+2022,regular,14,AP Top 25,14,Florida State,ACC,730
+2022,regular,14,AP Top 25,15,Oregon,Pac-12,701
+2022,regular,14,AP Top 25,16,Oregon State,Pac-12,662
+2022,regular,14,AP Top 25,17,UCLA,Pac-12,618
+2022,regular,14,AP Top 25,18,Tulane,American Athletic,551
+2022,regular,14,AP Top 25,19,Notre Dame,FBS Independents,384
+2022,regular,14,AP Top 25,20,South Carolina,SEC,358
+2022,regular,14,AP Top 25,21,Texas,Big 12,316
+2022,regular,14,AP Top 25,22,UCF,American Athletic,170
+2022,regular,14,AP Top 25,23,UTSA,Conference USA,145
+2022,regular,14,AP Top 25,24,North Carolina,ACC,114
+2022,regular,14,AP Top 25,25,Mississippi State,SEC,99
+2022,regular,15,AP Top 25,1,Georgia,SEC,1574
+2022,regular,15,AP Top 25,2,Michigan,Big Ten,1513
+2022,regular,15,AP Top 25,3,TCU,Big 12,1430
+2022,regular,15,AP Top 25,4,Ohio State,Big Ten,1398
+2022,regular,15,AP Top 25,5,Alabama,SEC,1285
+2022,regular,15,AP Top 25,6,Tennessee,SEC,1233
+2022,regular,15,AP Top 25,7,Utah,Pac-12,1110
+2022,regular,15,AP Top 25,8,USC,Pac-12,1068
+2022,regular,15,AP Top 25,9,Penn State,Big Ten,1063
+2022,regular,15,AP Top 25,10,Clemson,ACC,1042
+2022,regular,15,AP Top 25,11,Kansas State,Big 12,1032
+2022,regular,15,AP Top 25,12,Washington,Pac-12,933
+2022,regular,15,AP Top 25,13,Florida State,ACC,708
+2022,regular,15,AP Top 25,14,Tulane,American Athletic,681
+2022,regular,15,AP Top 25,15,Oregon,Pac-12,670
+2022,regular,15,AP Top 25,16,LSU,SEC,660
+2022,regular,15,AP Top 25,17,Oregon State,Pac-12,644
+2022,regular,15,AP Top 25,18,UCLA,Pac-12,570
+2022,regular,15,AP Top 25,19,Notre Dame,FBS Independents,394
+2022,regular,15,AP Top 25,20,South Carolina,SEC,382
+2022,regular,15,AP Top 25,21,Texas,Big 12,305
+2022,regular,15,AP Top 25,22,UTSA,Conference USA,227
+2022,regular,15,AP Top 25,23,Troy,Sun Belt,158
+2022,regular,15,AP Top 25,24,Mississippi State,SEC,119
+2022,regular,15,AP Top 25,25,NC State,ACC,59
+2022,postseason,1,Coaches Poll,1,Georgia,SEC,1575
+2022,regular,1,Coaches Poll,1,Alabama,SEC,1634
+2022,postseason,1,Coaches Poll,2,TCU,Big 12,1482
+2022,regular,1,Coaches Poll,2,Ohio State,Big Ten,1564
+2022,postseason,1,Coaches Poll,3,Michigan,Big Ten,1423
+2022,regular,1,Coaches Poll,3,Georgia,SEC,1542
+2022,postseason,1,Coaches Poll,4,Ohio State,Big Ten,1404
+2022,regular,1,Coaches Poll,4,Clemson,ACC,1356
+2022,postseason,1,Coaches Poll,5,Alabama,SEC,1329
+2022,regular,1,Coaches Poll,5,Notre Dame,FBS Independents,1284
+2022,postseason,1,Coaches Poll,6,Tennessee,SEC,1273
+2022,regular,1,Coaches Poll,6,Michigan,Big Ten,1232
+2022,postseason,1,Coaches Poll,7,Penn State,Big Ten,1199
+2022,regular,1,Coaches Poll,7,Texas A&M,SEC,1219
+2022,postseason,1,Coaches Poll,8,Washington,Pac-12,1091
+2022,regular,1,Coaches Poll,8,Utah,Pac-12,1134
+2022,postseason,1,Coaches Poll,9,Tulane,American Athletic,981
+2022,regular,1,Coaches Poll,9,Oklahoma,Big 12,1027
+2022,postseason,1,Coaches Poll,10,Florida State,ACC,926
+2022,regular,1,Coaches Poll,10,Baylor,Big 12,891
+2022,postseason,1,Coaches Poll,11,Utah,Pac-12,878
+2022,regular,1,Coaches Poll,11,Oklahoma State,Big 12,859
+2022,postseason,1,Coaches Poll,12,Clemson,ACC,839
+2022,regular,1,Coaches Poll,12,Oregon,Pac-12,734
+2022,postseason,1,Coaches Poll,13,USC,Pac-12,829
+2022,regular,1,Coaches Poll,13,NC State,ACC,726
+2022,postseason,1,Coaches Poll,14,Kansas State,Big 12,769
+2022,regular,1,Coaches Poll,14,Michigan State,Big Ten,711
+2022,postseason,1,Coaches Poll,15,LSU,SEC,766
+2022,regular,1,Coaches Poll,15,USC,Pac-12,602
+2022,postseason,1,Coaches Poll,16,Oregon,Pac-12,708
+2022,regular,1,Coaches Poll,16,Pittsburgh,ACC,450
+2022,postseason,1,Coaches Poll,17,Oregon State,Pac-12,690
+2022,regular,1,Coaches Poll,17,Miami,ACC,433
+2022,postseason,1,Coaches Poll,18,Notre Dame,FBS Independents,498
+2022,regular,1,Coaches Poll,18,Texas,Big 12,383
+2022,postseason,1,Coaches Poll,19,Mississippi State,SEC,364
+2022,regular,1,Coaches Poll,19,Wake Forest,ACC,381
+2022,postseason,1,Coaches Poll,20,Troy,Sun Belt,314
+2022,regular,1,Coaches Poll,20,Wisconsin,Big Ten,369
+2022,postseason,1,Coaches Poll,21,UCLA,Pac-12,238
+2022,regular,1,Coaches Poll,21,Kentucky,SEC,353
+2022,postseason,1,Coaches Poll,22,Pittsburgh,ACC,193
+2022,regular,1,Coaches Poll,22,Cincinnati,American Athletic,339
+2022,postseason,1,Coaches Poll,23,South Carolina,SEC,164
+2022,regular,1,Coaches Poll,23,Arkansas,SEC,334
+2022,postseason,1,Coaches Poll,24,Fresno State,Mountain West,134
+2022,regular,1,Coaches Poll,24,Ole Miss,SEC,327
+2022,postseason,1,Coaches Poll,25,Texas,Big 12,69
+2022,regular,1,Coaches Poll,25,Houston,American Athletic,257
+2022,regular,2,Coaches Poll,1,Alabama,SEC,1615
+2022,regular,2,Coaches Poll,2,Georgia,SEC,1542
+2022,regular,2,Coaches Poll,3,Ohio State,Big Ten,1520
+2022,regular,2,Coaches Poll,4,Clemson,ACC,1380
+2022,regular,2,Coaches Poll,5,Michigan,Big Ten,1333
+2022,regular,2,Coaches Poll,6,Texas A&M,SEC,1268
+2022,regular,2,Coaches Poll,7,Oklahoma,Big 12,1160
+2022,regular,2,Coaches Poll,8,Baylor,Big 12,1103
+2022,regular,2,Coaches Poll,9,Notre Dame,FBS Independents,1077
+2022,regular,2,Coaches Poll,10,Oklahoma State,Big 12,938
+2022,regular,2,Coaches Poll,11,Michigan State,Big Ten,860
+2022,regular,2,Coaches Poll,12,USC,Pac-12,849
+2022,regular,2,Coaches Poll,13,NC State,ACC,642
+2022,regular,2,Coaches Poll,14,Pittsburgh,ACC,624
+2022,regular,2,Coaches Poll,15,Utah,Pac-12,605
+2022,regular,2,Coaches Poll,16,Miami,ACC,591
+2022,regular,2,Coaches Poll,17,Arkansas,SEC,554
+2022,regular,2,Coaches Poll,18,Wisconsin,Big Ten,495
+2022,regular,2,Coaches Poll,19,Florida,SEC,469
+2022,regular,2,Coaches Poll,20,Kentucky,SEC,421
+2022,regular,2,Coaches Poll,21,Wake Forest,ACC,353
+2022,regular,2,Coaches Poll,22,Texas,Big 12,351
+2022,regular,2,Coaches Poll,23,Ole Miss,SEC,292
+2022,regular,2,Coaches Poll,24,Oregon,Pac-12,206
+2022,regular,2,Coaches Poll,25,BYU,FBS Independents,170
+2022,regular,3,Coaches Poll,1,Alabama,SEC,1592
+2022,regular,3,Coaches Poll,2,Georgia,SEC,1574
+2022,regular,3,Coaches Poll,3,Ohio State,Big Ten,1514
+2022,regular,3,Coaches Poll,4,Clemson,ACC,1387
+2022,regular,3,Coaches Poll,5,Michigan,Big Ten,1370
+2022,regular,3,Coaches Poll,6,Oklahoma,Big 12,1253
+2022,regular,3,Coaches Poll,7,Oklahoma State,Big 12,1137
+2022,regular,3,Coaches Poll,8,USC,Pac-12,1133
+2022,regular,3,Coaches Poll,9,Michigan State,Big Ten,1026
+2022,regular,3,Coaches Poll,10,Kentucky,SEC,901
+2022,regular,3,Coaches Poll,11,Arkansas,SEC,857
+2022,regular,3,Coaches Poll,12,NC State,ACC,816
+2022,regular,3,Coaches Poll,13,Miami,ACC,805
+2022,regular,3,Coaches Poll,14,BYU,FBS Independents,739
+2022,regular,3,Coaches Poll,15,Utah,Pac-12,673
+2022,regular,3,Coaches Poll,16,Tennessee,SEC,556
+2022,regular,3,Coaches Poll,17,Ole Miss,SEC,552
+2022,regular,3,Coaches Poll,18,Wake Forest,ACC,540
+2022,regular,3,Coaches Poll,19,Baylor,Big 12,531
+2022,regular,3,Coaches Poll,20,Texas,Big 12,306
+2022,regular,3,Coaches Poll,21,Florida,SEC,297
+2022,regular,3,Coaches Poll,22,Texas A&M,SEC,285
+2022,regular,3,Coaches Poll,23,Penn State,Big Ten,279
+2022,regular,3,Coaches Poll,24,Oregon,Pac-12,197
+2022,regular,3,Coaches Poll,25,Pittsburgh,ACC,157
+2022,regular,4,Coaches Poll,1,Georgia,SEC,1594
+2022,regular,4,Coaches Poll,2,Alabama,SEC,1580
+2022,regular,4,Coaches Poll,3,Ohio State,Big Ten,1505
+2022,regular,4,Coaches Poll,4,Michigan,Big Ten,1379
+2022,regular,4,Coaches Poll,5,Clemson,ACC,1362
+2022,regular,4,Coaches Poll,6,Oklahoma,Big 12,1281
+2022,regular,4,Coaches Poll,7,USC,Pac-12,1183
+2022,regular,4,Coaches Poll,8,Oklahoma State,Big 12,1161
+2022,regular,4,Coaches Poll,9,Kentucky,SEC,1063
+2022,regular,4,Coaches Poll,10,Arkansas,SEC,934
+2022,regular,4,Coaches Poll,11,NC State,ACC,919
+2022,regular,4,Coaches Poll,12,Tennessee,SEC,826
+2022,regular,4,Coaches Poll,13,Ole Miss,SEC,734
+2022,regular,4,Coaches Poll,14,Utah,Pac-12,726
+2022,regular,4,Coaches Poll,15,Penn State,Big Ten,579
+2022,regular,4,Coaches Poll,16,Wake Forest,ACC,529
+2022,regular,4,Coaches Poll,17,Baylor,Big 12,507
+2022,regular,4,Coaches Poll,18,Oregon,Pac-12,468
+2022,regular,4,Coaches Poll,19,Texas,Big 12,438
+2022,regular,4,Coaches Poll,20,Texas A&M,SEC,385
+2022,regular,4,Coaches Poll,21,Michigan State,Big Ten,305
+2022,regular,4,Coaches Poll,22,Florida,SEC,297
+2022,regular,4,Coaches Poll,23,BYU,FBS Independents,253
+2022,regular,4,Coaches Poll,24,Washington,Pac-12,244
+2022,regular,4,Coaches Poll,25,Miami,ACC,234
+2022,regular,5,Coaches Poll,1,Georgia,SEC,1563
+2022,regular,5,Coaches Poll,2,Alabama,SEC,1558
+2022,regular,5,Coaches Poll,3,Ohio State,Big Ten,1486
+2022,regular,5,Coaches Poll,4,Michigan,Big Ten,1379
+2022,regular,5,Coaches Poll,5,Clemson,ACC,1339
+2022,regular,5,Coaches Poll,6,USC,Pac-12,1226
+2022,regular,5,Coaches Poll,7,Oklahoma State,Big 12,1176
+2022,regular,5,Coaches Poll,8,Kentucky,SEC,1136
+2022,regular,5,Coaches Poll,9,Tennessee,SEC,1077
+2022,regular,5,Coaches Poll,10,NC State,ACC,1015
+2022,regular,5,Coaches Poll,11,Ole Miss,SEC,864
+2022,regular,5,Coaches Poll,12,Penn State,Big Ten,824
+2022,regular,5,Coaches Poll,13,Utah,Pac-12,822
+2022,regular,5,Coaches Poll,14,Baylor,Big 12,638
+2022,regular,5,Coaches Poll,15,Oregon,Pac-12,622
+2022,regular,5,Coaches Poll,16,Oklahoma,Big 12,601
+2022,regular,5,Coaches Poll,17,Texas A&M,SEC,574
+2022,regular,5,Coaches Poll,18,Washington,Pac-12,539
+2022,regular,5,Coaches Poll,19,Arkansas,SEC,509
+2022,regular,5,Coaches Poll,20,BYU,FBS Independents,359
+2022,regular,5,Coaches Poll,21,Wake Forest,ACC,352
+2022,regular,5,Coaches Poll,22,Florida State,ACC,252
+2022,regular,5,Coaches Poll,23,Minnesota,Big Ten,238
+2022,regular,5,Coaches Poll,24,Pittsburgh,ACC,223
+2022,regular,5,Coaches Poll,25,Syracuse,ACC,74
+2022,regular,6,Coaches Poll,1,Alabama,SEC,1568
+2022,regular,6,Coaches Poll,2,Georgia,SEC,1545
+2022,regular,6,Coaches Poll,3,Ohio State,Big Ten,1492
+2022,regular,6,Coaches Poll,4,Michigan,Big Ten,1374
+2022,regular,6,Coaches Poll,5,Clemson,ACC,1352
+2022,regular,6,Coaches Poll,6,USC,Pac-12,1247
+2022,regular,6,Coaches Poll,7,Oklahoma State,Big 12,1225
+2022,regular,6,Coaches Poll,8,Tennessee,SEC,1142
+2022,regular,6,Coaches Poll,9,Ole Miss,SEC,1082
+2022,regular,6,Coaches Poll,10,Penn State,Big Ten,990
+2022,regular,6,Coaches Poll,11,Utah,Pac-12,919
+2022,regular,6,Coaches Poll,12,Oregon,Pac-12,823
+2022,regular,6,Coaches Poll,13,Kentucky,SEC,811
+2022,regular,6,Coaches Poll,14,NC State,ACC,732
+2022,regular,6,Coaches Poll,15,Wake Forest,ACC,668
+2022,regular,6,Coaches Poll,16,BYU,FBS Independents,594
+2022,regular,6,Coaches Poll,17,Kansas,Big 12,433
+2022,regular,6,Coaches Poll,18,TCU,Big 12,425
+2022,regular,6,Coaches Poll,19,UCLA,Pac-12,421
+2022,regular,6,Coaches Poll,20,Kansas State,Big 12,324
+2022,regular,6,Coaches Poll,21,Syracuse,ACC,306
+2022,regular,6,Coaches Poll,22,Baylor,Big 12,230
+2022,regular,6,Coaches Poll,23,Mississippi State,SEC,194
+2022,regular,6,Coaches Poll,24,Washington,Pac-12,161
+2022,regular,6,Coaches Poll,25,Arkansas,SEC,141
+2022,regular,7,Coaches Poll,1,Alabama,SEC,1540
+2022,regular,7,Coaches Poll,2,Georgia,SEC,1516
+2022,regular,7,Coaches Poll,3,Ohio State,Big Ten,1477
+2022,regular,7,Coaches Poll,4,Michigan,Big Ten,1354
+2022,regular,7,Coaches Poll,5,Clemson,ACC,1328
+2022,regular,7,Coaches Poll,6,USC,Pac-12,1219
+2022,regular,7,Coaches Poll,7,Oklahoma State,Big 12,1197
+2022,regular,7,Coaches Poll,8,Tennessee,SEC,1168
+2022,regular,7,Coaches Poll,9,Ole Miss,SEC,1075
+2022,regular,7,Coaches Poll,10,Penn State,Big Ten,992
+2022,regular,7,Coaches Poll,11,Oregon,Pac-12,885
+2022,regular,7,Coaches Poll,12,UCLA,Pac-12,815
+2022,regular,7,Coaches Poll,13,NC State,ACC,808
+2022,regular,7,Coaches Poll,14,Wake Forest,ACC,776
+2022,regular,7,Coaches Poll,15,TCU,Big 12,765
+2022,regular,7,Coaches Poll,16,Kansas State,Big 12,539
+2022,regular,7,Coaches Poll,17,Mississippi State,SEC,533
+2022,regular,7,Coaches Poll,18,Syracuse,ACC,424
+2022,regular,7,Coaches Poll,19,Utah,Pac-12,364
+2022,regular,7,Coaches Poll,20,Kansas,Big 12,290
+2022,regular,7,Coaches Poll,21,Cincinnati,American Athletic,248
+2022,regular,7,Coaches Poll,22,Kentucky,SEC,219
+2022,regular,7,Coaches Poll,23,Baylor,Big 12,210
+2022,regular,7,Coaches Poll,24,Texas,Big 12,155
+2022,regular,7,Coaches Poll,25,North Carolina,ACC,99
+2022,regular,8,Coaches Poll,1,Georgia,SEC,1550
+2022,regular,8,Coaches Poll,2,Ohio State,Big Ten,1511
+2022,regular,8,Coaches Poll,3,Michigan,Big Ten,1411
+2022,regular,8,Coaches Poll,4,Tennessee,SEC,1408
+2022,regular,8,Coaches Poll,5,Clemson,ACC,1351
+2022,regular,8,Coaches Poll,6,Alabama,SEC,1236
+2022,regular,8,Coaches Poll,7,Ole Miss,SEC,1210
+2022,regular,8,Coaches Poll,8,TCU,Big 12,1089
+2022,regular,8,Coaches Poll,9,Oregon,Pac-12,1000
+2022,regular,8,Coaches Poll,10,UCLA,Pac-12,995
+2022,regular,8,Coaches Poll,11,Oklahoma State,Big 12,868
+2022,regular,8,Coaches Poll,12,USC,Pac-12,852
+2022,regular,8,Coaches Poll,13,Wake Forest,ACC,823
+2022,regular,8,Coaches Poll,14,Syracuse,ACC,738
+2022,regular,8,Coaches Poll,15,Utah,Pac-12,663
+2022,regular,8,Coaches Poll,16,Penn State,Big Ten,653
+2022,regular,8,Coaches Poll,17,Kansas State,Big 12,637
+2022,regular,8,Coaches Poll,18,Kentucky,SEC,450
+2022,regular,8,Coaches Poll,19,Cincinnati,American Athletic,370
+2022,regular,8,Coaches Poll,20,Illinois,Big Ten,341
+2022,regular,8,Coaches Poll,21,Texas,Big 12,336
+2022,regular,8,Coaches Poll,22,North Carolina,ACC,236
+2022,regular,8,Coaches Poll,23,NC State,ACC,232
+2022,regular,8,Coaches Poll,24,Mississippi State,SEC,212
+2022,regular,8,Coaches Poll,25,Tulane,American Athletic,83
+2022,regular,9,Coaches Poll,1,Georgia,SEC,1550
+2022,regular,9,Coaches Poll,2,Ohio State,Big Ten,1516
+2022,regular,9,Coaches Poll,3,Tennessee,SEC,1424
+2022,regular,9,Coaches Poll,4,Michigan,Big Ten,1407
+2022,regular,9,Coaches Poll,5,Clemson,ACC,1325
+2022,regular,9,Coaches Poll,6,Alabama,SEC,1264
+2022,regular,9,Coaches Poll,7,TCU,Big 12,1184
+2022,regular,9,Coaches Poll,8,Oregon,Pac-12,1125
+2022,regular,9,Coaches Poll,9,Oklahoma State,Big 12,1031
+2022,regular,9,Coaches Poll,10,Wake Forest,ACC,949
+2022,regular,9,Coaches Poll,11,USC,Pac-12,941
+2022,regular,9,Coaches Poll,12,Ole Miss,SEC,816
+2022,regular,9,Coaches Poll,13,Penn State,Big Ten,789
+2022,regular,9,Coaches Poll,14,Utah,Pac-12,782
+2022,regular,9,Coaches Poll,15,UCLA,Pac-12,744
+2022,regular,9,Coaches Poll,16,Syracuse,ACC,554
+2022,regular,9,Coaches Poll,17,Kentucky,SEC,473
+2022,regular,9,Coaches Poll,18,Illinois,Big Ten,469
+2022,regular,9,Coaches Poll,19,Cincinnati,American Athletic,441
+2022,regular,9,Coaches Poll,20,LSU,SEC,350
+2022,regular,9,Coaches Poll,21,North Carolina,ACC,347
+2022,regular,9,Coaches Poll,22,Kansas State,Big 12,261
+2022,regular,9,Coaches Poll,23,NC State,ACC,259
+2022,regular,9,Coaches Poll,24,Tulane,American Athletic,206
+2022,regular,9,Coaches Poll,25,South Carolina,SEC,87
+2022,regular,10,Coaches Poll,1,Georgia,SEC,1552
+2022,regular,10,Coaches Poll,2,Ohio State,Big Ten,1505
+2022,regular,10,Coaches Poll,3,Tennessee,SEC,1455
+2022,regular,10,Coaches Poll,4,Michigan,Big Ten,1391
+2022,regular,10,Coaches Poll,5,Clemson,ACC,1315
+2022,regular,10,Coaches Poll,6,Alabama,SEC,1262
+2022,regular,10,Coaches Poll,7,TCU,Big 12,1182
+2022,regular,10,Coaches Poll,8,Oregon,Pac-12,1118
+2022,regular,10,Coaches Poll,9,USC,Pac-12,1018
+2022,regular,10,Coaches Poll,10,Ole Miss,SEC,973
+2022,regular,10,Coaches Poll,11,UCLA,Pac-12,937
+2022,regular,10,Coaches Poll,12,Utah,Pac-12,874
+2022,regular,10,Coaches Poll,13,Illinois,Big Ten,767
+2022,regular,10,Coaches Poll,14,Kansas State,Big 12,713
+2022,regular,10,Coaches Poll,15,North Carolina,ACC,630
+2022,regular,10,Coaches Poll,16,Penn State,Big Ten,602
+2022,regular,10,Coaches Poll,17,LSU,SEC,596
+2022,regular,10,Coaches Poll,18,Oklahoma State,Big 12,471
+2022,regular,10,Coaches Poll,19,Wake Forest,ACC,437
+2022,regular,10,Coaches Poll,20,NC State,ACC,386
+2022,regular,10,Coaches Poll,21,Tulane,American Athletic,369
+2022,regular,10,Coaches Poll,22,Syracuse,ACC,188
+2022,regular,10,Coaches Poll,23,Liberty,FBS Independents,147
+2022,regular,10,Coaches Poll,24,Kentucky,SEC,109
+2022,regular,10,Coaches Poll,25,UCF,American Athletic,89
+2022,regular,11,Coaches Poll,1,Georgia,SEC,1572
+2022,regular,11,Coaches Poll,2,Ohio State,Big Ten,1505
+2022,regular,11,Coaches Poll,3,Michigan,Big Ten,1447
+2022,regular,11,Coaches Poll,4,TCU,Big 12,1355
+2022,regular,11,Coaches Poll,5,Tennessee,SEC,1284
+2022,regular,11,Coaches Poll,6,Oregon,Pac-12,1272
+2022,regular,11,Coaches Poll,7,USC,Pac-12,1140
+2022,regular,11,Coaches Poll,8,LSU,SEC,1082
+2022,regular,11,Coaches Poll,9,Ole Miss,SEC,1056
+2022,regular,11,Coaches Poll,10,UCLA,Pac-12,988
+2022,regular,11,Coaches Poll,11,Alabama,SEC,973
+2022,regular,11,Coaches Poll,12,Clemson,ACC,896
+2022,regular,11,Coaches Poll,13,Utah,Pac-12,888
+2022,regular,11,Coaches Poll,14,North Carolina,ACC,737
+2022,regular,11,Coaches Poll,15,Penn State,Big Ten,717
+2022,regular,11,Coaches Poll,16,NC State,ACC,568
+2022,regular,11,Coaches Poll,17,Tulane,American Athletic,555
+2022,regular,11,Coaches Poll,18,Texas,Big 12,368
+2022,regular,11,Coaches Poll,19,Liberty,FBS Independents,366
+2022,regular,11,Coaches Poll,20,Illinois,Big Ten,302
+2022,regular,11,Coaches Poll,21,UCF,American Athletic,273
+2022,regular,11,Coaches Poll,22,Kansas State,Big 12,243
+2022,regular,11,Coaches Poll,23,Washington,Pac-12,175
+2022,regular,11,Coaches Poll,24,Kentucky,SEC,173
+2022,regular,11,Coaches Poll,25,Notre Dame,FBS Independents,133
+2022,regular,12,Coaches Poll,1,Georgia,SEC,1572
+2022,regular,12,Coaches Poll,2,Ohio State,Big Ten,1509
+2022,regular,12,Coaches Poll,3,Michigan,Big Ten,1445
+2022,regular,12,Coaches Poll,4,TCU,Big 12,1377
+2022,regular,12,Coaches Poll,5,Tennessee,SEC,1332
+2022,regular,12,Coaches Poll,6,USC,Pac-12,1214
+2022,regular,12,Coaches Poll,7,LSU,SEC,1199
+2022,regular,12,Coaches Poll,8,Alabama,SEC,1122
+2022,regular,12,Coaches Poll,9,Clemson,ACC,1059
+2022,regular,12,Coaches Poll,10,Utah,Pac-12,961
+2022,regular,12,Coaches Poll,11,North Carolina,ACC,904
+2022,regular,12,Coaches Poll,12,Penn State,Big Ten,859
+2022,regular,12,Coaches Poll,13,Oregon,Pac-12,828
+2022,regular,12,Coaches Poll,14,Ole Miss,SEC,824
+2022,regular,12,Coaches Poll,15,Washington,Pac-12,670
+2022,regular,12,Coaches Poll,16,UCLA,Pac-12,572
+2022,regular,12,Coaches Poll,17,Kansas State,Big 12,547
+2022,regular,12,Coaches Poll,18,UCF,American Athletic,522
+2022,regular,12,Coaches Poll,19,Notre Dame,FBS Independents,412
+2022,regular,12,Coaches Poll,20,Florida State,ACC,364
+2022,regular,12,Coaches Poll,21,Cincinnati,American Athletic,236
+2022,regular,12,Coaches Poll,22,Tulane,American Athletic,203
+2022,regular,12,Coaches Poll,23,Coastal Carolina,Sun Belt,179
+2022,regular,12,Coaches Poll,24,Oklahoma State,Big 12,115
+2022,regular,12,Coaches Poll,25,NC State,ACC,89
+2022,regular,13,Coaches Poll,1,Georgia,SEC,1546
+2022,regular,13,Coaches Poll,2,Ohio State,Big Ten,1484
+2022,regular,13,Coaches Poll,3,Michigan,Big Ten,1420
+2022,regular,13,Coaches Poll,4,TCU,Big 12,1372
+2022,regular,13,Coaches Poll,5,USC,Pac-12,1277
+2022,regular,13,Coaches Poll,6,LSU,SEC,1229
+2022,regular,13,Coaches Poll,7,Alabama,SEC,1147
+2022,regular,13,Coaches Poll,8,Clemson,ACC,1142
+2022,regular,13,Coaches Poll,9,Oregon,Pac-12,1004
+2022,regular,13,Coaches Poll,10,Penn State,Big Ten,990
+2022,regular,13,Coaches Poll,11,Tennessee,SEC,950
+2022,regular,13,Coaches Poll,12,Washington,Pac-12,855
+2022,regular,13,Coaches Poll,13,Kansas State,Big 12,761
+2022,regular,13,Coaches Poll,14,Utah,Pac-12,703
+2022,regular,13,Coaches Poll,15,Notre Dame,FBS Independents,657
+2022,regular,13,Coaches Poll,16,Florida State,ACC,562
+2022,regular,13,Coaches Poll,17,North Carolina,ACC,496
+2022,regular,13,Coaches Poll,18,UCLA,Pac-12,483
+2022,regular,13,Coaches Poll,19,Ole Miss,SEC,429
+2022,regular,13,Coaches Poll,20,Tulane,American Athletic,386
+2022,regular,13,Coaches Poll,21,Cincinnati,American Athletic,376
+2022,regular,13,Coaches Poll,22,Oregon State,Pac-12,257
+2022,regular,13,Coaches Poll,23,Coastal Carolina,Sun Belt,222
+2022,regular,13,Coaches Poll,24,Texas,Big 12,112
+2022,regular,13,Coaches Poll,25,UTSA,Conference USA,70
+2022,regular,14,Coaches Poll,1,Georgia,SEC,1572
+2022,regular,14,Coaches Poll,2,Michigan,Big Ten,1512
+2022,regular,14,Coaches Poll,3,TCU,Big 12,1446
+2022,regular,14,Coaches Poll,4,USC,Pac-12,1381
+2022,regular,14,Coaches Poll,5,Ohio State,Big Ten,1312
+2022,regular,14,Coaches Poll,6,Alabama,SEC,1262
+2022,regular,14,Coaches Poll,7,Penn State,Big Ten,1153
+2022,regular,14,Coaches Poll,8,Tennessee,SEC,1143
+2022,regular,14,Coaches Poll,9,Washington,Pac-12,1039
+2022,regular,14,Coaches Poll,10,Kansas State,Big 12,930
+2022,regular,14,Coaches Poll,11,Clemson,ACC,900
+2022,regular,14,Coaches Poll,12,Utah,Pac-12,872
+2022,regular,14,Coaches Poll,13,LSU,SEC,845
+2022,regular,14,Coaches Poll,14,Florida State,ACC,739
+2022,regular,14,Coaches Poll,15,Oregon,Pac-12,681
+2022,regular,14,Coaches Poll,16,Oregon State,Pac-12,613
+2022,regular,14,Coaches Poll,17,UCLA,Pac-12,603
+2022,regular,14,Coaches Poll,18,Tulane,American Athletic,558
+2022,regular,14,Coaches Poll,19,Notre Dame,FBS Independents,340
+2022,regular,14,Coaches Poll,20,South Carolina,SEC,299
+2022,regular,14,Coaches Poll,21,Texas,Big 12,292
+2022,regular,14,Coaches Poll,22,North Carolina,ACC,175
+2022,regular,14,Coaches Poll,23,UCF,American Athletic,141
+2022,regular,14,Coaches Poll,24,UTSA,Conference USA,127
+2022,regular,14,Coaches Poll,25,Mississippi State,SEC,88
+2022,regular,15,Coaches Poll,1,Georgia,SEC,1523
+2022,regular,15,Coaches Poll,2,Michigan,Big Ten,1466
+2022,regular,15,Coaches Poll,3,Ohio State,Big Ten,1359
+2022,regular,15,Coaches Poll,4,TCU,Big 12,1353
+2022,regular,15,Coaches Poll,5,Alabama,SEC,1282
+2022,regular,15,Coaches Poll,6,Tennessee,SEC,1116
+2022,regular,15,Coaches Poll,7,Penn State,Big Ten,1074
+2022,regular,15,Coaches Poll,8,USC,Pac-12,1054
+2022,regular,15,Coaches Poll,9,Kansas State,Big 12,1050
+2022,regular,15,Coaches Poll,10,Utah,Pac-12,1044
+2022,regular,15,Coaches Poll,11,Clemson,ACC,1003
+2022,regular,15,Coaches Poll,12,Washington,Pac-12,864
+2022,regular,15,Coaches Poll,13,Florida State,ACC,741
+2022,regular,15,Coaches Poll,14,Oregon,Pac-12,661
+2022,regular,15,Coaches Poll,15,LSU,SEC,635
+2022,regular,15,Coaches Poll,16,Oregon State,Pac-12,629
+2022,regular,15,Coaches Poll,17,Tulane,American Athletic,591
+2022,regular,15,Coaches Poll,18,UCLA,Pac-12,541
+2022,regular,15,Coaches Poll,19,South Carolina,SEC,354
+2022,regular,15,Coaches Poll,20,Notre Dame,FBS Independents,323
+2022,regular,15,Coaches Poll,21,Texas,Big 12,300
+2022,regular,15,Coaches Poll,22,UTSA,Conference USA,206
+2022,regular,15,Coaches Poll,23,Mississippi State,SEC,139
+2022,regular,15,Coaches Poll,24,Troy,Sun Belt,132
+2022,regular,15,Coaches Poll,25,North Carolina,ACC,95
+2022,regular,10,Playoff Committee Rankings,1,Tennessee,SEC,0
+2022,regular,10,Playoff Committee Rankings,2,Ohio State,Big Ten,0
+2022,regular,10,Playoff Committee Rankings,3,Georgia,SEC,0
+2022,regular,10,Playoff Committee Rankings,4,Clemson,ACC,0
+2022,regular,10,Playoff Committee Rankings,5,Michigan,Big Ten,0
+2022,regular,10,Playoff Committee Rankings,6,Alabama,SEC,0
+2022,regular,10,Playoff Committee Rankings,7,TCU,Big 12,0
+2022,regular,10,Playoff Committee Rankings,8,Oregon,Pac-12,0
+2022,regular,10,Playoff Committee Rankings,9,USC,Pac-12,0
+2022,regular,10,Playoff Committee Rankings,10,LSU,SEC,0
+2022,regular,10,Playoff Committee Rankings,11,Ole Miss,SEC,0
+2022,regular,10,Playoff Committee Rankings,12,UCLA,Pac-12,0
+2022,regular,10,Playoff Committee Rankings,13,Kansas State,Big 12,0
+2022,regular,10,Playoff Committee Rankings,14,Utah,Pac-12,0
+2022,regular,10,Playoff Committee Rankings,15,Penn State,Big Ten,0
+2022,regular,10,Playoff Committee Rankings,16,Illinois,Big Ten,0
+2022,regular,10,Playoff Committee Rankings,17,North Carolina,ACC,0
+2022,regular,10,Playoff Committee Rankings,18,Oklahoma State,Big 12,0
+2022,regular,10,Playoff Committee Rankings,19,Tulane,American Athletic,0
+2022,regular,10,Playoff Committee Rankings,20,Syracuse,ACC,0
+2022,regular,10,Playoff Committee Rankings,21,Wake Forest,ACC,0
+2022,regular,10,Playoff Committee Rankings,22,NC State,ACC,0
+2022,regular,10,Playoff Committee Rankings,23,Oregon State,Pac-12,0
+2022,regular,10,Playoff Committee Rankings,24,Texas,Big 12,0
+2022,regular,10,Playoff Committee Rankings,25,UCF,American Athletic,0
+2022,regular,11,Playoff Committee Rankings,1,Georgia,SEC,0
+2022,regular,11,Playoff Committee Rankings,2,Ohio State,Big Ten,0
+2022,regular,11,Playoff Committee Rankings,3,Michigan,Big Ten,0
+2022,regular,11,Playoff Committee Rankings,4,TCU,Big 12,0
+2022,regular,11,Playoff Committee Rankings,5,Tennessee,SEC,0
+2022,regular,11,Playoff Committee Rankings,6,Oregon,Pac-12,0
+2022,regular,11,Playoff Committee Rankings,7,LSU,SEC,0
+2022,regular,11,Playoff Committee Rankings,8,USC,Pac-12,0
+2022,regular,11,Playoff Committee Rankings,9,Alabama,SEC,0
+2022,regular,11,Playoff Committee Rankings,10,Clemson,ACC,0
+2022,regular,11,Playoff Committee Rankings,11,Ole Miss,SEC,0
+2022,regular,11,Playoff Committee Rankings,12,UCLA,Pac-12,0
+2022,regular,11,Playoff Committee Rankings,13,Utah,Pac-12,0
+2022,regular,11,Playoff Committee Rankings,14,Penn State,Big Ten,0
+2022,regular,11,Playoff Committee Rankings,15,North Carolina,ACC,0
+2022,regular,11,Playoff Committee Rankings,16,NC State,ACC,0
+2022,regular,11,Playoff Committee Rankings,17,Tulane,American Athletic,0
+2022,regular,11,Playoff Committee Rankings,18,Texas,Big 12,0
+2022,regular,11,Playoff Committee Rankings,19,Kansas State,Big 12,0
+2022,regular,11,Playoff Committee Rankings,20,Notre Dame,FBS Independents,0
+2022,regular,11,Playoff Committee Rankings,21,Illinois,Big Ten,0
+2022,regular,11,Playoff Committee Rankings,22,UCF,American Athletic,0
+2022,regular,11,Playoff Committee Rankings,23,Florida State,ACC,0
+2022,regular,11,Playoff Committee Rankings,24,Kentucky,SEC,0
+2022,regular,11,Playoff Committee Rankings,25,Washington,Pac-12,0
+2022,regular,12,Playoff Committee Rankings,1,Georgia,SEC,0
+2022,regular,12,Playoff Committee Rankings,2,Ohio State,Big Ten,0
+2022,regular,12,Playoff Committee Rankings,3,Michigan,Big Ten,0
+2022,regular,12,Playoff Committee Rankings,4,TCU,Big 12,0
+2022,regular,12,Playoff Committee Rankings,5,Tennessee,SEC,0
+2022,regular,12,Playoff Committee Rankings,6,LSU,SEC,0
+2022,regular,12,Playoff Committee Rankings,7,USC,Pac-12,0
+2022,regular,12,Playoff Committee Rankings,8,Alabama,SEC,0
+2022,regular,12,Playoff Committee Rankings,9,Clemson,ACC,0
+2022,regular,12,Playoff Committee Rankings,10,Utah,Pac-12,0
+2022,regular,12,Playoff Committee Rankings,11,Penn State,Big Ten,0
+2022,regular,12,Playoff Committee Rankings,12,Oregon,Pac-12,0
+2022,regular,12,Playoff Committee Rankings,13,North Carolina,ACC,0
+2022,regular,12,Playoff Committee Rankings,14,Ole Miss,SEC,0
+2022,regular,12,Playoff Committee Rankings,15,Kansas State,Big 12,0
+2022,regular,12,Playoff Committee Rankings,16,UCLA,Pac-12,0
+2022,regular,12,Playoff Committee Rankings,17,Washington,Pac-12,0
+2022,regular,12,Playoff Committee Rankings,18,Notre Dame,FBS Independents,0
+2022,regular,12,Playoff Committee Rankings,19,Florida State,ACC,0
+2022,regular,12,Playoff Committee Rankings,20,UCF,American Athletic,0
+2022,regular,12,Playoff Committee Rankings,21,Tulane,American Athletic,0
+2022,regular,12,Playoff Committee Rankings,22,Oklahoma State,Big 12,0
+2022,regular,12,Playoff Committee Rankings,23,Oregon State,Pac-12,0
+2022,regular,12,Playoff Committee Rankings,24,NC State,ACC,0
+2022,regular,12,Playoff Committee Rankings,25,Cincinnati,American Athletic,0
+2022,regular,13,Playoff Committee Rankings,1,Georgia,SEC,0
+2022,regular,13,Playoff Committee Rankings,2,Ohio State,Big Ten,0
+2022,regular,13,Playoff Committee Rankings,3,Michigan,Big Ten,0
+2022,regular,13,Playoff Committee Rankings,4,TCU,Big 12,0
+2022,regular,13,Playoff Committee Rankings,5,LSU,SEC,0
+2022,regular,13,Playoff Committee Rankings,6,USC,Pac-12,0
+2022,regular,13,Playoff Committee Rankings,7,Alabama,SEC,0
+2022,regular,13,Playoff Committee Rankings,8,Clemson,ACC,0
+2022,regular,13,Playoff Committee Rankings,9,Oregon,Pac-12,0
+2022,regular,13,Playoff Committee Rankings,10,Tennessee,SEC,0
+2022,regular,13,Playoff Committee Rankings,11,Penn State,Big Ten,0
+2022,regular,13,Playoff Committee Rankings,12,Kansas State,Big 12,0
+2022,regular,13,Playoff Committee Rankings,13,Washington,Pac-12,0
+2022,regular,13,Playoff Committee Rankings,14,Utah,Pac-12,0
+2022,regular,13,Playoff Committee Rankings,15,Notre Dame,FBS Independents,0
+2022,regular,13,Playoff Committee Rankings,16,Florida State,ACC,0
+2022,regular,13,Playoff Committee Rankings,17,North Carolina,ACC,0
+2022,regular,13,Playoff Committee Rankings,18,UCLA,Pac-12,0
+2022,regular,13,Playoff Committee Rankings,19,Tulane,American Athletic,0
+2022,regular,13,Playoff Committee Rankings,20,Ole Miss,SEC,0
+2022,regular,13,Playoff Committee Rankings,21,Oregon State,Pac-12,0
+2022,regular,13,Playoff Committee Rankings,22,UCF,American Athletic,0
+2022,regular,13,Playoff Committee Rankings,23,Texas,Big 12,0
+2022,regular,13,Playoff Committee Rankings,24,Cincinnati,American Athletic,0
+2022,regular,13,Playoff Committee Rankings,25,Louisville,ACC,0
+2022,regular,14,Playoff Committee Rankings,1,Georgia,SEC,0
+2022,regular,14,Playoff Committee Rankings,2,Michigan,Big Ten,0
+2022,regular,14,Playoff Committee Rankings,3,TCU,Big 12,0
+2022,regular,14,Playoff Committee Rankings,4,USC,Pac-12,0
+2022,regular,14,Playoff Committee Rankings,5,Ohio State,Big Ten,0
+2022,regular,14,Playoff Committee Rankings,6,Alabama,SEC,0
+2022,regular,14,Playoff Committee Rankings,7,Tennessee,SEC,0
+2022,regular,14,Playoff Committee Rankings,8,Penn State,Big Ten,0
+2022,regular,14,Playoff Committee Rankings,9,Clemson,ACC,0
+2022,regular,14,Playoff Committee Rankings,10,Kansas State,Big 12,0
+2022,regular,14,Playoff Committee Rankings,11,Utah,Pac-12,0
+2022,regular,14,Playoff Committee Rankings,12,Washington,Pac-12,0
+2022,regular,14,Playoff Committee Rankings,13,Florida State,ACC,0
+2022,regular,14,Playoff Committee Rankings,14,LSU,SEC,0
+2022,regular,14,Playoff Committee Rankings,15,Oregon State,Pac-12,0
+2022,regular,14,Playoff Committee Rankings,16,Oregon,Pac-12,0
+2022,regular,14,Playoff Committee Rankings,17,UCLA,Pac-12,0
+2022,regular,14,Playoff Committee Rankings,18,Tulane,American Athletic,0
+2022,regular,14,Playoff Committee Rankings,19,South Carolina,SEC,0
+2022,regular,14,Playoff Committee Rankings,20,Texas,Big 12,0
+2022,regular,14,Playoff Committee Rankings,21,Notre Dame,FBS Independents,0
+2022,regular,14,Playoff Committee Rankings,22,UCF,American Athletic,0
+2022,regular,14,Playoff Committee Rankings,23,North Carolina,ACC,0
+2022,regular,14,Playoff Committee Rankings,24,Mississippi State,SEC,0
+2022,regular,14,Playoff Committee Rankings,25,NC State,ACC,0
+2022,regular,15,Playoff Committee Rankings,1,Georgia,SEC,0
+2022,regular,15,Playoff Committee Rankings,2,Michigan,Big Ten,0
+2022,regular,15,Playoff Committee Rankings,3,TCU,Big 12,0
+2022,regular,15,Playoff Committee Rankings,4,Ohio State,Big Ten,0
+2022,regular,15,Playoff Committee Rankings,5,Alabama,SEC,0
+2022,regular,15,Playoff Committee Rankings,6,Tennessee,SEC,0
+2022,regular,15,Playoff Committee Rankings,7,Clemson,ACC,0
+2022,regular,15,Playoff Committee Rankings,8,Utah,Pac-12,0
+2022,regular,15,Playoff Committee Rankings,9,Kansas State,Big 12,0
+2022,regular,15,Playoff Committee Rankings,10,USC,Pac-12,0
+2022,regular,15,Playoff Committee Rankings,11,Penn State,Big Ten,0
+2022,regular,15,Playoff Committee Rankings,12,Washington,Pac-12,0
+2022,regular,15,Playoff Committee Rankings,13,Florida State,ACC,0
+2022,regular,15,Playoff Committee Rankings,14,Oregon State,Pac-12,0
+2022,regular,15,Playoff Committee Rankings,15,Oregon,Pac-12,0
+2022,regular,15,Playoff Committee Rankings,16,Tulane,American Athletic,0
+2022,regular,15,Playoff Committee Rankings,17,LSU,SEC,0
+2022,regular,15,Playoff Committee Rankings,18,UCLA,Pac-12,0
+2022,regular,15,Playoff Committee Rankings,19,South Carolina,SEC,0
+2022,regular,15,Playoff Committee Rankings,20,Texas,Big 12,0
+2022,regular,15,Playoff Committee Rankings,21,Notre Dame,FBS Independents,0
+2022,regular,15,Playoff Committee Rankings,22,Mississippi State,SEC,0
+2022,regular,15,Playoff Committee Rankings,23,NC State,ACC,0
+2022,regular,15,Playoff Committee Rankings,24,Troy,Sun Belt,0
+2022,regular,15,Playoff Committee Rankings,25,UTSA,Conference USA,0

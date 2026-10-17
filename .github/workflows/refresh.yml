@@ -30,6 +30,9 @@ jobs:
       - name: Clean raw data
         run: python -m src.clean
 
+      - name: Build features
+        run: python -m src.features --year 2026
+
       - name: Validate (pipeline stops here if data is bad)
         run: python -m pytest -q
 
