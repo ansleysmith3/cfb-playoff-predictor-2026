@@ -16,17 +16,17 @@ id,week,startDate,homeTeam,awayTeam,neutralSite,conferenceGame
 401866442,7,2026-10-17T17:00:00.000Z,Buffalo,Massachusetts,False,True
 401862803,7,2026-10-17T17:00:00.000Z,Temple,Charlotte,False,True
 401866443,7,2026-10-17T17:30:00.000Z,Central Michigan,Western Michigan,False,True
-401856828,7,2026-10-17T19:30:00.000Z,Texas Tech,Arizona State,False,True
-401866478,7,2026-10-17T19:30:00.000Z,Miami (OH),Akron,False,True
-401858264,7,2026-10-17T19:30:00.000Z,Virginia Tech,Georgia Tech,False,True
-401864524,7,2026-10-17T19:30:00.000Z,Air Force,UNLV,False,True
-401856719,7,2026-10-17T19:30:00.000Z,Georgia,Auburn,False,True
-401856721,7,2026-10-17T19:30:00.000Z,Ole Miss,Missouri,False,True
-401858266,7,2026-10-17T19:30:00.000Z,Duke,North Carolina,False,True
-401858490,7,2026-10-17T19:30:00.000Z,Michigan,Penn State,False,True
 401866444,7,2026-10-17T19:30:00.000Z,Eastern Michigan,Toledo,False,True
-401864522,7,2026-10-17T19:30:00.000Z,Wyoming,Northern Illinois,False,True
+401864524,7,2026-10-17T19:30:00.000Z,Air Force,UNLV,False,True
 401856723,7,2026-10-17T19:30:00.000Z,Tennessee,Alabama,False,True
+401858264,7,2026-10-17T19:30:00.000Z,Virginia Tech,Georgia Tech,False,True
+401858490,7,2026-10-17T19:30:00.000Z,Michigan,Penn State,False,True
+401864522,7,2026-10-17T19:30:00.000Z,Wyoming,Northern Illinois,False,True
+401856828,7,2026-10-17T19:30:00.000Z,Texas Tech,Arizona State,False,True
+401856719,7,2026-10-17T19:30:00.000Z,Georgia,Auburn,False,True
+401858266,7,2026-10-17T19:30:00.000Z,Duke,North Carolina,False,True
+401866478,7,2026-10-17T19:30:00.000Z,Miami (OH),Akron,False,True
+401856721,7,2026-10-17T19:30:00.000Z,Ole Miss,Missouri,False,True
 401862805,7,2026-10-17T20:30:00.000Z,Rice,Tulsa,False,True
 401869966,7,2026-10-17T21:00:00.000Z,Louisiana,Troy,False,True
 401860903,7,2026-10-17T22:00:00.000Z,Oregon State,Washington State,False,True
