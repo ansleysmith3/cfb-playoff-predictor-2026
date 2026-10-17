@@ -289,7 +289,13 @@ def main() -> None:
         field = select_field(as_ranked_table(pred, pred["predicted_seed"].astype(float)), "2026")
         field = field.merge(pred[["team", "wins", "losses"]], on="team")
         field["record"] = field["wins"].astype(str) + "-" + field["losses"].astype(str)
-        field[["seed", "team", "conference", "record", "reason", "rank"]].to_csv(RESULT_DIR / "prediction_2026.csv", index=False)
+        out_cols = ["seed", "team", "conference", "record", "reason", "rank"]
+        field[out_cols].to_csv(RESULT_DIR / "prediction_2026.csv", index=False)
+        # Keep every week's prediction so we can later score how it evolved against the committee.
+        history = RESULT_DIR / "history"
+        history.mkdir(exist_ok=True)
+        field[out_cols].to_csv(history / f"prediction_2026_week{week:02d}.csv", index=False)
+        pred[ranking_cols].head(25).to_csv(history / f"ranking_2026_week{week:02d}.csv", index=False)
 
         print(f"\nPredicted 2026 playoff field as of ranking week {week} (2026 rules).")
         print("Champions are PROJECTED from current conference standings until the title games are played.")
