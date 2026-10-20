@@ -120,5 +120,4 @@ python -m pytest
 Weekly predictions are saved in `data/results/history/` so they can be scored against the
 committee's rankings once those start in November.
 
-Data: [CollegeFootballData.com](https://collegefootballdata.com). Original exploratory analysis
-that started this project: `footballthing.Rmd`.
+Data: [CollegeFootballData.com](https://collegefootballdata.com).
