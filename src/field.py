@@ -13,7 +13,6 @@ The committee ranks teams; the RULES decide who gets in. Rules differ by year:
 Input is a table with columns: team, conference, conf_champion (0/1), rank (1 = best;
 NaN = unranked). Output is the field, seed 1..12, with the reason each team got in.
 """
-import numpy as np
 import pandas as pd
 
 FIELD_SIZE = 12

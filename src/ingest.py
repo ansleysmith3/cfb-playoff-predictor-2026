@@ -1,8 +1,9 @@
-"""Pull raw 2026 college football data from the CollegeFootballData (CFBD) API.
+"""Pull raw college football data from the CollegeFootballData (CFBD) API.
 
 Usage:
     python -m src.ingest            # defaults to the 2026 season
     python -m src.ingest --year 2025
+    python -m src.ingest --years 2014-2026
 """
 import argparse
 import os

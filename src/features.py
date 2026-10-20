@@ -149,7 +149,7 @@ def snapshot(games: pd.DataFrame) -> pd.DataFrame:
             "best_win_now": games[games["win"]].groupby("team")["opp_now"].max(),
             "worst_loss_now": games[games["loss"]].groupby("team")["opp_now"].min(),
             "last3_wins": by["win"].apply(lambda s: s.tail(3).sum()),
-            "elo_current": by["team_postgame_elo"].apply(lambda s: s.dropna().iloc[-1] if s.notna().any() else np.nan),
+            "elo_current": elo_now,
             "conference": by["team_conference"].last(),
         }
     )

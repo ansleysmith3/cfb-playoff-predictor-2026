@@ -38,7 +38,7 @@ CFBD API ──► ingest ──► clean ──► features ──► model ─
             raw CSVs   validated   one resume    blend of    auto-bids &      data/results/
                        team-games  per team/week 3 models    seeding
                           │                          ▲
-                    197+ tests (incl. a leakage test)│  walk-forward backtest
+                    220+ tests (incl. a leakage test)│  walk-forward backtest
 ```
 
 | Step | File | What it does |
@@ -48,7 +48,9 @@ CFBD API ──► ingest ──► clean ──► features ──► model ─
 | Features | `src/features.py` | Builds each team's résumé *as of each committee week* using only games already played |
 | Model | `src/model.py` | Ridge + gradient boosting + logistic blend; walk-forward backtest |
 | Rules | `src/field.py` | Turns a ranking into the 12-team field under the 2024, 2025 and 2026 rules |
-| Automation | `.github/workflows/refresh.yml` | Weekly: ingest → clean → features → predict → test → commit |
+| Report | `src/report.py` | Rewrites the "Current prediction" table at the top of this README |
+| Automation | `.github/workflows/refresh.yml` | Weekly: ingest → clean → features → predict → report → test → commit; opens an issue on failure |
+| Watchdog | `.github/workflows/freshness.yml` | Daily in season: opens an issue if the weekly refresh hasn't run in 9 days |
 
 ## How well does it work?
 

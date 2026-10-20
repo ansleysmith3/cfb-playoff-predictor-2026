@@ -96,157 +96,6 @@ ggplot(games, aes(x = Opponent_Rank, y = Predicted_Prob, color = Team)) +
 
 # ============================================
 # HOLISTIC TEAM COMPARISON ANALYSIS
-# ============================================
-
-# 1. Create comprehensive team metrics
-team_metrics <- games %>%
-  group_by(Team) %>%
-  summarise(
-    # Basic performance
-    Total_Games = n(),
-    Wins = sum(Result),
-    Losses = Total_Games - Wins,
-    Win_Percentage = Wins / Total_Games,
-    
-    # Opponent strength metrics
-    Avg_Opponent_Rank = mean(Opponent_Rank),
-    Median_Opponent_Rank = median(Opponent_Rank),
-    Strength_of_Schedule = 1 / mean(Opponent_Rank), # Higher = tougher schedule
-    
-    # Performance vs quality opponents
-    Wins_vs_Top50 = sum(Result == 1 & Opponent_Rank <= 50),
-    Losses_vs_Top50 = sum(Result == 0 & Opponent_Rank <= 50),
-    Win_Rate_Top50 = ifelse(sum(Opponent_Rank <= 50) > 0,
-                            sum(Result == 1 & Opponent_Rank <= 50) / sum(Opponent_Rank <= 50),
-                            NA),
-    
-    # Consistency metrics
-    Biggest_Upset_Win = min(Opponent_Rank[Result == 1]), # Beat highest ranked team
-    Worst_Loss = max(Opponent_Rank[Result == 0]), # Lost to lowest ranked team
-    
-    # Quality metrics
-    Quality_Wins = sum(Result == 1 & Opponent_Rank <= 50),
-    Bad_Losses = sum(Result == 0 & Opponent_Rank > 50)
-  ) %>%
-  arrange(desc(Win_Percentage))
-
-print(team_metrics)
-
-# 2. Create a composite "Power Rating" 
-team_power <- team_metrics %>%
-  mutate(
-    # Normalize metrics to 0-100 scale
-    Win_Score = Win_Percentage * 100,
-    SOS_Score = (Strength_of_Schedule / max(Strength_of_Schedule)) * 100,
-    Quality_Win_Score = (Quality_Wins / max(Quality_Wins)) * 100,
-    Top50_Score = ifelse(is.na(Win_Rate_Top50), 0, Win_Rate_Top50 * 100),
-    
-    # Penalties
-    Bad_Loss_Penalty = Bad_Losses * 5,
-    
-    # Composite Power Rating (weighted average)
-    Power_Rating = (
-      Win_Score * 0.35 +           # 35% weight on overall wins
-      SOS_Score * 0.25 +            # 25% weight on schedule strength
-      Quality_Win_Score * 0.20 +    # 20% weight on quality wins
-      Top50_Score * 0.20 -          # 20% weight on performance vs top 50
-      Bad_Loss_Penalty              # Penalty for bad losses
-    )
-  ) %>%
-  arrange(desc(Power_Rating)) %>%
-  select(Team, Win_Percentage, Power_Rating, Quality_Wins, Bad_Losses, 
-         Avg_Opponent_Rank, Strength_of_Schedule)
-
-print("POWER RATINGS:")
-print(team_power)
-
-# 3. Head-to-head comparison
-head_to_head <- games %>%
-  filter(Opponent %in% c("Miami", "Notre_Dame")) %>%
-  select(Team, Opponent, Result) %>%
-  mutate(H2H_Result = ifelse(Result == 1, "Won", "Lost"))
-
-print("HEAD-TO-HEAD RESULTS:")
-print(head_to_head)
-
-# 4. Side-by-side visualization
-library(gridExtra)
-
-# Win percentage comparison
-p1 <- ggplot(team_power, aes(x = reorder(Team, Win_Percentage), y = Win_Percentage, fill = Team)) +
-  geom_bar(stat = "identity") +
-  coord_flip() +
-  scale_y_continuous(labels = scales::percent) +
-  labs(title = "Win Percentage", x = "", y = "") +
-  theme_minimal()
-
-# Power rating comparison
-p2 <- ggplot(team_power, aes(x = reorder(Team, Power_Rating), y = Power_Rating, fill = Team)) +
-  geom_bar(stat = "identity") +
-  coord_flip() +
-  labs(title = "Overall Power Rating", x = "", y = "") +
-  theme_minimal()
-
-# Strength of schedule
-p3 <- ggplot(team_power, aes(x = Team, y = Avg_Opponent_Rank, fill = Team)) +
-  geom_bar(stat = "identity") +
-  coord_flip() +
-  scale_y_reverse() +  # Lower rank = better
-  labs(title = "Avg Opponent Rank (Lower = Harder)", x = "", y = "") +
-  theme_minimal()
-
-# Quality wins vs bad losses
-team_quality <- team_power %>%
-  select(Team, Quality_Wins, Bad_Losses) %>%
-  pivot_longer(cols = c(Quality_Wins, Bad_Losses), 
-               names_to = "Metric", values_to = "Count")
-
-p4 <- ggplot(team_quality, aes(x = Team, y = Count, fill = Metric)) +
-  geom_bar(stat = "identity", position = "dodge") +
-  labs(title = "Quality Wins vs Bad Losses", x = "", y = "Count") +
-  theme_minimal()
-
-grid.arrange(p1, p2, p3, p4, ncol = 2)
-
-# 5. Final comparison summary
-comparison_summary <- team_power %>%
-  mutate(Rank = row_number()) %>%
-  select(Rank, Team, Win_Percentage, Power_Rating, Quality_Wins, 
-         Bad_Losses, Avg_Opponent_Rank)
-
-print("====================================")
-print("FINAL TEAM COMPARISON SUMMARY")
-print("====================================")
-print(comparison_summary)
-
-# 6. Detailed narrative comparison
-cat("\n====================================\n")
-cat("WHO IS BETTER?\n")
-cat("====================================\n\n")
-
-for(i in 1:nrow(team_power)) {
-  team <- team_power$Team[i]
-  metrics <- team_metrics %>% filter(Team == team)
-  
-  cat(sprintf("%s (#%d):\n", team, i))
-  cat(sprintf("  - Record: %d-%d (%.1f%%)\n", 
-              metrics$Wins, metrics$Losses, metrics$Win_Percentage * 100))
-  cat(sprintf("  - Quality Wins (vs Top 50): %d\n", metrics$Quality_Wins))
-  cat(sprintf("  - Bad Losses (vs 50+): %d\n", metrics$Bad_Losses))
-  cat(sprintf("  - Avg Opponent Rank: %.1f\n", metrics$Avg_Opponent_Rank))
-  cat(sprintf("  - Best Win: vs #%d\n", metrics$Biggest_Upset_Win))
-  if(!is.na(metrics$Worst_Loss) && !is.infinite(metrics$Worst_Loss)) {
-    cat(sprintf("  - Worst Loss: vs #%d\n", metrics$Worst_Loss))
-  }
-  cat(sprintf("  - Power Rating: %.2f\n\n", team_power$Power_Rating[i]))
-}
-
-```
-
-```{r}
-
-# ============================================
-# HOLISTIC TEAM COMPARISON ANALYSIS
 # (Miami, Notre Dame, Alabama)
 # ============================================
 
@@ -363,7 +212,7 @@ p1 <- ggplot(team_power, aes(x = reorder(Team, Win_Percentage), y = Win_Percenta
   theme(legend.position = "none")
 
 # Power rating comparison
-p2 <- ggplot(team_posssssssssssssssssssssssswer, aes(x = reorder(Team, Power_Rating), y = Power_Rating, fill = Team)) +
+p2 <- ggplot(team_power, aes(x = reorder(Team, Power_Rating), y = Power_Rating, fill = Team)) +
   geom_bar(stat = "identity") +
   geom_text(aes(label = sprintf("%.1f", Power_Rating)), 
             hjust = -0.1, size = 3.5) +
@@ -519,15 +368,3 @@ for(i in 1:nrow(team_power)) {
 }
 
 ```
-
-
-
-
-
-
-
-
-
-
-
-

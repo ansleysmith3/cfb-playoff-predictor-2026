@@ -1,8 +1,9 @@
 """Predict the College Football Playoff committee's top 12 and test how well that works.
 
-Two commands:
-    python -m src.model backtest   # walk-forward test on past seasons -> data/results/
-    python -m src.model predict    # rank the 2026 teams as of the latest week
+Three commands:
+    python -m src.model backtest         # walk-forward test on past seasons -> data/results/
+    python -m src.model field-backtest   # model + playoff selection rules vs. the true fields
+    python -m src.model predict          # rank the 2026 teams as of the latest week
 
 How the test is honest: to predict season Y, the model trains ONLY on seasons before Y,
 the way it would have to work in real life. We compare it with simple baselines, and
