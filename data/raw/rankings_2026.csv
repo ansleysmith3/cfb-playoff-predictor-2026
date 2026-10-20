@@ -876,3 +876,128 @@ season,seasonType,week,poll,rank,school,conference,points
 2026,regular,7,AFCA Division III Coaches Poll,23,Calvin,Michigan,117
 2026,regular,7,AFCA Division III Coaches Poll,24,Lake Forest,Midwest,74
 2026,regular,7,AFCA Division III Coaches Poll,25,Rowan,New Jersey,64
+2026,regular,8,Coaches Poll,1,Miami,ACC,1791
+2026,regular,8,Coaches Poll,2,Ohio State,Big Ten,1725
+2026,regular,8,Coaches Poll,3,BYU,Big 12,1698
+2026,regular,8,Coaches Poll,4,Georgia,SEC,1469
+2026,regular,8,Coaches Poll,5,Texas Tech,Big 12,1414
+2026,regular,8,Coaches Poll,6,Indiana,Big Ten,1378
+2026,regular,8,Coaches Poll,7,Ole Miss,SEC,1371
+2026,regular,8,Coaches Poll,8,Notre Dame,FBS Independents,1332
+2026,regular,8,Coaches Poll,9,Utah,Big 12,1222
+2026,regular,8,Coaches Poll,10,UCLA,Big Ten,1206
+2026,regular,8,Coaches Poll,11,Tennessee,SEC,1193
+2026,regular,8,Coaches Poll,12,Kentucky,SEC,979
+2026,regular,8,Coaches Poll,13,Alabama,SEC,813
+2026,regular,8,Coaches Poll,14,Iowa,Big Ten,807
+2026,regular,8,Coaches Poll,15,USC,Big Ten,796
+2026,regular,8,Coaches Poll,16,Houston,Big 12,730
+2026,regular,8,Coaches Poll,17,LSU,SEC,569
+2026,regular,8,Coaches Poll,18,Texas,SEC,520
+2026,regular,8,Coaches Poll,19,Wake Forest,ACC,514
+2026,regular,8,Coaches Poll,20,SMU,ACC,458
+2026,regular,8,Coaches Poll,21,Missouri,SEC,274
+2026,regular,8,Coaches Poll,22,Boise State,Pac-12,266
+2026,regular,8,Coaches Poll,23,Northwestern,Big Ten,256
+2026,regular,8,Coaches Poll,24,Florida,SEC,250
+2026,regular,8,Coaches Poll,25,Oregon,Big Ten,189
+2026,regular,8,AP Top 25,1,Miami,ACC,1697
+2026,regular,8,AP Top 25,2,BYU,Big 12,1675
+2026,regular,8,AP Top 25,3,Ohio State,Big Ten,1649
+2026,regular,8,AP Top 25,4,Notre Dame,FBS Independents,1395
+2026,regular,8,AP Top 25,5,Georgia,SEC,1382
+2026,regular,8,AP Top 25,6,Indiana,Big Ten,1370
+2026,regular,8,AP Top 25,7,Ole Miss,SEC,1360
+2026,regular,8,AP Top 25,8,Texas Tech,Big 12,1336
+2026,regular,8,AP Top 25,9,UCLA,Big Ten,1159
+2026,regular,8,AP Top 25,10,Utah,Big 12,1153
+2026,regular,8,AP Top 25,11,Tennessee,SEC,1151
+2026,regular,8,AP Top 25,12,Kentucky,SEC,932
+2026,regular,8,AP Top 25,13,Alabama,SEC,870
+2026,regular,8,AP Top 25,14,Houston,Big 12,785
+2026,regular,8,AP Top 25,15,Iowa,Big Ten,747
+2026,regular,8,AP Top 25,16,USC,Big Ten,592
+2026,regular,8,AP Top 25,17,Wake Forest,ACC,574
+2026,regular,8,AP Top 25,18,LSU,SEC,529
+2026,regular,8,AP Top 25,19,Texas,SEC,440
+2026,regular,8,AP Top 25,20,Florida,SEC,355
+2026,regular,8,AP Top 25,21,Boise State,Pac-12,295
+2026,regular,8,AP Top 25,22,Missouri,SEC,290
+2026,regular,8,AP Top 25,23,SMU,ACC,265
+2026,regular,8,AP Top 25,24,Northwestern,Big Ten,254
+2026,regular,8,AP Top 25,25,Arizona,Big 12,136
+2026,regular,8,FCS Coaches Poll,1,Tarleton State,UAC,648
+2026,regular,8,FCS Coaches Poll,2,Stephen F. Austin,Southland,623
+2026,regular,8,FCS Coaches Poll,3,Montana State,Big Sky,591
+2026,regular,8,FCS Coaches Poll,4,Youngstown State,MVFC,567
+2026,regular,8,FCS Coaches Poll,5,South Dakota State,MVFC,520
+2026,regular,8,FCS Coaches Poll,6,South Dakota,MVFC,491
+2026,regular,8,FCS Coaches Poll,7,Northern Arizona,Big Sky,482
+2026,regular,8,FCS Coaches Poll,8,North Dakota,MVFC,457
+2026,regular,8,FCS Coaches Poll,9,Austin Peay,UAC,452
+2026,regular,8,FCS Coaches Poll,10,Illinois State,MVFC,396
+2026,regular,8,FCS Coaches Poll,11,Tennessee Tech,Southern,380
+2026,regular,8,FCS Coaches Poll,12,Lehigh,Patriot,375
+2026,regular,8,FCS Coaches Poll,13,Mercer,Southern,305
+2026,regular,8,FCS Coaches Poll,14,Montana,Big Sky,296
+2026,regular,8,FCS Coaches Poll,15,Lamar,Southland,288
+2026,regular,8,FCS Coaches Poll,16,Campbell,Coastal Athletic,265
+2026,regular,8,FCS Coaches Poll,17,Harvard,Ivy,264
+2026,regular,8,FCS Coaches Poll,18,Monmouth,Coastal Athletic,200
+2026,regular,8,FCS Coaches Poll,19,Richmond,Patriot,152
+2026,regular,8,FCS Coaches Poll,20,East Tennessee State,Southern,144
+2026,regular,8,FCS Coaches Poll,21,UC Davis,Big Sky,124
+2026,regular,8,FCS Coaches Poll,22,Jackson State,SWAC,108
+2026,regular,8,FCS Coaches Poll,23,West Florida,UAC,57
+2026,regular,8,FCS Coaches Poll,24,SE Louisiana,Southland,39
+2026,regular,8,FCS Coaches Poll,25,South Carolina State,MEAC,37
+2026,regular,8,AFCA Division II Coaches Poll,1,Ferris State,GLIAC,750
+2026,regular,8,AFCA Division II Coaches Poll,2,Harding,Great American,719
+2026,regular,8,AFCA Division II Coaches Poll,3,Kutztown,Pennsylvania State Athletic,679
+2026,regular,8,AFCA Division II Coaches Poll,4,CSU Pueblo,Rocky Mountain,657
+2026,regular,8,AFCA Division II Coaches Poll,5,Minnesota State,Northern Sun,630
+2026,regular,8,AFCA Division II Coaches Poll,6,Western Colorado,Rocky Mountain,582
+2026,regular,8,AFCA Division II Coaches Poll,7,Slippery Rock,Pennsylvania State Athletic,573
+2026,regular,8,AFCA Division II Coaches Poll,8,Emporia State,Mid America,537
+2026,regular,8,AFCA Division II Coaches Poll,9,Davenport,GLIAC,505
+2026,regular,8,AFCA Division II Coaches Poll,10,Northwood,Great Midwest Athletic,469
+2026,regular,8,AFCA Division II Coaches Poll,11,Northwest Missouri State,Mid America,417
+2026,regular,8,AFCA Division II Coaches Poll,12,Michigan Tech,GLIAC,408
+2026,regular,8,AFCA Division II Coaches Poll,13,Central Washington,Lone Star,400
+2026,regular,8,AFCA Division II Coaches Poll,14,Findlay,Great Midwest Athletic,350
+2026,regular,8,AFCA Division II Coaches Poll,15,Carson Newman,South Atlantic,297
+2026,regular,8,AFCA Division II Coaches Poll,16,Grand Valley State,GLIAC,286
+2026,regular,8,AFCA Division II Coaches Poll,17,Valdosta State,Gulf South,263
+2026,regular,8,AFCA Division II Coaches Poll,18,North Greenville,Carolinas,209
+2026,regular,8,AFCA Division II Coaches Poll,19,Henderson State,Great American,197
+2026,regular,8,AFCA Division II Coaches Poll,20,Virginia Union,CIAA,164
+2026,regular,8,AFCA Division II Coaches Poll,21,Minnesota Duluth,Northern Sun,146
+2026,regular,8,AFCA Division II Coaches Poll,22,Wayne State (NE),Northern Sun,116
+2026,regular,8,AFCA Division II Coaches Poll,23,Benedict,SIAC,87
+2026,regular,8,AFCA Division II Coaches Poll,24,Virginia State,CIAA,74
+2026,regular,8,AFCA Division II Coaches Poll,25,West Alabama,Gulf South,51
+2026,regular,8,AFCA Division III Coaches Poll,1,Wheaton (IL),CCIW,1311
+2026,regular,8,AFCA Division III Coaches Poll,2,Wisconsin Platteville,Wisconsin,1258
+2026,regular,8,AFCA Division III Coaches Poll,3,Saint John's (MN),Minnesota,1222
+2026,regular,8,AFCA Division III Coaches Poll,4,Wisconsin Whitewater,Wisconsin,1143
+2026,regular,8,AFCA Division III Coaches Poll,5,North Central College,CCIW,1140
+2026,regular,8,AFCA Division III Coaches Poll,6,Hardin Simmons,American Southwest,1055
+2026,regular,8,AFCA Division III Coaches Poll,7,Washington St. Louis,North Coast,985
+2026,regular,8,AFCA Division III Coaches Poll,8,Christopher Newport,New Jersey,927
+2026,regular,8,AFCA Division III Coaches Poll,9,Hope,Michigan,864
+2026,regular,8,AFCA Division III Coaches Poll,10,Endicott,Commonwealth Coast,844
+2026,regular,8,AFCA Division III Coaches Poll,11,SUNY Cortland,Empire 8,803
+2026,regular,8,AFCA Division III Coaches Poll,12,John Carroll,Ohio,658
+2026,regular,8,AFCA Division III Coaches Poll,13,Wartburg,American Rivers,567
+2026,regular,8,AFCA Division III Coaches Poll,14,Mary Hardin Baylor,American Southwest,533
+2026,regular,8,AFCA Division III Coaches Poll,15,Trinity (TX),Southern Athletic,504
+2026,regular,8,AFCA Division III Coaches Poll,16,Bethel (MN),Minnesota,484
+2026,regular,8,AFCA Division III Coaches Poll,17,Wisconsin River Falls,Wisconsin,429
+2026,regular,8,AFCA Division III Coaches Poll,18,Baldwin Wallace,Ohio,424
+2026,regular,8,AFCA Division III Coaches Poll,19,Berry,Southern Athletic,419
+2026,regular,8,AFCA Division III Coaches Poll,20,Salisbury,New Jersey,366
+2026,regular,8,AFCA Division III Coaches Poll,21,Susquehanna,Landmark Conference,307
+2026,regular,8,AFCA Division III Coaches Poll,22,DePauw,North Coast,211
+2026,regular,8,AFCA Division III Coaches Poll,23,Calvin,Michigan,170
+2026,regular,8,AFCA Division III Coaches Poll,24,Lake Forest,Midwest,107
+2026,regular,8,AFCA Division III Coaches Poll,25,Ursinus,Centennial,79
